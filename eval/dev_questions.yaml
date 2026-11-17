@@ -1,0 +1,11 @@
+# Preguntas de DESARROLLO (distintas de las 12 de evaluación). Úselas para ajustar prompt/chunking
+# ANTES de fijar las configuraciones; una vez fijadas, no se cambia nada y se corre la evaluación.
+#   python -m src.evaluate dev --questions eval/dev_questions.yaml
+- id: D01
+  pregunta: "TODO: ¿Qué medios de extinción recomienda la FDS de <producto>?"
+- id: D02
+  pregunta: "TODO: ¿Cuál es la clase de transporte de <producto>?"
+- id: D03
+  pregunta: "TODO: ¿Qué productos del corpus contienen <componente>?"
+- id: D04
+  pregunta: "TODO: pregunta sin respuesta distinta de Q11/Q12"

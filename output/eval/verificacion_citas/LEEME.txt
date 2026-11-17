@@ -1,0 +1,5 @@
+Verificación visual de las citas (12 preguntas respondibles + casos del informe).
+Cada imagen PNG es un recorte de la página del PDF original donde está el dato.
+verificacion_citas.csv: lo que respondió el sistema frente a lo que dice el PDF.
+Antes de entregar: un integrante abre cada imagen, confirma y escribe su nombre en "verificado_por".
+Copiar esta carpeta a rag-fds/output/eval/verificacion_citas/.

@@ -1,0 +1,62 @@
+# Configuración única del proyecto. Todo lo que cambie aquí queda registrado
+# en los metadatos del índice y de la evaluación (hash de configuración).
+
+paths:
+  pdf_dir: data/pdfs              # data/pdfs/<carpeta, p. ej. FDS 2018>/<archivo>.pdf
+  manifest: data/manifest.csv     # procedencia y versión de cada FDS (se completa a mano lo que falte)
+  md_dir: output/md               # output/md/<doc_id>/<doc_id>.md + images/
+  index_dir: output/index
+  reports_dir: output/reports
+  eval_dir: output/eval
+
+ollama:
+  base_url: http://localhost:11434
+  timeout: 600
+
+extraction:
+  use_ocr: true                   # OCR de páginas escaneadas (Tesseract vía pymupdf4llm)
+  ocr_language: spa+eng
+  ocr_images: true                # OCR del texto visible dentro de imágenes extraídas
+  image_dpi: 150
+  min_image_side_px: 24           # ignora adornos diminutos
+  keep_headers_footers: true      # conservar encabezados (suelen traer versión y fecha)
+
+chunking:
+  chunk_size: 1200                # caracteres (~300-400 tokens)
+  chunk_overlap: 200              # caracteres de solapamiento entre fragmentos consecutivos de la MISMA sección
+  respect_sections: true          # nunca mezclar dos secciones de la FDS en un fragmento
+  keep_tables_whole: true         # una tabla no se corta salvo que supere chunk_size (se corta por filas repitiendo encabezado)
+
+embeddings:
+  # granite-embedding:278m: multilingüe (incluye español), 768 dim, 512 tokens, ~3.5x menos cómputo que bge-m3.
+  # Medido en t3.large (2 vCPU, sin GPU): bge-m3 ≈ 52 s por lote de 16 → ~5 h para ~5.300 fragmentos, inviable
+  # en una sesión de 4 h del Learner Lab. Con GPU, bge-m3 (1024 dim, 8k tokens) es la mejor opción.
+  model: granite-embedding:278m
+  batch_size: 16
+  num_thread: 2                   # Ollama usa por defecto 1 hilo por núcleo físico (t3.large = 1 núcleo, 2 hilos)
+
+retrieval:
+  top_k: 4                        # valor por defecto para consultas interactivas
+  mode: hybrid                    # hybrid (denso + BM25 con RRF) | dense | bm25
+  section_prior: true             # si la pregunta pide un dato típico de una sección (p. ej. punto de inflamación → S9), sube esa sección
+  auto_filter: true               # si la pregunta nombra producto/fabricante, restringe la búsqueda a esas FDS
+  min_score: null                 # umbral opcional de similitud; null = desactivado
+
+generator:
+  model: qwen2.5-3b-rag           # qwen2.5:3b-instruct + num_thread 2 + num_ctx 8192 (aws/modelos_cpu.sh). Con GPU: qwen2.5:7b-instruct
+  temperature: 0
+  seed: 42
+  num_ctx: 8192
+  num_predict: 700
+  num_thread: 2
+
+evaluation:
+  questions: eval/questions.yaml
+  configs:                        # SOLO cambia top_k entre configuraciones
+    A_k3: 3
+    B_k6: 6
+  evaluator_model: qwen2.5-3b-rag        # mismo evaluador para ambas configuraciones
+  evaluator_temperature: 0
+  evaluator_max_tokens: 4096
+  evaluator_mode: JSON            # modo de salida estructurada de instructor (JSON es el más robusto con Ollama)
+  retries: 2

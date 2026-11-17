@@ -1,0 +1,7 @@
+config,top_k,metrica,promedio,casos_validos,fallos_evaluacion,n
+A_k3,3,faithfulness,0.583,10,0,10
+A_k3,3,context_precision,0.983,10,0,10
+A_k3,3,context_recall,0.967,10,0,10
+B_k6,6,faithfulness,0.483,10,0,10
+B_k6,6,context_precision,0.968,10,0,10
+B_k6,6,context_recall,0.967,10,0,10

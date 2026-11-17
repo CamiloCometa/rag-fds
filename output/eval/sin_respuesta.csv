@@ -1,0 +1,5 @@
+id,config,pregunta,respuesta,reconoce_falta_evidencia_auto,inventa_informacion_manual,comentario
+Q11,A_k3,¿Cuál es el rendimiento en metros cuadrados por galón del VINILTEX PRO 650 BLANCO de Pintuco?,No hay evidencia suficiente en las FDS recuperadas para responder. [1],True,,
+Q12,A_k3,¿Cuál es el punto de inflamación del esmalte ProClassic de Sherwin-Williams?,No hay evidencia suficiente en las FDS recuperadas para responder. [1],True,,
+Q11,B_k6,¿Cuál es el rendimiento en metros cuadrados por galón del VINILTEX PRO 650 BLANCO de Pintuco?,No hay evidencia suficiente en las FDS recuperadas para responder. [1],True,,
+Q12,B_k6,¿Cuál es el punto de inflamación del esmalte ProClassic de Sherwin-Williams?,No hay evidencia suficiente en las FDS recuperadas para responder. [1],True,,

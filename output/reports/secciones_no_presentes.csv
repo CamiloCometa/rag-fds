@@ -1,0 +1,21 @@
+doc_id,seccion,estado,detalle
+fds_2018__fds_2_catalizador_epoxipoliamida,4,ausente_en_original_probable,No aparece ni en el Markdown ni en el texto del PDF; confirmar visualmente
+fds_2019__fds_29_pintura_primera_mano_acabado_corona,10,fallo_extraccion,El encabezado aparece en el texto del PDF (pág. 6: «SECCIÓN 10: ESTABILIDAD Y REACTIVIDAD») pero no se reconoció en el Markdown
+fds_2019__fds_29_pintura_primera_mano_acabado_corona,13,fallo_extraccion,El encabezado aparece en el texto del PDF (pág. 8: «SECCIÓN 13: INFORMACIÓN RELATIVA A LA ELIMINACIÓN DE LOS PRODUCTOS») pero no se reconoció en el Markdown
+fds_2020__fds_27_epoxi_100hs_s300_ca,2,fallo_extraccion,El encabezado aparece en el texto del PDF (pág. 1: «SECCION 2: Identificación de los peligros») pero no se reconoció en el Markdown
+fds_2020__fds_36_esmalte_uretano_ar_sika,11,fallo_extraccion,El encabezado aparece en el texto del PDF (pág. 8: «SECCIÓN 11: Información toxicológica») pero no se reconoció en el Markdown
+fds_2020__fds_42_pintura_lavable_antibacterial_corona,3,fallo_extraccion,El encabezado aparece en el texto del PDF (pág. 2: «SECCIÓN 3: COMPOSICIÓN/INFORMACIÓN SOBRE LOS COMPONENTES») pero no se reconoció en el Markdown
+fds_2020__fds_42_pintura_lavable_antibacterial_corona,4,fallo_extraccion,El encabezado aparece en el texto del PDF (pág. 2: «SECCIÓN 4: PRIMEROS AUXILIOS») pero no se reconoció en el Markdown
+fds_2020__fds_42_pintura_lavable_antibacterial_corona,10,fallo_extraccion,El encabezado aparece en el texto del PDF (pág. 6: «SECCIÓN 10: ESTABILIDAD Y REACTIVIDAD») pero no se reconoció en el Markdown
+fds_2021__fds_43_pintura_primera_mano_acabado_corona,10,fallo_extraccion,El encabezado aparece en el texto del PDF (pág. 6: «SECCIÓN 10: ESTABILIDAD Y REACTIVIDAD») pero no se reconoció en el Markdown
+fds_2021__fds_43_pintura_primera_mano_acabado_corona,13,fallo_extraccion,El encabezado aparece en el texto del PDF (pág. 8: «SECCIÓN 13: INFORMACIÓN RELATIVA A LA ELIMINACIÓN DE LOS PRODUCTOS») pero no se reconoció en el Markdown
+fds_2021__fds_43_pintura_primera_mano_acabado_corona,14,fallo_extraccion,El encabezado aparece en el texto del PDF (pág. 8: «SECCIÓN 14: INFORMACIÓN RELATIVA AL TRANSPORTE») pero no se reconoció en el Markdown
+fds_2021__fds_43_pintura_primera_mano_acabado_corona,16,fallo_extraccion,El encabezado aparece en el texto del PDF (pág. 9: «SECCIÓN 16: OTRAS INFORMACIONES») pero no se reconoció en el Markdown
+fds_2021__fds_44_textuco_corona,10,fallo_extraccion,El encabezado aparece en el texto del PDF (pág. 6: «SECCIÓN 10: ESTABILIDAD Y REACTIVIDAD») pero no se reconoció en el Markdown
+fds_2021__fds_44_textuco_corona,14,fallo_extraccion,El encabezado aparece en el texto del PDF (pág. 8: «SECCIÓN 14: INFORMACIÓN RELATIVA AL TRANSPORTE») pero no se reconoció en el Markdown
+fds_2021__fds_51_hs_p_p_022_pintura_acrilica_base_solvente_sapolin_inv,3,fallo_extraccion,El encabezado aparece en el texto del PDF (pág. 2: «SECCIÓN 3: COMPOSICIÓN/INFORMACIÓN SOBRE LOS COMPONENTES») pero no se reconoció en el Markdown
+fds_2022__fds_59_pintura_para_canchas_blanco_pintuland,13,fallo_extraccion,El encabezado aparece en el texto del PDF (pág. 9: «SECCIÓN 13: INFORMACIÓN RELATIVA A LA ELIMINACIÓN DE LOS PRODUCTOS») pero no se reconoció en el Markdown
+fds_2022__fds_59_pintura_para_canchas_blanco_pintuland,15,fallo_extraccion,El encabezado aparece en el texto del PDF (pág. 9: «SECCIÓN 15: INFORMACIÓN SOBRE LA REGLAMENTACIÓN») pero no se reconoció en el Markdown
+fds_2022__fds_61_pintura_senalizacion_y_demarcacion_corona,3,fallo_extraccion,El encabezado aparece en el texto del PDF (pág. 2: «SECCIÓN 3: COMPOSICIÓN/INFORMACIÓN SOBRE LOS COMPONENTES») pero no se reconoció en el Markdown
+fds_2025__fds_94_esmalte_metal_master_premium_corona,13,fallo_extraccion,El encabezado aparece en el texto del PDF (pág. 11: «SECCIÓN 13: INFORMACIÓN RELATIVA A LA ELIMINACIÓN DE LOS PRODUCTOS») pero no se reconoció en el Markdown
+fds_2025__fds_97_madetec_poliuretano_laca_semimate_incoloro_p_402_akzo,15,fallo_extraccion,El encabezado aparece en el texto del PDF (pág. 14: «Sección 15. Información Reglamentaria») pero no se reconoció en el Markdown

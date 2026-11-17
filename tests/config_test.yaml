@@ -1,0 +1,55 @@
+# Configuración única del proyecto. Todo lo que cambie aquí queda registrado
+# en los metadatos del índice y de la evaluación (hash de configuración).
+
+paths:
+  pdf_dir: tests/fixtures/pdfs
+  manifest: tests/_out/manifest.csv
+  md_dir: tests/_out/md
+  index_dir: tests/_out/index
+  reports_dir: tests/_out/reports
+  eval_dir: tests/_out/eval
+
+ollama:
+  base_url: http://localhost:11434
+  timeout: 600
+
+extraction:
+  use_ocr: true                   # OCR de páginas escaneadas (Tesseract vía pymupdf4llm)
+  ocr_language: spa+eng
+  ocr_images: true                # OCR del texto visible dentro de imágenes extraídas
+  image_dpi: 150
+  min_image_side_px: 24           # ignora adornos diminutos
+  keep_headers_footers: true      # conservar encabezados (suelen traer versión y fecha)
+
+chunking:
+  chunk_size: 1200                # caracteres (~300-400 tokens)
+  chunk_overlap: 200              # caracteres de solapamiento entre fragmentos consecutivos de la MISMA sección
+  respect_sections: true          # nunca mezclar dos secciones de la FDS en un fragmento
+  keep_tables_whole: true         # una tabla no se corta salvo que supere chunk_size (se corta por filas repitiendo encabezado)
+
+embeddings:
+  model: bge-m3                   # ollama pull bge-m3  (multilingüe, 1024 dim, 8k tokens)
+  batch_size: 16
+
+retrieval:
+  top_k: 4                        # valor por defecto para consultas interactivas
+  auto_filter: true               # si la pregunta nombra producto/fabricante, restringe la búsqueda a esas FDS
+  min_score: null                 # umbral opcional de similitud; null = desactivado
+
+generator:
+  model: qwen2.5:7b-instruct      # ollama pull qwen2.5:7b-instruct
+  temperature: 0
+  seed: 42
+  num_ctx: 8192
+  num_predict: 700
+
+evaluation:
+  questions: tests/fixtures/questions_synthetic.yaml
+  configs:                        # SOLO cambia top_k entre configuraciones
+    A_k3: 3
+    B_k6: 6
+  evaluator_model: qwen2.5:7b-instruct   # mismo evaluador para ambas configuraciones
+  evaluator_temperature: 0
+  evaluator_max_tokens: 4096
+  evaluator_mode: JSON            # modo de salida estructurada de instructor (JSON es el más robusto con Ollama)
+  retries: 2

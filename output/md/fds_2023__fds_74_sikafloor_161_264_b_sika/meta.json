@@ -1,0 +1,16 @@
+{
+ "archivo": "FDS EVALUADAS/FDS 2023/FDS 74 - Sikafloor-161-264 (B) - SIKA.pdf",
+ "doc_id": "fds_2023__fds_74_sikafloor_161_264_b_sika",
+ "fabricante": "Sika Colombia S.A.S",
+ "producto": "Sikafloor-161-264 (B)",
+ "version": "2.0",
+ "fecha_revision": "2023/07/25",
+ "carpeta": "FDS 2023",
+ "n_paginas": "12",
+ "sha256": "ed9366dc839b12b958b930e6aa5f777f1e23ede7e4acb4b5a36e1754b52bbfa8",
+ "campos_auto": "fabricante,fecha_revision,marca,producto,version",
+ "procedencia": "",
+ "fecha_recepcion": "",
+ "notas": "",
+ "marca": "SIKA"
+}

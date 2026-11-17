@@ -1,0 +1,39 @@
+{
+ "config_hash": "ccd7698268",
+ "configs": {
+  "A_k3": 3,
+  "B_k6": 6
+ },
+ "index_meta": {
+  "creado": "2026-11-17T04:18:23",
+  "config_hash": "cb93816727",
+  "chunking": {
+   "chunk_size": 1200,
+   "chunk_overlap": 200,
+   "respect_sections": true,
+   "keep_tables_whole": true
+  },
+  "embeddings": {
+   "model": "granite-embedding:278m",
+   "batch_size": 16,
+   "num_thread": 2,
+   "dim": 768,
+   "info": {
+    "model": "granite-embedding:278m",
+    "family": "bert",
+    "parameter_size": "277.45M",
+    "quantization": "F16",
+    "digest": "2026-11-17T02:53:59.287285254Z"
+   }
+  },
+  "ollama_version": "0.40.16",
+  "n_fragmentos": 5315,
+  "n_documentos": 101,
+  "longitud_caracteres": {
+   "min": 53,
+   "media": 965,
+   "max": 2609
+  },
+  "segundos_embeddings": 5044.4
+ }
+}

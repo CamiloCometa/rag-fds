@@ -1,0 +1,16 @@
+{
+ "archivo": "FDS EVALUADAS/FDS 2019/FDS 30 - ESMALTE TOP QUALITY GRIS PLATA 1799 -PINTUCO .pdf",
+ "doc_id": "fds_2019__fds_30_esmalte_top_quality_gris_plata_1799_pintuco",
+ "fabricante": "Pintuco",
+ "producto": "ESMALTE TOP QUALITY GRIS PLATA 1799",
+ "version": "3",
+ "fecha_revision": "28/01/2019",
+ "carpeta": "FDS 2019",
+ "n_paginas": "11",
+ "sha256": "c4fba0148f5dcd663ad5ecd455f359bdfeda4f5c86e495fa1a0127ec53283f25",
+ "campos_auto": "fabricante,fecha_revision,marca,producto,version",
+ "procedencia": "",
+ "fecha_recepcion": "",
+ "notas": "",
+ "marca": "PINTUCO"
+}

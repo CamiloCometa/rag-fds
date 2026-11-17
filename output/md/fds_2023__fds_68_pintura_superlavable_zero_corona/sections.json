@@ -1,0 +1,146 @@
+[
+ {
+  "num": 1,
+  "numero_en_documento": 1,
+  "titulo_en_documento": "IDENTIFICACIÓN DEL PRODUCTO",
+  "pagina": 1,
+  "linea": 16,
+  "estado": "presente",
+  "nombre_canonico": "Identificación del producto y de la empresa"
+ },
+ {
+  "num": 2,
+  "numero_en_documento": 2,
+  "titulo_en_documento": "IDENTIFICACIÓN DEL PELIGRO O PELIGROS",
+  "pagina": 1,
+  "linea": 26,
+  "estado": "presente",
+  "nombre_canonico": "Identificación de los peligros"
+ },
+ {
+  "num": 3,
+  "numero_en_documento": 3,
+  "titulo_en_documento": "COMPOSICIÓN/INFORMACIÓN SOBRE LOS COMPONENTES",
+  "pagina": 2,
+  "linea": 56,
+  "estado": "presente",
+  "nombre_canonico": "Composición / información sobre los componentes"
+ },
+ {
+  "num": 4,
+  "numero_en_documento": 4,
+  "titulo_en_documento": "PRIMEROS AUXILIOS",
+  "pagina": 2,
+  "linea": 74,
+  "estado": "presente",
+  "nombre_canonico": "Primeros auxilios"
+ },
+ {
+  "num": 5,
+  "numero_en_documento": 5,
+  "titulo_en_documento": "MEDIDAS DE LUCHA CONTRA INCENDIOS",
+  "pagina": 3,
+  "linea": 119,
+  "estado": "presente",
+  "nombre_canonico": "Medidas de lucha contra incendios"
+ },
+ {
+  "num": 6,
+  "numero_en_documento": 6,
+  "titulo_en_documento": "MEDIDAS QUE DEBEN TOMARSE EN CASO DE VERTIDO ACCIDENTAL",
+  "pagina": 3,
+  "linea": 143,
+  "estado": "presente",
+  "nombre_canonico": "Medidas en caso de vertido / liberación accidental"
+ },
+ {
+  "num": 7,
+  "numero_en_documento": 7,
+  "titulo_en_documento": "MANIPULACIÓN Y ALMACENAMIENTO",
+  "pagina": 3,
+  "linea": 165,
+  "estado": "presente",
+  "nombre_canonico": "Manipulación y almacenamiento"
+ },
+ {
+  "num": 8,
+  "numero_en_documento": 8,
+  "titulo_en_documento": "CONTROLES DE EXPOSICIÓN/PROTECCIÓN PERSONAL",
+  "pagina": 4,
+  "linea": 223,
+  "estado": "presente",
+  "nombre_canonico": "Controles de exposición / protección personal"
+ },
+ {
+  "num": 9,
+  "numero_en_documento": 9,
+  "titulo_en_documento": "PROPIEDADES FISICAS Y QUIMICAS Y CARACTERISTICAS DE SEGURIDAD 9.1 Información de propiedades físicas y químicas básicas",
+  "pagina": 5,
+  "linea": 263,
+  "estado": "presente",
+  "nombre_canonico": "Propiedades físicas y químicas"
+ },
+ {
+  "num": 10,
+  "numero_en_documento": 10,
+  "titulo_en_documento": "ESTABILIDAD Y REACTIVIDAD (continúa)  10.4 Condiciones que deben evitarse:  Aplicables para manipulación y almacenamiento a temperatura ambiente: Choq",
+  "pagina": 7,
+  "linea": 409,
+  "estado": "presente",
+  "nombre_canonico": "Estabilidad y reactividad"
+ },
+ {
+  "num": 11,
+  "numero_en_documento": 11,
+  "titulo_en_documento": "INFORMACIÓN TOXICOLÓGICA (continúa)",
+  "pagina": 8,
+  "linea": 424,
+  "estado": "presente",
+  "nombre_canonico": "Información toxicológica"
+ },
+ {
+  "num": 12,
+  "numero_en_documento": 12,
+  "titulo_en_documento": "INFORMACIÓN ECOTOXICOLÓGICA",
+  "pagina": 8,
+  "linea": 451,
+  "estado": "presente",
+  "nombre_canonico": "Información ecológica"
+ },
+ {
+  "num": 13,
+  "numero_en_documento": 13,
+  "titulo_en_documento": "INFORMACIÓN RELATIVA A LA ELIMINACIÓN DE LOS PRODUCTOS (continúa)",
+  "pagina": 9,
+  "linea": 475,
+  "estado": "presente",
+  "nombre_canonico": "Consideraciones relativas a la eliminación"
+ },
+ {
+  "num": 14,
+  "numero_en_documento": 14,
+  "titulo_en_documento": "INFORMACIÓN RELATIVA AL TRANSPORTE",
+  "pagina": 9,
+  "linea": 483,
+  "estado": "presente",
+  "nombre_canonico": "Información relativa al transporte"
+ },
+ {
+  "num": 15,
+  "numero_en_documento": 15,
+  "titulo_en_documento": "INFORMACIÓN SOBRE LA REGLAMENTACIÓN",
+  "pagina": 10,
+  "linea": 529,
+  "estado": "presente",
+  "nombre_canonico": "Información reglamentaria"
+ },
+ {
+  "num": 16,
+  "numero_en_documento": 16,
+  "titulo_en_documento": "OTRAS INFORMACIONES",
+  "pagina": 10,
+  "linea": 552,
+  "estado": "presente",
+  "nombre_canonico": "Otra información"
+ }
+]

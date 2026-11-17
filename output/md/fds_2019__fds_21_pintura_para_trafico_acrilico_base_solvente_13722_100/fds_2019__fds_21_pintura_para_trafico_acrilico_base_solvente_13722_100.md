@@ -1,0 +1,714 @@
+---
+doc_id: "fds_2019__fds_21_pintura_para_trafico_acrilico_base_solvente_13722_100"
+archivo: "FDS EVALUADAS/FDS 2019/FDS 21 - Pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687.pdf"
+carpeta: "FDS 2019"
+fabricante: "Pintuco"
+marca: ""
+producto: "Pintura para trafico acrilico base solvente 13722 10017277 10015687"
+version: "1"
+fecha_revision: ""
+n_paginas: "12"
+sha256: "842f520284a0977810411481b185d6e423bc02bbe70afa5b4ff7699214ca3cc3"
+paginas_escaneadas: []
+---
+
+<!-- pagina: 1 -->
+Ficha de datos de seguridad según Decreto 1496 de 2018 
+
+**PINTURA PARA TRAFICO ACRILICO BASE SOLVENTE BLANCO 13722 10017277-10015687** 
+
+
+![imagen pág. 1](images/FDS_21_-_Pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687.pdf-0001-02.png)
+
+> Imagen (pág. 1). OCR automático, revisar: «ad El S El Color de la Calidad” Pintuco»
+
+
+# <mark>SECCIÓN 1: IDENTIFICACIÓN DEL PRODUCTO</mark> 
+
+- **1.1 Identificador SGA del producto:** PINTURA PARA TRAFICO ACRILICO BASE SOLVENTE BLANCO 13722 10017277-10015687 
+
+- **1.2 Uso recomendado del producto químico y restricciones:** 
+
+   - Usos pertinentes: Pintura para señalización de tráfico. Uso exclusivo usuario profesional. 
+
+Usos desaconsejados: Todo aquel uso no especificado en este epígrafe ni en el epígrafe 7.3 
+
+**1.3 Datos sobre el proveedor:** Pintuco Autopista Medellín Bogotá Km 37 Vía Belén Rionegro Km 1 054040 Rionegro - Antioquia - Colombia Tfno.: 57 4 569 81 00 contacto@pintuco.com http://www.pintuco.com **1.4 Número de teléfono para emergencias:** 57 4 561 22 23 
+
+# <mark>SECCIÓN 2: IDENTIFICACIÓN DEL PELIGRO O PELIGROS</mark> 
+
+- **2.1 Clasificación de la sustancia o de la mezcla: SGA:** 
+
+La clasificación del producto se ha realizado conforme con al decreto 1496 de 2018, por el cual se adopta el Sistema Globalmente Armonizado de Clasificación y Etiquetado de Productos Químicos y se dictan otras disposiciones en materia de seguridad química. Irrit. Cut. 2: Irritación cutánea, categoría 2, H315 Liq. Infl. 2: Líquidos inflamables, Categoría 2, H225 STOT unica 3: Toxicidad específica con efectos de somnolencia y vértigo (exposición única), Categoría 3, H336 Tox. Asp. 1: Peligro por aspiración, Categoría 1, H304 
+
+- **2.2 Elementos de las etiquetas del SGA, incluidos los consejos de prudencia: SGA: Peligro** 
+
+**Indicaciones de peligro:** Irrit. Cut. 2: H315 - Provoca irritación cutánea Liq. Infl. 2: H225 - Líquido y vapores muy inflamables STOT unica 3: H336 - Puede provocar somnolencia o vértigo Tox. Asp. 1: H304 - Puede ser mortal en caso de ingestión y de penetración en las vías respiratorias 
+
+**Consejos de prudencia:** P201: Procurarse las instrucciones antes del uso P210: Mantener alejado del calor, superficies calientes, chispas llamas al descubierto y otras fuentes de ignición. No fumar P280: Usar guantes/ropa de protección/equipo de protección para los ojos/la cara P302+P352: EN CASO DE CONTACTO CON LA PIEL: Lavar con abundante agua P304+P340: EN CASO DE INHALACIÓN: Transportar a la persona al aire libre y mantenerla en una posición que le facilite la respiración P308+P313: EN CASO DE exposición demostrada o supuesta: consultar a un médico P370+P378: En caso de incendio: Utilizar extintor de polvo ABC para la extinción P501: Eliminar el contenido/recipiente de acuerdo con la normativa sobre residuos peligrosos o envases y residuos de envases respectivamente **Sustancias que contribuyen a la clasificación** Acetato de etilo **2.3 Otros peligros que no conducen a una clasificación:** No relevante 
+
+- CONTINÚA EN LA SIGUIENTE PÁGINA - 
+
+Emisión: 28/01/2019            Versión: 1 
+
+**Página 1/12** 
+
+<!-- pagina: 2 -->
+Ficha de datos de seguridad 
+
+según Decreto 1496 de 2018 
+
+**PINTURA PARA TRAFICO ACRILICO BASE SOLVENTE BLANCO 13722 10017277-10015687** 
+
+
+![imagen pág. 2](images/FDS_21_-_Pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687.pdf-0002-03.png)
+
+> Imagen (pág. 2). OCR automático, revisar: «ad El S El Color de la Calidad” Pintuco»
+
+
+# <mark>SECCIÓN 3: COMPOSICIÓN/INFORMACIÓN SOBRE LOS COMPONENTES</mark> 
+
+- **3.1 Sustancias:** No aplicable 
+
+- **3.2 Mezclas:** 
+
+**Descripción química:** Mezcla a base de productos químicos 
+
+## **Componentes:** 
+
+De acuerdo al Decreto 1496 de 2018, el producto presenta: 
+
+||Identificación||Nombre químico/clasificación|Concentración|
+|---|---|---|---|---|
+|CAS:|108-88-3|**Tolueno**||**10 - <25 %**|
+|CAS:|13463-67-7|**Dioxido de titanio**||**2.5 - <10 %**|
+|CAS:|141-78-6|**Acetato de etilo**||**2.5 - <10 %**|
+|CAS:|110-19-0|**Acetato de isobutilo**||**1 - <2.5 %**|
+|CAS:|14808-60-7|**Cuarzo (1 % < RCS < 10 %)**||**<1 %**|
+
+
+Para ampliar información sobre la peligrosidad de la sustancias consultar las secciones 8, 11, 12, 15 y 16. La clasificación respecto Carcinogenicidad de las sustancias se ha establecido en función de las monografías de la IARC adecuandola al sistema de clasificación SGA, para información sobre la clasificación IARC consulte la sección 11. 
+
+# <mark>SECCIÓN 4: PRIMEROS AUXILIOS</mark> 
+
+- **4.1 Descripción de los primeros auxilios necesarios:** 
+
+Los síntomas como consecuencia de una intoxicación pueden presentarse con posterioridad a la exposición, por lo que, en caso de duda, exposición directa al producto químico o persistencia del malestar solicitar atención médica, mostrándole la FDS de este producto. 
+
+## **Por inhalación:** 
+
+Sacar al afectado del lugar de exposición, suministrarle aire limpio y mantenerlo en reposo. En casos graves como parada cardiorespiratoria, se aplicarán técnicas de respiración artificial (respiración boca a boca, masaje cardíaco, suministro de oxígeno,etc.) requiriendo asistencia médica inmediata. 
+
+## **Por contacto con la piel:** 
+
+Quitar la ropa y los zapatos contaminados, aclarar la piel o duchar al afectado si procede con abundante agua fría y jabón neutro. En caso de afección importante acudir al médico. Si el producto produce quemaduras o congelación, no se debe quitar la ropa debido a que podría empeorar la lesión producida si esta se encuentra pegada a la piel. En el caso de formarse ampollas en la piel, éstas nunca deben reventarse ya que aumentaría el riesgo de infección. 
+
+## **Por contacto con los ojos:** 
+
+Enjuagar los ojos con abundante agua a temperatura ambiente al menos durante 15 minutos. Evitar que el afectado se frote o cierre los ojos. En el caso de que el accidentado use lentes de contacto, éstas deben retirarse siempre que no estén pegadas a los ojos, de otro modo podría producirse un daño adicional. En todos los casos, después del lavado, se debe acudir al médico lo más rápidamente posible con la FDS del producto. 
+
+## **Por ingestión/aspiración:** 
+
+Requerir asistencia médica inmediata, mostrándole la FDS de este producto. No inducir al vómito, en el caso de que se produzca mantener inclinada la cabeza hacia delante para evitar la aspiración. En el caso de pérdida de consciencia no administrar nada por vía oral hasta la supervisión del médico. Enjuagar la boca y la garganta, ya que existe la posibilidad de que hayan sido afectadas en la ingestión. Mantener al afectado en reposo. 
+
+- **4.2 Síntomas/efectos más importantes, agudos o retardados:** 
+
+Los efectos agudos y retardados son los indicados en las secciones 2 y 11. 
+
+- **4.3 Indicación de la necesidad de recibir atención médica inmediata y, en su caso, de tratamiento especial:** No relevante 
+
+# <mark>SECCIÓN 5: MEDIDAS DE LUCHA CONTRA INCENDIOS</mark> 
+
+- **5.1 Medios de extinción apropiados:** 
+
+- CONTINÚA EN LA SIGUIENTE PÁGINA - 
+
+Emisión: 28/01/2019            Versión: 1 
+
+**Página 2/12** 
+
+<!-- pagina: 3 -->
+Ficha de datos de seguridad según Decreto 1496 de 2018 
+
+**PINTURA PARA TRAFICO ACRILICO BASE SOLVENTE BLANCO 13722 10017277-10015687** 
+
+
+![imagen pág. 3](images/FDS_21_-_Pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687.pdf-0003-02.png)
+
+> Imagen (pág. 3). OCR automático, revisar: «ad El S El Color de la Calidad” Pintuco»
+
+
+# <mark>SECCIÓN 5: MEDIDAS DE LUCHA CONTRA INCENDIOS (continúa)</mark> 
+
+Emplear preferentemente extintores de polvo polivalente (polvo ABC), alternativamente utilizar espuma física o extintores de dióxido de carbono (CO2). NO SE RECOMIENDA emplear agua a chorro como agente de extinción. 
+
+- **5.2 Peligros específicos del producto químico:** 
+
+   - Como consecuencia de la combustión o descomposición térmica se generan subproductos de reacción que pueden resultar altamente tóxicos y, consecuentemente, pueden presentar un riesgo elevado para la salud. 
+
+- **5.3 Medidas especiales que deben tomar los equipos de lucha contra incendios:** 
+
+En función de la magnitud del incendio puede hacerse necesario el uso de ropa protectora completa y equipo de respiración autónomo. Disponer de un mínimo de instalaciones de emergencia o elementos de actuación (mantas ignífugas, botiquín portátil,...). 
+
+## **Disposiciones adicionales:** 
+
+Actuar conforme el Plan de Emergencia Interior y las Fichas Informativas sobre actuación ante accidentes y otras emergencias. Suprimir cualquier fuente de ignición. En caso de incendio, refrigerar los recipientes y tanques de almacenamiento de productos susceptibles a inflamación, explosión como consecuencia de elevadas temperaturas. Evitar el vertido de los productos empleados en la extinción del incendio al medio acuático. 
+
+# <mark>SECCIÓN 6: MEDIDAS QUE DEBEN TOMARSE EN CASO DE VERTIDO ACCIDENTAL</mark> 
+
+- **6.1 Precauciones personales, equipo protector y procedimiento de emergencia:** 
+
+   - Aislar las fugas siempre y cuando no suponga un riesgo adicional para las personas que desempeñen esta función. Evacuar la zona y mantener a las personas sin protección alejadas. Ante el contacto potencial con el producto derramado se hace obligatorio el uso de elementos de protección personal (ver sección 8). Evitar de manera prioritaria la formación de mezclas vapor-aire inflamables, ya sea mediante ventilación o el uso de un agente inertizante. Suprimir cualquier fuente de ignición. Eliminar las cargas electroestáticas mediante la interconexión de todas las superficies conductoras sobre las que se puede formar electricidad estática, y estando a su vez el conjunto conectado a tierra. 
+
+- **6.2 Precauciones relativas al medio ambiente:** 
+
+   - Producto no clasificado como peligroso para el medioambiente. Mantener el producto alejado de los desagües y de las aguas superficiales y subterráneas. 
+
+- **6.3 Métodos y materiales para la contención y limpieza de vertidos:** 
+
+   - Se recomienda: 
+
+Absorber el vertido mediante arena o absorbente inerte y trasladarlo a un lugar seguro. No absorber en serrín u otros absorbentes combustibles. Para cualquier consideración relativa a la eliminación consultar la sección 13. 
+
+- **6.4 Referencias a otras secciones:** 
+
+Ver secciones 8 y 13. 
+
+# <mark>SECCIÓN 7: MANIPULACIÓN Y ALMACENAMIENTO</mark> 
+
+- **7.1 Precauciones que se deben tomar para garantizar una manipulación segura:** 
+
+   - A.- Precauciones generales 
+
+Cumplir con la legislación vigente en materia de prevención de riesgos laborales. Mantener los recipientes herméticamente cerrados. Controlar los derrames y residuos, eliminándolos con métodos seguros (sección 6). Evitar el vertido libre desde el recipiente. Mantener orden y limpieza donde se manipulen productos peligrosos. 
+
+- B.- Recomendaciones técnicas para la prevención de incendios y explosiones. 
+
+Trasvasar en lugares bien ventilados, preferentemente mediante extracción localizada. Controlar totalmente los focos de ignición (teléfonos móviles, chispas,…) y ventilar en las operaciones de limpieza. Evitar la existencia de atmósferas peligrosas en el interior de recipientes, aplicando en lo posible sistemas de inertización. Trasvasar a velocidades lentas para evitar la generación de cargas electroestáticas. Ante la posibilidad de existencia de cargas electroestáticas: asegurar una perfecta conexión equipotencial, utilizar siempre tomas de tierras, no emplear ropa de trabajo de fibras acrílicas, empleando preferiblemente ropa de algodón y calzado conductor. Cumplir con los requisitos esenciales de seguridad para equipos  y con las disposiciones mínimas para la protección de la seguridad y salud de los trabajadores. Consultar la sección 10 sobre condiciones y materias que deben evitarse. 
+
+- C.- Recomendaciones técnicas para prevenir riesgos ergonómicos y toxicológicos. 
+
+Manipular en lugares fijos que reúnan las debidas condiciones de seguridad (duchas de emergencia y lavaojos en las proximidades), empleando equipos de protección personal, en especial de cara y manos (ver sección 8). Limitar los trasvases manuales a recipientes de pequeñas cantidad. No comer, beber ni fumar en las zonas de trabajo; lavarse las manos después de cada utilización, y despojarse de prendas de vestir y equipos de protección contaminados antes de entrar en las zonas para comer. 
+
+- D.- Recomendaciones técnicas para prevenir riesgos medioambientales 
+
+- CONTINÚA EN LA SIGUIENTE PÁGINA - 
+
+Emisión: 28/01/2019            Versión: 1 
+
+**Página 3/12** 
+
+<!-- pagina: 4 -->
+Ficha de datos de seguridad según Decreto 1496 de 2018 
+
+**PINTURA PARA TRAFICO ACRILICO BASE SOLVENTE BLANCO 13722 10017277-10015687** 
+
+
+![imagen pág. 4](images/FDS_21_-_Pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687.pdf-0004-02.png)
+
+> Imagen (pág. 4). OCR automático, revisar: «ad El S El Color de la Calidad” Pintuco»
+
+
+# <mark>SECCIÓN 7: MANIPULACIÓN Y ALMACENAMIENTO (continúa)</mark> 
+
+Se recomienda disponer de material absorbente en las proximidades del producto (ver epígrafe 6.3) 
+
+- **7.2 Condiciones de almacenamiento seguro, incluidas cualesquiera incompatibilidades:** 
+
+   - A.- Medidas técnicas de almacenamiento 
+
+Tª mínima: 5 ºC Tª máxima: 30 ºC Tiempo máximo: 18 meses 
+
+- B.- Condiciones generales de almacenamiento. 
+
+Evitar fuentes de calor, radiación, electricidad estática y el contacto con alimentos. Para información adicional ver epígrafe 10.5 
+
+- **7.3 Usos específicos finales:** 
+
+Salvo las indicaciones ya especificadas no es preciso realizar ninguna recomendación especial en cuanto a los usos de este producto. 
+
+# <mark>SECCIÓN 8: CONTROLES DE EXPOSICIÓN/PROTECCIÓN PERSONAL</mark> 
+
+## **8.1 Parámetros de control:** 
+
+Sustancias cuyos valores límite de exposición profesional han de controlarse en el ambiente de trabajo (ACGIH): 
+
+||Identificación||Valores límite ambie|ntales|
+|---|---|---|---|---|
+|Tolueno||TLV-TWA|20 ppm||
+|CAS: 108-88-3||TLV-STEL|||
+|Dioxido de titanio||TLV-TWA||10 mg/m³|
+|CAS: 13463-67-7||TLV-STEL|||
+|Acetato de etilo||TLV-TWA|150ppm||
+|CAS: 141-78-6||TLV-STEL|||
+|Acetato de isobutilo||TLV-TWA|150 ppm||
+|CAS: 110-19-0||TLV-STEL|||
+|Cuarzo (1 % < RCS < 10 %)||TLV-TWA||0,025 mg/m³|
+|CAS: 14808-60-7||TLV-STEL|||
+
+
+- **8.2 Controles técnicos apropiados:** 
+
+   - A.- Medidas de protección individual, como equipo de protección personal (EPP) 
+
+De acuerdo al orden de prioridad para el control de la exposición profesional se recomienda la extracción localizada en la zona de trabajo como medida de protección colectiva para evitar sobrepasar los límites de exposición profesional. Para más información sobre los equipos de protección individual (almacenamiento, uso, limpieza, mantenimiento, clase de protección,…) consultar el folleto informativo facilitado por el fabricante del EPP.Las indicaciones contenidas en este punto se refieren al producto puro. Las medidas de protección para el producto diluido podrán variar en función de su grado de dilución, uso, método de aplicación, etc. Para determinar la obligación de instalación de duchas de emergencia y/o lavaojos en los almacenes se tendrá en cuenta la normativa referente al almacenamiento de productos químicos aplicable en cada caso. Para más información Ver epígrafes 7.1 y 7.2. 
+
+Toda la información aquí incluida es una recomendación siendo necesario su concreción por parte de los servicios de prevención de riesgos laborales al desconocer las medidas de prevención adicionales que la empresa pudiese disponer. 
+
+- B.- Protección respiratoria. 
+
+
+![imagen pág. 4](images/FDS_21_-_Pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687.pdf-0004-21.png)
+
+> Imagen (pág. 4). OCR automático, revisar: «EPP Observaciones Máscara con filtros para gases y vapores Proteccion obligatoria del las vias respiratorias Reemplazar cuando se detecte olor o sabor del contaminante en el interior de la mascara o adaptador facial. Cuando el contaminante no tiene buenas propiedades de aviso se recomienda el uso de equipos aislantes. Protección específica de las manos. EPP Observaciones Guantes de protección química Proteccion obligatoria de la ‘manos Eltiempo de paso (Breakthrough Time) indicado por el fabricante ha de ser superior al del tiempo de uso del producto. No emplear cremas protectoras despues del contacto del producto con la piel Dado que el producto es una mezcla de diferentes materiales, la resistencia del material de los guantes no se puede calcular de antemano con total fiabilidad y por lo tanto tiene que ser controlados antes de su aplicación.»
+
+
+<!-- Start of picture text -->
+Pictograma  EPP  Observaciones<br>Máscara con filtros para gases y vapores  Reemplazar cuando se detecte olor o sabor del contaminante en el interior de la<br>máscara o adaptador facial. Cuando el contaminante no tiene buenas propiedades<br>de aviso se recomienda el uso de equipos aislantes.<br>Proteccion<br>obligatoria del las<br>vias respiratorias<br>C.- Protección específica de las manos.<br>Pictograma  EPP  Observaciones<br>Guantes de protección química  El tiempo de paso (Breakthrough Time) indicado por el fabricante ha de ser superior<br>al del tiempo de uso del producto. No emplear cremas protectoras despues del<br>contacto del producto con la piel.<br>Proteccion<br>obligatoria de la<br>manos<br>Dado que el producto es una mezcla de diferentes materiales, la resistencia del material de los guantes no se puede calcular de<br>antemano con total fiabilidad y por lo tanto tiene que ser controlados antes de su aplicación.<br><!-- End of picture text -->
+
+C.- Protección específica de las manos. 
+
+- CONTINÚA EN LA SIGUIENTE PÁGINA - 
+
+Emisión: 28/01/2019            Versión: 1 
+
+**Página 4/12** 
+
+<!-- pagina: 5 -->
+Ficha de datos de seguridad según Decreto 1496 de 2018 
+
+**PINTURA PARA TRAFICO ACRILICO BASE SOLVENTE BLANCO 13722 10017277-10015687** 
+
+
+![imagen pág. 5](images/FDS_21_-_Pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687.pdf-0005-02.png)
+
+> Imagen (pág. 5). OCR automático, revisar: «ad El S El Color de la Calidad” Pintuco»
+
+
+# <mark>SECCIÓN 8: CONTROLES DE EXPOSICIÓN/PROTECCIÓN PERSONAL (continúa)</mark> 
+
+
+![imagen pág. 5](images/FDS_21_-_Pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687.pdf-0005-04.png)
+
+> Imagen (pág. 5). OCR automático, revisar: «D.- Protección ocular y facial Pictograma EPP Observaciones & Proteccion obligatoria de la cara Gafas de seguridad Limpiar a diario y desinfectar periódicamente de acuerdo a las instrucciones del fabricante. Se recomienda su uso en caso de riesgo de salpicaduras. E.- Protección corporal Pictograma EPP Observaciones => Proteccion obligatoria del cuerpo Prenda de protección frente a riesgos químicos, antiestática e ignífuga Uso exclusivo en el trabajo. Limpiar periódicamente de acuerdo a las instrucciones del fabricante. S Proteccion obligatoria de los pies Calzado de seguridad contra riesgo químico, con propiedades antiestáticas y resistencia al calor Reemplazar las botas ante cualquier indicio de deterioro. Medidas complementarias de emergencia Medida de emergencia Normas. Medida de emergencia Normas Ducha de emergencia ANSI Z358-1 ISO 3864-1:2002 Qt DIN 12 899 ISO 3864-1:2002 Lavaojos Controles de la exposición del medio ambiente: En virtud de la legislación comunitaria de protección del medio ambiente se recomienda evitar el vertido tanto del producto como de su envase al medio ambiente. Para información adicional ver epígrafe 7.1.D»
+
+
+<!-- Start of picture text -->
+D.- Protección ocular y facial<br>Pictograma  EPP  Observaciones<br>Limpiar a diario y desinfectar periódicamente de acuerdo a las instrucciones del<br>Gafas de seguridad  fabricante. Se recomienda su uso en caso de riesgo de salpicaduras.<br>Proteccion<br>obligatoria de la cara<br>E.- Protección corporal<br>Pictograma  EPP  Observaciones<br>Prenda de protección frente a riesgos químicos,  Uso exclusivo en el trabajo. Limpiar periódicamente de acuerdo a las instrucciones<br>antiestática e ignífuga  del fabricante.<br>Proteccion<br>obligatoria del<br>cuerpo<br>Calzado de seguridad contra riesgo químico, con  Reemplazar las botas ante cualquier indicio de deterioro.<br>propiedades antiestáticas y resistencia al calor<br>Proteccion<br>obligatoria de los<br>pies<br>F.- Medidas complementarias de emergencia<br>Medida de emergencia  Normas  Medida de emergencia  Normas<br>ANSI Z358-1  DIN 12 899<br>ISO 3864-1:2002  ISO 3864-1:2002<br>Ducha de emergencia  Lavaojos<br>Controles de la exposición del medio ambiente:<br>En virtud de la legislación comunitaria de protección del medio ambiente se recomienda evitar el vertido tanto del producto como de<br>su envase al medio ambiente. Para información adicional ver epígrafe 7.1.D<br><!-- End of picture text -->
+
+# <mark>SECCIÓN 9: PROPIEDADES FÍSICAS Y QUÍMICAS Y CARACTERÍSTICAS DE SEGURIDAD</mark> 
+
+
+![imagen pág. 5](images/FDS_21_-_Pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687.pdf-0005-06.png)
+
+> Imagen (pág. 5). OCR automático, revisar: «9.1 Información de propiedades físicas y químicas básicas: Para completar la información ver la ficha técnica/hoja de especificaciones del producto. Aspecto físico: Estado físico a 20 Aspecto: Color: Olor: Umbral olfativo: Volatilidad: Temperatura de ebullición a presión atmosférica: Presión de vapor a 20 °C: Presión de vapor a 50 °C: Tasa de evaporación a 20 °C: Caracterización del producto: Densidad a 20 °C: Densidad relativa a 20 °C: Viscosidad dinamica a 20 °C: Viscosidad cinematica a 20 Líquido Fluido Ll] Blanco Característico No relevante * 106 °C 3278 Pa 105,68 (14,09 kPa) No relevante * 1356 - 1556 kg/m? 1,356 - 1,556 No relevante * No relevante *»
+
+
+<!-- Start of picture text -->
+9.1  Información de propiedades físicas y químicas básicas:<br>Para completar la información ver la ficha técnica/hoja de especificaciones del producto.<br>Aspecto físico:<br>Estado físico a 20 ºC:  Líquido<br>Aspecto:  Fluido<br>Color:  Blanco<br>Olor:  Característico<br>Umbral olfativo:  No relevante *<br>Volatilidad:<br>Temperatura de ebullición a presión atmosférica:  106 ºC<br>Presión de vapor a 20 ºC:  3278 Pa<br>Presión de vapor a 50 ºC:  105,68  (14,09 kPa)<br>Tasa de evaporación a 20 ºC:  No relevante *<br>Caracterización del producto:<br>Densidad a 20 ºC:  1356 - 1556 kg/m³<br>Densidad relativa a 20 ºC:  1,356 - 1,556<br>Viscosidad dinámica a 20 ºC:  No relevante *<br>Viscosidad cinemática a 20 ºC:  No relevante *<br><!-- End of picture text -->
+
+*No relevante debido a la naturaleza del producto, no aportando información característica de su peligrosidad. 
+
+- CONTINÚA EN LA SIGUIENTE PÁGINA - 
+
+Emisión: 28/01/2019            Versión: 1 
+
+**Página 5/12** 
+
+<!-- pagina: 6 -->
+Ficha de datos de seguridad según Decreto 1496 de 2018 
+
+
+![imagen pág. 6](images/FDS_21_-_Pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687.pdf-0006-01.png)
+
+> Imagen (pág. 6). OCR automático, revisar: «ad El S El Color de la Calidad” Pintuco»
+
+
+# **PINTURA PARA TRAFICO ACRILICO BASE SOLVENTE BLANCO 13722 10017277-10015687** 
+
+# <mark>SECCIÓN 9: PROPIEDADES FÍSICAS Y QUÍMICAS Y CARACTERÍSTICAS DE SEGURIDAD (continúa)</mark> 
+
+||Viscosidad cinemática a 40 ºC:|<20,5 cSt|
+|---|---|---|
+||Concentración:|No relevante *|
+||pH:|No relevante *|
+||Densidad de vapor a 20 ºC:|No relevante *|
+||Coeficiente de reparto n-octanol/agua a 20 ºC:|No relevante *|
+||Solubilidad en agua a 20 ºC:|No relevante *|
+||Propiedad de solubilidad:|No relevante *|
+||Temperatura de descomposición:|No relevante *|
+||Punto de fusión/punto de congelación:|No relevante *|
+||Propiedades explosivas:|No relevante *|
+||Propiedades comburentes:|No relevante *|
+||**Inflamabilidad:**||
+||Punto de inflamación:|12 ºC|
+||Inflamabilidad (sólido, gas):|No relevante *|
+||Temperatura de auto-inflamación:|423 ºC|
+||Límite de inflamabilidad inferior:|No determinado|
+||Límite de inflamabilidad superior:|No determinado|
+||**Explosividad:**||
+||Límite inferior de explosividad:|No relevante *|
+||Límite superior de explosividad:|No relevante *|
+|**9.2**|**Información adicional:**||
+||Tensión superficial a 20 ºC:|No relevante *|
+||Índice de refracción:|No relevante *|
+
+
+*No relevante debido a la naturaleza del producto, no aportando información característica de su peligrosidad. 
+
+# <mark>SECCIÓN 10: ESTABILIDAD Y REACTIVIDAD</mark> 
+
+- **10.1 Reactividad:** 
+
+   - No se esperan reacciones peligrosas si se cumplen las instrucciones técnicas de almacenamiento de productos químicos. Ver sección 7. 
+
+|**10.2**<br>**10.3**<br>**10.4**|**Estabilidad química:**<br>Estable químicamente bajo<br>**Posibilidad de reacciones**<br>Bajo las condiciones indicad<br>**Condiciones que deben ev**<br>Aplicables para manipulació<br>|las condiciones indicadas<br>**peligrosas:**<br>as no se esperan reaccio<br>**itarse:**<br>n y almacenamiento a te<br>|de almacenamiento, manip<br>nes peligrosas que puedan<br>mperatura ambiente:<br>|ulación y uso.<br>producir una presión o te<br>|mperaturas excesivas.<br>|
+|---|---|---|---|---|---|
+||Choque y fricción|Contacto con el aire|Calentamiento|Luz Solar|Humedad|
+||No aplicable|No aplicable|Riesgo de inflamación|Evitar incidencia directa|No aplicable|
+|**10.5**|<br>**Materiales incompatibles:**<br>|<br> <br>|<br>||<br>|
+||Ácidos|Agua|Materias comburentes|Materias combustibles|Otros|
+||Evitar ácidos fuertes|No aplicable|Evitar incidencia directa|No aplicable|Evitar alcalis o bases fuertes|
+|**10.6**|<br>**Productos de descomposi**<br>Ver epígrafe 10.3, 10.4 y 10<br>de descomposición, como c<br>carbono (CO2), monóxido d|<br>**ción peligrosos:**<br>.5 para conocer los produ<br>onsecuencia de la misma<br>e carbono y otros compue|<br>ctos de descomposición es<br>pueden liberarse mezclas c<br>stos orgánicos.|<br>pecíficamente. En depen<br>omplejas de sustancias q|<br>dencia de las condiciones<br>uímicas: dióxido de|
+
+
+# <mark>SECCIÓN 11: INFORMACIÓN TOXICOLÓGICA</mark> 
+
+- CONTINÚA EN LA SIGUIENTE PÁGINA - 
+
+Emisión: 28/01/2019            Versión: 1 
+
+**Página 6/12** 
+
+<!-- pagina: 7 -->
+Ficha de datos de seguridad según Decreto 1496 de 2018 
+
+**PINTURA PARA TRAFICO ACRILICO BASE SOLVENTE BLANCO 13722 10017277-10015687** 
+
+
+![imagen pág. 7](images/FDS_21_-_Pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687.pdf-0007-02.png)
+
+> Imagen (pág. 7). OCR automático, revisar: «ad El S El Color de la Calidad” Pintuco»
+
+
+# <mark>SECCIÓN 11: INFORMACIÓN TOXICOLÓGICA (continúa)</mark> 
+
+## **11.1 Información sobre las posibles vías de exposición:** 
+
+No se dispone de datos experimentales del producto en si mismos relativos a las propiedades toxicológicas 
+
+## **Efectos peligrosos para la salud:** 
+
+En caso de exposición repetitiva, prolongada o a concentraciones superiores a las establecidas por los límites de exposición profesionales, pueden producirse efectos adversos para la salud en función de la vía de exposición: A- Ingestión (efecto agudo): 
+
+- Toxicidad aguda: A la vista de los datos disponibles, no se cumplen los criterios de clasificación. Para más información ver sección 3. -   Corrosividad/Irritabilidad: La ingesta de una dosis considerable puede originar irritación de garganta, dolor abdominal, náuseas y vómitos. 
+
+B- Inhalación (efecto agudo): 
+
+- Toxicidad aguda: A la vista de los datos disponibles, no se cumplen los criterios de clasificación, no presentando sustancias clasificadas como peligrosas por inhalación. Para más información ver sección 3. -   Corrosividad/Irritabilidad: A la vista de los datos disponibles, no se cumplen los criterios de clasificación, no presentando sustancias clasificadas como peligrosas por este efecto. Para más información ver sección 3. 
+
+- C- Contacto con la piel y los ojos (efecto agudo): 
+
+   - Contacto con la piel: Produce inflamación cutánea. -   Contacto con los ojos: A la vista de los datos disponibles, no se cumplen los criterios de clasificación. Para más información ver sección 3. 
+
+- D- Efectos CMR (carcinogenicidad, mutagenicidad y toxicidad para la reproducción): 
+
+   - Carcinogenicidad: No se cumplen criterios de clasificación. Para más información sobre posibles efectos específicos sobre la salud ver sección 2. IARC: Tolueno (3); Cuarzo (1 % < RCS < 10 %) (1); Dioxido de titanio (2B) 
+
+   - -   Mutagenicidad: A la vista de los datos disponibles, no se cumplen los criterios de clasificación, no presentando sustancias clasificadas como peligrosas por este efecto. Para más información ver sección 3. -   Toxicidad para la reproducción: No se cumplen criterios de clasificación. 
+
+- E- Efectos de sensibilización: 
+
+- Respiratoria: A la vista de los datos disponibles, no se cumplen los criterios de clasificación, no presentando sustancias clasificadas como peligrosas con efectos sensibilizantes. Para más información ver secciónes 2, 3 y 15. -   Cutánea: A la vista de los datos disponibles, no se cumplen los criterios de clasificación, no presentando sustancias clasificadas como peligrosas por este efecto. Para más información ver sección 3. 
+
+- F- Toxicidad específica en determinados órganos (STOT)-exposición única: 
+
+Una exposición a altas concentraciones pueden motivar depresión del sistema nervioso central ocasionando dolor de cabeza, mareos, vértigos, nauseas, vómitos, confusión y en caso de afección grave, pérdida de conciencia. 
+
+- G- Toxicidad específica en determinados órganos (STOT)-exposición repetida: 
+
+   - Toxicidad específica en determinados órganos (STOT)-exposición repetida: Efectos nocivos para la salud en caso de ingestión, contacto con la piel o inhalación de forma repetitiva, produciendo depresión del sistema nervioso central ocasionando dolor de cabeza, mareos, vértigos, nauseas, vómitos, confusión y en caso de afección grave, pérdida de conciencia. -   Piel: A la vista de los datos disponibles, no se cumplen los criterios de clasificación, no presentando sustancias clasificadas como peligrosas por este efecto. Para más información ver sección 3. 
+
+- H- Peligro por aspiración: 
+
+La ingesta de una dosis considerable puede producir daño pulmonar. 
+
+## **Información adicional:** 
+
+CAS 13463-67-7 Dióxido de Titanio: IARC lista esta sustancia como un posible carcinógeno humano (grupo 2B), indicando que hay suficientes evidencias para considerarlo carcinógeno en animales pero insuficientes para considerarlo como carcinógeno para seres humanos. 
+
+La monografía de IARC para esta sustancia indica que no hay exposición significativa al dióxido de titanio durante el uso normal de productos en los que dióxido de titanio está unido permanentemente a otros materiales, tales como pinturas (Ref: Monografía IARC, Vol. 93, 2010). 
+
+El lijado repetido de las superficies de película seca puede producir riesgo de sobreexposición al polvo dependiendo de la duración y nivel de lijado, para evitarla deben tomarse las medidas de protección adecuadas. 
+
+## **Información toxicológica específica de las sustancias:** 
+
+- CONTINÚA EN LA SIGUIENTE PÁGINA - 
+
+Emisión: 28/01/2019            Versión: 1 
+
+**Página 7/12** 
+
+<!-- pagina: 8 -->
+Ficha de datos de seguridad según Decreto 1496 de 2018 
+
+
+![imagen pág. 8](images/FDS_21_-_Pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687.pdf-0008-01.png)
+
+> Imagen (pág. 8). OCR automático, revisar: «ad El S El Color de la Calidad” Pintuco»
+
+
+# **PINTURA PARA TRAFICO ACRILICO BASE SOLVENTE BLANCO 13722 10017277-10015687** 
+
+# <mark>SECCIÓN 11: INFORMACIÓN TOXICOLÓGICA (continúa)</mark> 
+
+|Identificación|Tox|icidad aguda|Género|
+|---|---|---|---|
+|Tolueno|DL50 oral|5580 mg/kg|Rata|
+|CAS: 108-88-3|DL50 cutánea|12124 mg/kg|Rata|
+||CL50 inhalación|28,1 mg/L (4 h)|Rata|
+|Dioxido de titanio|DL50 oral|10000 mg/kg|Rata|
+|CAS: 13463-67-7|DL50 cutánea|10000 mg/kg|Conejo|
+||CL50 inhalación|No relevante||
+|Acetato de etilo|DL50 oral|4100 mg/kg|Rata|
+|CAS: 141-78-6|DL50 cutánea|20000 mg/kg|Conejo|
+||CL50 inhalación|No relevante||
+|Acetato de isobutilo|DL50 oral|13413 mg/kg|Rata|
+|CAS: 110-19-0|DL50 cutánea|17400 mg/kg|Conejo|
+||CL50 inhalación|No relevante||
+
+
+# <mark>SECCIÓN 12: INFORMACIÓN ECOTOXICOLÓGICA</mark> 
+
+No se disponen de datos experimentales de la mezcla en sí misma relativos a las propiedades ecotoxicológicas. **12.1 Toxicidad:** 
+
+||Identificación|||Toxicidad aguda|Especie|Género|
+|---|---|---|---|---|---|---|
+||Tolueno||CL50|13 mg/L (96 h)|Carassius auratus|Pez|
+||CAS: 108-88-3||CE50|11,5 mg/L (48 h)|Daphnia magna|Crustáceo|
+||||CE50|125 mg/L (48 h)|Scenedesmus subspicatus|Alga|
+||Acetato de etilo||CL50|230 mg/L (96 h)|Pimephales promelas|Pez|
+||CAS: 141-78-6||CE50|717 mg/L (48 h)|Daphnia magna|Crustáceo|
+||||CE50|3300 mg/L (48 h)|Scenedesmus subspicatus|Alga|
+||Acetato de isobutilo||CL50|120 mg/L (48 h)|Leuciscus idus|Pez|
+||CAS: 110-19-0||CE50|168 mg/L (24 h)|Daphnia magna|Crustáceo|
+||||CE50|80 mg/L (8 h)|Scenedesmus quadricauda|Alga|
+|**12.2**|**Persistencia y degradabilidad:**||||||
+||Identificación||De|gradabilidad|Biodegradabilidad||
+||Tolueno||DBO5|2.5 g O2/g|Concentración<br>100 mg|/L|
+||CAS: 108-88-3||DQO|No relevante|Periodo<br>14 días||
+||||DBO5/DQO|No relevante|% Biodegradado<br>100 %||
+||Acetato de etilo||DBO5|1.36 g O2/g|Concentración<br>100 mg|/L|
+||CAS: 141-78-6||DQO|1.69 g O2/g|Periodo<br>14 días||
+||||DBO5/DQO|0.81|% Biodegradado<br>83 %||
+||Acetato de isobutilo||DBO5|No relevante|Concentración<br>No rele|vante|
+||CAS: 110-19-0||DQO|No relevante|Periodo<br>20 días||
+||||DBO5/DQO|No relevante|% Biodegradado<br>81 %||
+|**12.3**|**Potencial de bioacumulación:**||||||
+|||Identificación|||Potencial de bioacumulaci|ón|
+||Tolueno||||BCF<br>13||
+||CAS: 108-88-3||||Log POW<br>2,73||
+||||||Potencial<br>Bajo||
+||Acetato de etilo||||BCF<br>30||
+||CAS: 141-78-6||||Log POW<br>0,73||
+||||||Potencial<br>Moderado||
+||Acetato de isobutilo||||BCF<br>10||
+||CAS: 110-19-0||||Log POW<br>1,78||
+||||||Potencial<br>Bajo||
+|**12.4**|**Movilidad en el suelo:**||||||
+
+
+- CONTINÚA EN LA SIGUIENTE PÁGINA - 
+
+Emisión: 28/01/2019            Versión: 1 
+
+**Página 8/12** 
+
+<!-- pagina: 9 -->
+Ficha de datos de seguridad según Decreto 1496 de 2018 
+
+
+![imagen pág. 9](images/FDS_21_-_Pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687.pdf-0009-01.png)
+
+> Imagen (pág. 9). OCR automático, revisar: «ad El S El Color de la Calidad” Pintuco»
+
+
+# **PINTURA PARA TRAFICO ACRILICO BASE SOLVENTE BLANCO 13722 10017277-10015687** 
+
+# <mark>SECCIÓN 12: INFORMACIÓN ECOTOXICOLÓGICA (continúa)</mark> 
+
+|Identificación|Absorci|ón/Desorción|V|olatilidad|
+|---|---|---|---|---|
+|Tolueno|Koc|178|Henry|672,8 Pa·m³/mol|
+|CAS: 108-88-3|Conclusión|Moderado|Suelo seco|Sí|
+||Tensión superficial|2,793E-2 N/m  (25 ºC)|Suelo húmedo|Sí|
+|Acetato de etilo|Koc|59|Henry|13,58 Pa·m³/mol|
+|CAS: 141-78-6|Conclusión|Muy Alto|Suelo seco|Sí|
+||Tensión superficial|2,324E-2 N/m  (25 ºC)|Suelo húmedo|Sí|
+|Acetato de isobutilo|Koc|No relevante|Henry|No relevante|
+|CAS: 110-19-0|Conclusión|No relevante|Suelo seco|No relevante|
+||Tensión superficial|2,297E-2 N/m  (25 ºC)|Suelo húmedo|No relevante|
+
+
+- **12.5 Resultados de la valoración PBT y mPmB:** 
+
+   - No aplicable 
+
+- **12.6 Otros efectos adversos:** 
+
+   - No descritos 
+
+# <mark>SECCIÓN 13: INFORMACIÓN RELATIVA A LA ELIMINACIÓN DE LOS PRODUCTOS</mark> 
+
+- **13.1 Métodos de eliminación:** 
+
+## **Gestión del residuo (eliminación y valorización):** 
+
+Consultar al gestor de residuos autorizado las operaciones de valorización y eliminación. En el caso de que el envase haya estado en contacto directo con el producto se gestionará del mismo modo que el propio producto, en caso contrario se gestionará como residuo no peligroso. Se desaconseja su vertido a cursos de agua. Ver epígrafe 6.2. 
+
+## **Disposiciones legislativas relacionadas con la gestión de residuos:** 
+
+Legislación relacionada con la gestión de residuos: 
+
+Decreto 4741 de 2005, Por el cual se reglamenta parcialmente la prevención y el manejo de los residuos o desechos peligrosos generados en el marco de la gestión integral 
+
+# <mark>SECCIÓN 14: INFORMACIÓN RELATIVA AL TRANSPORTE</mark> 
+
+
+![imagen pág. 9](images/FDS_21_-_Pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687.pdf-0009-17.png)
+
+> Imagen (pág. 9). OCR automático, revisar: «Transporte terrestre de mercancías peligrosas: En aplicación a la norma técnica colombiana 1692: 14.1 Numero ONU: UN1263 14.2 Designación oficial de PINTURA transporte de las Naciones Unidas: 14.3. Clase(s) relativas al transporte: 3 Etiquetas: 3 14.4 Grupo de embalaje/envasado si Il se aplica: 14.5 Riesgos ambientales: No 14.6 Precauciones especiales para el usu: Propiedades físico-químicas: ver epígrafe 9 14.7 Transporte a granel con No relevante arreglo al anexo II de MARPOL 73/78 y al Código IBC:»
+
+
+<!-- Start of picture text -->
+Transporte terrestre de mercancías peligrosas:<br>En aplicación a la norma técnica colombiana 1692:<br>14.1  Número ONU:  UN1263<br>14.2  Designación oficial de  PINTURA<br>transporte de las Naciones<br>Unidas:<br>14.3  Clase(s) relativas al transporte:  3<br>Etiquetas:  3<br>14.4  Grupo de embalaje/envasado si  II<br>se aplica:<br>14.5  Riesgos ambientales:  No<br>14.6  Precauciones especiales para el usuario<br>Propiedades físico-químicas:  ver epígrafe 9<br>14.7  Transporte a granel con  No relevante<br>arreglo al anexo II de MARPOL<br>73/78 y al Código IBC:<br><!-- End of picture text -->
+
+
+<!-- Start of picture text -->
+Transporte marítimo de mercancías peligrosas:<br><!-- End of picture text -->
+
+En aplicación al IMDG 38-16: 
+
+- CONTINÚA EN LA SIGUIENTE PÁGINA - 
+
+Emisión: 28/01/2019            Versión: 1 
+
+**Página 9/12** 
+
+<!-- pagina: 10 -->
+Ficha de datos de seguridad 
+
+según Decreto 1496 de 2018 
+
+**PINTURA PARA TRAFICO ACRILICO BASE SOLVENTE BLANCO 13722 10017277-10015687** 
+
+
+![imagen pág. 10](images/FDS_21_-_Pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687.pdf-0010-03.png)
+
+> Imagen (pág. 10). OCR automático, revisar: «ad El S El Color de la Calidad” Pintuco»
+
+
+# <mark>SECCIÓN 14: INFORMACIÓN RELATIVA AL TRANSPORTE (continúa)</mark> 
+
+||**14.3**<br>**14.2**<br>**14.1**|**Clase(s) relativas al transporte:**<br>**Designación oficial de**<br>**transporte de las Naciones**<br>**Unidas:**<br>**Número ONU:**|3<br>PINTURA<br>UN1263|
+|---|---|---|---|
+||**14.4**|**Grupo de embalaje/envasado si**<br>**se aplica:**<br>Etiquetas:|II<br>3|
+||**14.5**|**Riesgos ambientales:**|No|
+||**14.6**|**Precauciones especiales para el**|**usuario**|
+|||Propiedades físico-químicas:|ver epígrafe 9|
+|**Transporte aére**<br>En aplicación al I|**14.7**<br>**o de m**<br>ATA/OA<br>|**Transporte a granel con**<br>**arreglo al anexo II de MARPOL**<br>**73/78 y al Código IBC:**<br>**ercancías peligrosas:**<br>CI 2018:<br>|No relevante<br>|
+||**14.2**<br>**14.1**|**Designación oficial de**<br>**transporte de las Naciones**<br>**Unidas:**<br>**Número ONU:**|PINTURA<br>UN1263|
+||**14.3**|**Clase(s) relativas al transporte:**|3|
+|||Etiquetas:|3|
+||**14.4**|**Grupo de embalaje/envasado si**<br>**se aplica:**|II|
+||**14.5**|**Riesgos ambientales:**|No|
+||**14.6**|**Precauciones especiales para el**|**usuario**|
+|||Propiedades físico-químicas:|ver epígrafe 9|
+||**14.7**|**Transporte a granel con**<br>**arreglo al anexo II de MARPOL**<br>**73/78 y al Código IBC:**|No relevante|
+
+
+# <mark>SECCIÓN 15: INFORMACIÓN SOBRE LA REGLAMENTACIÓN</mark> 
+
+- **15.1 Disposiciones específicas sobre seguridad, salud y medio ambiente para el producto de que se trate:** 
+
+NTP (National Toxicology Program): No relevante 
+
+## **Disposiciones particulares en materia de protección de las personas o el medio ambiente:** 
+
+Se recomienda emplear la información recopilada en esta hoja de datos de seguridad de materiales como datos de entrada en una evaluación de riesgos de las circunstancias locales con el objeto de establecer las medidas necesarias de prevención de riesgos para el manejo, utilización, almacenamiento y eliminación de este producto. 
+
+**Otras legislaciones:** 
+
+- CONTINÚA EN LA SIGUIENTE PÁGINA - 
+
+Emisión: 28/01/2019            Versión: 1 
+
+**Página 10/12** 
+
+<!-- pagina: 11 -->
+Ficha de datos de seguridad según Decreto 1496 de 2018 
+
+**PINTURA PARA TRAFICO ACRILICO BASE SOLVENTE BLANCO 13722 10017277-10015687** 
+
+
+![imagen pág. 11](images/FDS_21_-_Pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687.pdf-0011-02.png)
+
+> Imagen (pág. 11). OCR automático, revisar: «ad El S El Color de la Calidad” Pintuco»
+
+
+<mark>SECCIÓN 15: INFORMACIÓN SOBRE LA REGLAMENTACIÓN (continúa)</mark> 
+
+Resolución 0312 de 2019 - por la cual se definen los Estándares Mínimos del Sistema de Gestión de Seguridad y Salud en el Trabajo SG-SST. CONPES 3868 - Política de gestión del riesgo asociado al uso de sustancias químicas. Decreto 1079 de 2015 - decreto único reglamentario del sector transporte NTC 1692 -Transporte de mercancías peligrosas. Definiciones, clasificación, marcado, etiquetado y rotulado NTC 4532- Transporte de mercancías peligrosas. Tarjetas de emergencia para transporte de materiales. Elaboración Decreto número 4741 de 2005 Decreto 1299 de 2008 -Reglamenta departamento de gestión ambiental de empresas a nivel industrial estado Decreto 321 de 1999  - Adopta el Plan Nacional de Contingencia contra derrames de hidrocarburos, derivados y sustancias nocivas. NTC 4702 - 1 -Embalaje y Envases para Transporte de Mercancías Peligrosas Clase 1. Explosivos NTC 4702 - 2 - Embalaje y Envases para Transporte de Mercancías Peligrosas Clase 2. Gases NTC 4702 - 3 - Embalaje y Envases para Transporte de Mercancías Peligrosas Clase 3. Líquidos Inflamables NTC 4702 - 4 - Embalaje y Envases para Transporte de Mercancías Peligrosas Clase 4. Sólidos Inflamables, Sustancias que presentan riesgo de combustión espontánea, sustancias que en contacto con el agua desprenden gases inflamables. NTC 4702 - 5 - Embalaje y Envases para Transporte de Mercancías Peligrosas Clase 5. Sustancias Comburentes y Peróxidos Orgánicos NTC 4702 - 6 - Embalaje y Envases para Transporte de Mercancías Peligrosas Clase 6. Sustancias Tóxicas e Infecciosas NTC 4702 - 8 - Embalaje y Envases para Transporte de Mercancías Peligrosas Clase 8. Sustancias Corrosivas NTC 4702 - 9 - Embalaje y Envases para Transporte de Mercancías Peligrosas Clase 9. Sustancias Peligrosas varias 
+
+# <mark>SECCIÓN 16: OTRAS INFORMACIONES</mark> 
+
+## **Legislación aplicable a fichas de datos de seguridad:** 
+
+Esta hoja de datos de seguridad de materiales se ha desarrollado de acuerdo a la norma técnica colombiana NTC 4435:2010 **Textos de las frases legislativas contempladas en la sección 2:** H315: Provoca irritación cutánea H336: Puede provocar somnolencia o vértigo H304: Puede ser mortal en caso de ingestión y de penetración en las vías respiratorias H225: Líquido y vapores muy inflamables 
+
+## **Textos de las frases legislativas contempladas en la sección 3:** 
+
+Las frases indicadas no se refieren al producto en sí, son sólo a título informativo y hacen referencia a los componentes individuales que aparecen en la sección 3 **SGA:** 
+
+Acuatico agudo. 3: H402 - Nocivo para los organismos acuáticos Irrit. Cut. 2: H315 - Provoca irritación cutánea Irrit. oc. 2: H319 - Provoca irritación ocular grave Liq. Infl. 2: H225 - Líquido y vapores muy inflamables STOT unica 3: H336 - Puede provocar somnolencia o vértigo Tox. Agud. 5: H303 - Puede ser nocivo en caso de ingestión Tox. Asp. 1: H304 - Puede ser mortal en caso de ingestión y de penetración en las vías respiratorias 
+
+## **Consejos relativos a la formación:** 
+
+Se recomienda formación mínima en materia de prevención de riesgos laborales al personal que va a manipular este producto, con la finalidad de facilitar la comprensión e interpretación de esta hoja de datos de seguridad de materiales, así como del etiquetado del producto. 
+
+**Principales fuentes bibliográficas:** Instituto Colombiano de Normas Técnicas y Certificación (ICONTEC) IARC:Agencia Internacional para la Investigación sobre Cáncer OSHA:Occupational Safety and Health Administration, U.S Department of Labor NTP:National Toxicology Program TOXNET: Toxicology data network **Abreviaturas y acrónimos:** 
+
+- CONTINÚA EN LA SIGUIENTE PÁGINA - 
+
+Emisión: 28/01/2019            Versión: 1 
+
+**Página 11/12** 
+
+<!-- pagina: 12 -->
+Ficha de datos de seguridad según Decreto 1496 de 2018 
+
+
+![imagen pág. 12](images/FDS_21_-_Pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687.pdf-0012-01.png)
+
+> Imagen (pág. 12). OCR automático, revisar: «ad El S El Color de la Calidad” Pintuco»
+
+
+# **PINTURA PARA TRAFICO ACRILICO BASE SOLVENTE BLANCO 13722 10017277-10015687** 
+
+<mark>SECCIÓN 16: OTRAS INFORMACIONES (continúa)</mark> 
+
+IMDG: Código Marítimo Internacional de Mercancías Peligrosas IATA: Asociación Internacional de Transporte Aéreo OACI: Organización de Aviación Civil Internacional DQO:Demanda Quimica de oxígeno DBO5:Demanda biológica de oxígeno a los 5 días BCF: factor de bioconcentración DL50: dosis letal 50 CL50: concentración letal 50 EC50: concentración efectiva 50 Log POW: logaritmo coeficiente partición octanol-agua Koc: coeficiente de partición del carbono orgánico 
+
+
+![imagen pág. 12](images/FDS_21_-_Pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687.pdf-0012-05.png)
+
+> Imagen (pág. 12). OCR automático, revisar: «ae NE II DE»
+
+
+La información contenida en esta ficha de datos de seguridad está fundamentada en fuentes, conocimientos técnicos y legislación vigente a nivel europeo y estatal, no pudiendo garantizar la exactitud de la misma. Esta información no es posible considerarla como una garantía de las propiedades del producto, se trata simplemente de una descripción en cuanto a los requerimientos en materia de seguridad. La metodología y condiciones de trabajo de los usuarios de este producto se encuentran fuera de nuestro conocimiento y control, siendo siempre responsabilidad última del usuario tomar las medidas necesarias para adecuarse a las exigencias legislativas en cuanto a manipulación, almacenamiento, uso y eliminación de productos químicos. La información de esta ficha de datos de seguridad de materiales únicamente se refiere a este producto, el cual no debe emplearse con fines distintos a los que se especifican. 
+
+FIN DE LA FICHA DE DATOS DE SEGURIDAD 
+
+Emisión: 28/01/2019            Versión: 1 
+
+**Página 12/12** 

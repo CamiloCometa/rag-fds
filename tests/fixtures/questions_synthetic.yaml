@@ -1,0 +1,179 @@
+- id: Q01
+  tipo: directa
+  pregunta: ¿Cuál es el punto de inflamación del Esmalte Sintético Blanco?
+  productos:
+  - fds_2024__fds_6_esmalte_sintetico_blanco
+  secciones:
+  - 9
+  referencia: 38 °C (ASTM D93).
+  evidencia:
+  - doc_id: fds_2024__fds_6_esmalte_sintetico_blanco
+    pagina: 2
+    seccion: 9
+    fragmento: Punto de inflamación|38 °C|ASTM D93
+  verificado_por: test
+- id: Q02
+  tipo: directa
+  pregunta: ¿Qué número CAS tiene el etilenglicol del Vinilo Tipo 1 Blanco?
+  productos:
+  - fds_2023__fds_2_vinilo_tipo_1_colorsur
+  secciones:
+  - 3
+  referencia: 107-21-1.
+  evidencia:
+  - doc_id: fds_2023__fds_2_vinilo_tipo_1_colorsur
+    pagina: 1
+    seccion: 3
+    fragmento: Etilenglicol|107-21-1|1 - 3
+  verificado_por: test
+- id: Q03
+  tipo: directa
+  pregunta: ¿Qué protección respiratoria indica la FDS del Esmalte Sintético Blanco?
+  productos:
+  - fds_2024__fds_6_esmalte_sintetico_blanco
+  secciones:
+  - 8
+  referencia: Respirador con filtro para vapores orgánicos tipo A.
+  evidencia:
+  - doc_id: fds_2024__fds_6_esmalte_sintetico_blanco
+    pagina: 2
+    seccion: 8
+    fragmento: respirador con filtro para vapores orgánicos tipo A
+  verificado_por: test
+- id: Q04
+  tipo: directa
+  pregunta: ¿Cuál es el contenido de COV del Vinilo Tipo 1 Blanco?
+  productos:
+  - fds_2023__fds_2_vinilo_tipo_1_colorsur
+  secciones:
+  - 9
+  referencia: 380 g/L (EPA 24).
+  evidencia:
+  - doc_id: fds_2023__fds_2_vinilo_tipo_1_colorsur
+    pagina: 2
+    seccion: 9
+    fragmento: COV|380 g/L|EPA 24
+  verificado_por: test
+- id: Q05
+  tipo: directa
+  pregunta: ¿Qué consejos de prudencia lista el Esmalte Sintético Blanco?
+  productos:
+  - fds_2024__fds_6_esmalte_sintetico_blanco
+  secciones:
+  - 2
+  referencia: P210, P280, P302+P352.
+  evidencia:
+  - doc_id: fds_2024__fds_6_esmalte_sintetico_blanco
+    pagina: 1
+    seccion: 2
+    fragmento: P210, P280, P302+P352
+  verificado_por: test
+- id: Q06
+  tipo: directa
+  pregunta: ¿Cuál es la densidad relativa del Esmalte Sintético Blanco?
+  productos:
+  - fds_2024__fds_6_esmalte_sintetico_blanco
+  secciones:
+  - 9
+  referencia: 1,32 g/cm³ a 25 °C.
+  evidencia:
+  - doc_id: fds_2024__fds_6_esmalte_sintetico_blanco
+    pagina: 2
+    seccion: 9
+    fragmento: 1,32 g/cm³
+  verificado_por: test
+- id: Q07
+  tipo: integracion
+  pregunta: Compara el punto de inflamación del Esmalte Sintético Blanco y el Vinilo
+    Tipo 1 Blanco
+  productos:
+  - fds_2024__fds_6_esmalte_sintetico_blanco
+  - fds_2023__fds_2_vinilo_tipo_1_colorsur
+  secciones:
+  - 9
+  referencia: 'Esmalte: 38 °C; Vinilo: No inflamable (> 100 °C).'
+  evidencia:
+  - doc_id: fds_2024__fds_6_esmalte_sintetico_blanco
+    pagina: 2
+    seccion: 9
+    fragmento: 38 °C
+  - doc_id: fds_2023__fds_2_vinilo_tipo_1_colorsur
+    pagina: 2
+    seccion: 9
+    fragmento: No inflamable (> 100 °C)
+  verificado_por: test
+- id: Q08
+  tipo: integracion
+  pregunta: Para el Esmalte Sintético Blanco, relacione el disolvente de la composición
+    con su límite de exposición
+  productos:
+  - fds_2024__fds_6_esmalte_sintetico_blanco
+  secciones:
+  - 3
+  - 8
+  referencia: Varsol 20-30 %, TLV-TWA 100 ppm.
+  evidencia:
+  - doc_id: fds_2024__fds_6_esmalte_sintetico_blanco
+    pagina: 1
+    seccion: 3
+    fragmento: Varsol (nafta de petróleo)|64742-88-7|20 - 30
+  - doc_id: fds_2024__fds_6_esmalte_sintetico_blanco
+    pagina: 2
+    seccion: 8
+    fragmento: TLV-TWA 100 ppm
+  verificado_por: test
+- id: Q09
+  tipo: integracion
+  pregunta: Compara el contenido de dióxido de titanio en ambos productos
+  productos:
+  - fds_2024__fds_6_esmalte_sintetico_blanco
+  - fds_2023__fds_2_vinilo_tipo_1_colorsur
+  secciones:
+  - 3
+  referencia: 10 - 25 % en ambos.
+  evidencia:
+  - doc_id: fds_2024__fds_6_esmalte_sintetico_blanco
+    pagina: 1
+    seccion: 3
+    fragmento: Dióxido de titanio|13463-67-7|10 - 25
+  - doc_id: fds_2023__fds_2_vinilo_tipo_1_colorsur
+    pagina: 1
+    seccion: 3
+    fragmento: Dióxido de titanio|13463-67-7|10 - 25
+  verificado_por: test
+- id: Q10
+  tipo: integracion
+  pregunta: ¿Qué clasificación de peligro y pictograma tiene el Vinilo Tipo 1 Blanco?
+  productos:
+  - fds_2023__fds_2_vinilo_tipo_1_colorsur
+  secciones:
+  - 2
+  referencia: Líquido inflamable Cat. 3 (H226), irritación cutánea Cat. 2 (H315).
+  evidencia:
+  - doc_id: fds_2023__fds_2_vinilo_tipo_1_colorsur
+    pagina: 1
+    seccion: 2
+    fragmento: Líquido inflamable Cat. 3 (H226)
+  verificado_por: test
+- id: Q11
+  tipo: sin_respuesta
+  pregunta: ¿Cuál es la LD50 oral en ratas del Vinilo Tipo 1 Blanco? (dato que no
+    existe)
+  productos:
+  - fds_2023__fds_2_vinilo_tipo_1_colorsur
+  secciones:
+  - 11
+  referencia: ''
+  evidencia: []
+  verificado_por: test
+- id: Q12
+  tipo: sin_respuesta
+  pregunta: ¿Qué información ecológica da el Vinilo Tipo 1 Blanco sobre toxicidad
+    en peces? (no existe)
+  productos:
+  - fds_2023__fds_2_vinilo_tipo_1_colorsur
+  secciones:
+  - 12
+  referencia: ''
+  evidencia: []
+  verificado_por: test

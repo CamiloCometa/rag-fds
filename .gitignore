@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+tests/_out/
+tests/fixtures/pdfs/
+output/index/
+.DS_Store

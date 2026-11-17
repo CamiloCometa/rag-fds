@@ -1,0 +1,140 @@
+[
+ {
+  "num": 1,
+  "numero_en_documento": 1,
+  "titulo_en_documento": "IDENTIFICACIÓN DEL PRODUCTO",
+  "pagina": 1,
+  "linea": 15,
+  "estado": "presente",
+  "nombre_canonico": "Identificación del producto y de la empresa"
+ },
+ {
+  "num": 2,
+  "numero_en_documento": 2,
+  "titulo_en_documento": "IDENTIFICACIÓN DEL PELIGRO O PELIGROS",
+  "pagina": 1,
+  "linea": 19,
+  "estado": "presente",
+  "nombre_canonico": "Identificación de los peligros"
+ },
+ {
+  "num": 3,
+  "numero_en_documento": 3,
+  "titulo_en_documento": "COMPOSICIÓN/INFORMACIÓN SOBRE LOS COMPONENTES",
+  "pagina": 1,
+  "linea": 40,
+  "estado": "presente",
+  "nombre_canonico": "Composición / información sobre los componentes"
+ },
+ {
+  "num": 4,
+  "numero_en_documento": 4,
+  "titulo_en_documento": "PRIMEROS AUXILIOS",
+  "pagina": 2,
+  "linea": 65,
+  "estado": "presente",
+  "nombre_canonico": "Primeros auxilios"
+ },
+ {
+  "num": 5,
+  "numero_en_documento": 5,
+  "titulo_en_documento": "MEDIDAS DE LUCHA CONTRA INCENDIOS",
+  "pagina": 2,
+  "linea": 75,
+  "estado": "presente",
+  "nombre_canonico": "Medidas de lucha contra incendios"
+ },
+ {
+  "num": 6,
+  "numero_en_documento": 6,
+  "titulo_en_documento": "MEDIDAS QUE DEBEN TOMARSE EN CASO DE VERTIDO ACCIDENTAL  6.1 Precauciones personales, equipo protector y procedimiento de emergencia: Para el personal",
+  "pagina": 3,
+  "linea": 118,
+  "estado": "presente",
+  "nombre_canonico": "Medidas en caso de vertido / liberación accidental"
+ },
+ {
+  "num": 7,
+  "numero_en_documento": 7,
+  "titulo_en_documento": "MANIPULACIÓN Y ALMACENAMIENTO  7.1 Precauciones que se deben tomar para garantizar una manipulación segura:  A.- Preca",
+  "pagina": 3,
+  "linea": 126,
+  "estado": "presente",
+  "nombre_canonico": "Manipulación y almacenamiento"
+ },
+ {
+  "num": 8,
+  "numero_en_documento": 8,
+  "titulo_en_documento": "CONTROLES DE EXPOSICIÓN/PROTECCIÓN PERSONAL",
+  "pagina": 4,
+  "linea": 167,
+  "estado": "presente",
+  "nombre_canonico": "Controles de exposición / protección personal"
+ },
+ {
+  "num": 9,
+  "numero_en_documento": 9,
+  "titulo_en_documento": "PROPIEDADES FÍSICAS Y QUÍMICAS Y CARACTERÍSTICAS DE SEGURIDAD",
+  "pagina": 5,
+  "linea": 233,
+  "estado": "presente",
+  "nombre_canonico": "Propiedades físicas y químicas"
+ },
+ {
+  "num": 10,
+  "numero_en_documento": 10,
+  "titulo_en_documento": "ESTABILIDAD Y REACTIVIDAD",
+  "pagina": 6,
+  "linea": 299,
+  "estado": "presente",
+  "nombre_canonico": "Estabilidad y reactividad"
+ },
+ {
+  "num": 11,
+  "numero_en_documento": 11,
+  "titulo_en_documento": "INFORMACIÓN TOXICOLÓGICA",
+  "pagina": 7,
+  "linea": 355,
+  "estado": "presente",
+  "nombre_canonico": "Información toxicológica"
+ },
+ {
+  "num": 12,
+  "numero_en_documento": 12,
+  "titulo_en_documento": "INFORMACIÓN ECOTOXICOLÓGICA",
+  "pagina": 8,
+  "linea": 438,
+  "estado": "presente",
+  "nombre_canonico": "Información ecológica"
+ },
+ {
+  "num": 13,
+  "estado": "fallo_extraccion",
+  "detalle": "El encabezado aparece en el texto del PDF (pág. 9: «SECCIÓN 13: INFORMACIÓN RELATIVA A LA ELIMINACIÓN DE LOS PRODUCTOS») pero no se reconoció en el Markdown",
+  "nombre_canonico": "Consideraciones relativas a la eliminación"
+ },
+ {
+  "num": 14,
+  "numero_en_documento": 14,
+  "titulo_en_documento": "INFORMACIÓN RELATIVA AL TRANSPORTE Este producto no está regulado para su transporte   ———   SECCIÓN 15: INFORMACIÓN SOBRE LA REGLAMENTACIÓN",
+  "pagina": 9,
+  "linea": 482,
+  "estado": "presente",
+  "nombre_canonico": "Información relativa al transporte"
+ },
+ {
+  "num": 15,
+  "estado": "fallo_extraccion",
+  "detalle": "El encabezado aparece en el texto del PDF (pág. 9: «SECCIÓN 15: INFORMACIÓN SOBRE LA REGLAMENTACIÓN») pero no se reconoció en el Markdown",
+  "nombre_canonico": "Información reglamentaria"
+ },
+ {
+  "num": 16,
+  "numero_en_documento": 16,
+  "titulo_en_documento": "OTRAS INFORMACIONES",
+  "pagina": 10,
+  "linea": 525,
+  "estado": "presente",
+  "nombre_canonico": "Otra información"
+ }
+]

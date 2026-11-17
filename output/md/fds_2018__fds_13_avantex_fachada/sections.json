@@ -1,0 +1,146 @@
+[
+ {
+  "num": 1,
+  "numero_en_documento": 1,
+  "titulo_en_documento": "IDENTIFICACION DEL FABRICANTE Y DE LA SUSTANCIA QUIMICA",
+  "pagina": 1,
+  "linea": 18,
+  "estado": "presente",
+  "nombre_canonico": "Identificación del producto y de la empresa"
+ },
+ {
+  "num": 2,
+  "numero_en_documento": 3,
+  "titulo_en_documento": "IDENTIFICACIÓN DE RIESGOS",
+  "pagina": 1,
+  "linea": 38,
+  "estado": "presente",
+  "nombre_canonico": "Identificación de los peligros"
+ },
+ {
+  "num": 3,
+  "numero_en_documento": 2,
+  "titulo_en_documento": "COMPOSICIÓN, INFORMACIÓN SOBRE INGREDIENTES",
+  "pagina": 1,
+  "linea": 28,
+  "estado": "presente",
+  "nombre_canonico": "Composición / información sobre los componentes"
+ },
+ {
+  "num": 4,
+  "numero_en_documento": 4,
+  "titulo_en_documento": "PRIMEROS AUXILIOS",
+  "pagina": 1,
+  "linea": 69,
+  "estado": "presente",
+  "nombre_canonico": "Primeros auxilios"
+ },
+ {
+  "num": 5,
+  "numero_en_documento": 5,
+  "titulo_en_documento": "COMBATE DE INCENDIOS",
+  "pagina": 2,
+  "linea": 98,
+  "estado": "presente",
+  "nombre_canonico": "Medidas de lucha contra incendios"
+ },
+ {
+  "num": 6,
+  "numero_en_documento": 6,
+  "titulo_en_documento": "LIBERACIONES ACCIDENTALES",
+  "pagina": 2,
+  "linea": 120,
+  "estado": "presente",
+  "nombre_canonico": "Medidas en caso de vertido / liberación accidental"
+ },
+ {
+  "num": 7,
+  "numero_en_documento": 7,
+  "titulo_en_documento": "MANEJO Y ALMACENAJE",
+  "pagina": 2,
+  "linea": 130,
+  "estado": "presente",
+  "nombre_canonico": "Manipulación y almacenamiento"
+ },
+ {
+  "num": 8,
+  "numero_en_documento": 8,
+  "titulo_en_documento": "CONTROLES DE EXPOSICIÓN, PROTECCIÓN PERSONAL",
+  "pagina": 2,
+  "linea": 140,
+  "estado": "presente",
+  "nombre_canonico": "Controles de exposición / protección personal"
+ },
+ {
+  "num": 9,
+  "numero_en_documento": 9,
+  "titulo_en_documento": "PROPIEDADES FÍSICAS Y QUÍMICAS",
+  "pagina": 2,
+  "linea": 154,
+  "estado": "presente",
+  "nombre_canonico": "Propiedades físicas y químicas"
+ },
+ {
+  "num": 10,
+  "numero_en_documento": 10,
+  "titulo_en_documento": "ESTABILIDAD Y REACTIVIDAD",
+  "pagina": 2,
+  "linea": 171,
+  "estado": "presente",
+  "nombre_canonico": "Estabilidad y reactividad"
+ },
+ {
+  "num": 11,
+  "numero_en_documento": 11,
+  "titulo_en_documento": "INFORMACIÓN TOXICOLÓGICA",
+  "pagina": 3,
+  "linea": 196,
+  "estado": "presente",
+  "nombre_canonico": "Información toxicológica"
+ },
+ {
+  "num": 12,
+  "numero_en_documento": 12,
+  "titulo_en_documento": "INFORMACION ECOLÓGICA",
+  "pagina": 3,
+  "linea": 208,
+  "estado": "presente",
+  "nombre_canonico": "Información ecológica"
+ },
+ {
+  "num": 13,
+  "numero_en_documento": 13,
+  "titulo_en_documento": "CONSIDERACIONES SOBRE LA DISPOSICIÓN",
+  "pagina": 3,
+  "linea": 218,
+  "estado": "presente",
+  "nombre_canonico": "Consideraciones relativas a la eliminación"
+ },
+ {
+  "num": 14,
+  "numero_en_documento": 14,
+  "titulo_en_documento": "INFORMACIÓN SOBRE EL TRANSPORTE",
+  "pagina": 3,
+  "linea": 230,
+  "estado": "presente",
+  "nombre_canonico": "Información relativa al transporte"
+ },
+ {
+  "num": 15,
+  "numero_en_documento": 15,
+  "titulo_en_documento": "INFORMACIÓN SOBRE REGLAMENTACIÓN",
+  "pagina": 3,
+  "linea": 240,
+  "estado": "presente",
+  "nombre_canonico": "Información reglamentaria"
+ },
+ {
+  "num": 16,
+  "numero_en_documento": 16,
+  "titulo_en_documento": "OTRA INFORMACIÓN",
+  "pagina": 3,
+  "linea": 252,
+  "estado": "presente",
+  "nombre_canonico": "Otra información"
+ }
+]

@@ -1,0 +1,16 @@
+{
+ "archivo": "FDS EVALUADAS/FDS 2023/FDS 70 - Esmalte Uretano Part B - SIKA.pdf",
+ "doc_id": "fds_2023__fds_70_esmalte_uretano_part_b_sika",
+ "fabricante": "Sika Colombia S.A.S",
+ "producto": "Esmalte Uretano Part B",
+ "version": "2.0",
+ "fecha_revision": "2023/10/07",
+ "carpeta": "FDS 2023",
+ "n_paginas": "13",
+ "sha256": "b318cd976284c074ed441bc094fe3f2b28d1af4eacbb3ccfa06c3358070c11e1",
+ "campos_auto": "fabricante,fecha_revision,marca,producto,version",
+ "procedencia": "",
+ "fecha_recepcion": "",
+ "notas": "",
+ "marca": "SIKA"
+}

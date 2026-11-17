@@ -1,0 +1,16 @@
+{
+ "archivo": "FDS EVALUADAS/FDS 2019/FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO .pdf",
+ "doc_id": "fds_2019__fds_33_esmalte_top_quality_azul_medio_1795_pintuco",
+ "fabricante": "Pintuco",
+ "producto": "ESMALTE TOP QUALITY AZUL MEDIO 1795",
+ "version": "3",
+ "fecha_revision": "28/01/2019",
+ "carpeta": "FDS 2019",
+ "n_paginas": "11",
+ "sha256": "36c6c442542b7cae3899e947e1156f180952841b970614ea06865a2b78fc7077",
+ "campos_auto": "fabricante,fecha_revision,marca,producto,version",
+ "procedencia": "",
+ "fecha_recepcion": "",
+ "notas": "",
+ "marca": "PINTUCO"
+}

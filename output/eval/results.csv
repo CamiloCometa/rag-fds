@@ -1,0 +1,1370 @@
+id,config,top_k,tipo,user_input,response,reference,retrieved_contexts,fuentes,faithfulness,context_precision,context_recall,faithfulness_error,context_precision_error,context_recall_error
+Q01,A_k3,3,directa,¿Cuál es el punto de inflamación del ESMALTE TOP QUALITY NEGRO 1772 de Pintuco?,El punto de inflamación del ESMALTE TOP QUALITY NEGRO 1772 de Pintuco es de 55 ºC [1].,El punto de inflamación del ESMALTE TOP QUALITY NEGRO 1772 (Pintuco) es 55 ºC; su temperatura de auto-inflamación es 200 ºC.,"[1] Fabricante: Pintuco (marca: PINTUCO) | Producto: ESMALTE TOP QUALITY NEGRO 1772 | Versión: 3 | Carpeta: FDS 2019 | Documento: FDS EVALUADAS/FDS 2019/FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO .pdf | Página: 5-6 | Sección 9: Propiedades físicas y químicas
+<mark>SECCIÓN 9: PROPIEDADES FÍSICAS Y QUÍMICAS Y CARACTERÍSTICAS DE SEGURIDAD</mark>
+
+*No relevante debido a la naturaleza del producto, no aportando información característica de su peligrosidad.
+
+- CONTINÚA EN LA SIGUIENTE PÁGINA -
+
+Emisión: 16/05/2018            Revisión: 28/01/2019            Versión: 3 (sustituye a 2)
+
+**Página 5/11**
+
+Ficha de datos de seguridad
+
+según Decreto 1496 de 2018
+
+![imagen pág. 6](images/FDS_35-_ESMALTE_TOP_QUALITY_NEGRO_1772_-_PINTUCO_.pdf-0006-02.png)
+> Imagen (pág. 6). OCR automático, revisar: «ad El S El Color de la Calidad” Pintuco»
+
+# **ESMALTE TOP QUALITY NEGRO 1772 10013034**
+
+# <mark>SECCIÓN 9: PROPIEDADES FÍSICAS Y QUÍMICAS Y CARACTERÍSTICAS DE SEGURIDAD (continúa)</mark>
+<<<FRAGMENTO>>>
+[2] Fabricante: Pintuco (marca: PINTUCO) | Producto: ESMALTE TOP QUALITY NEGRO 1772 | Versión: 3 | Carpeta: FDS 2019 | Documento: FDS EVALUADAS/FDS 2019/FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO .pdf | Página: 5-6 | Sección 9: Propiedades físicas y químicas
+<mark>SECCIÓN 9: PROPIEDADES FÍSICAS Y QUÍMICAS Y CARACTERÍSTICAS DE SEGURIDAD</mark>
+
+||Temperatura de descomposición:|No relevante *|
+|---|---|---|
+||Punto de fusión/punto de congelación:|No relevante *|
+||Propiedades explosivas:|No relevante *|
+||Propiedades comburentes:|No relevante *|
+||**Inflamabilidad:**||
+||Punto de inflamación:|55 ºC|
+||Inflamabilidad (sólido, gas):|No relevante *|
+||Temperatura de auto-inflamación:|200 ºC|
+||Límite de inflamabilidad inferior:|No determinado|
+||Límite de inflamabilidad superior:|No determinado|
+||**Explosividad:**||
+||Límite inferior de explosividad:|No relevante *|
+||Límite superior de explosividad:|No relevante *|
+|**9.2**|**Información adicional:**||
+||Tensión superficial a 20 ºC:|No relevante *|
+||Índice de refracción:|No relevante *|
+||*No relevante debido a la naturaleza del producto, no aport|ando información característica de su peligrosidad.|
+<<<FRAGMENTO>>>
+[3] Fabricante: Pintuco (marca: PINTUCO) | Producto: ESMALTE TOP QUALITY NEGRO 1772 | Versión: 3 | Carpeta: FDS 2019 | Documento: FDS EVALUADAS/FDS 2019/FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO .pdf | Página: 1 | Sección 0: Encabezado / sin sección
+Ficha de datos de seguridad según Decreto 1496 de 2018
+
+![imagen pág. 1](images/FDS_35-_ESMALTE_TOP_QUALITY_NEGRO_1772_-_PINTUCO_.pdf-0001-01.png)
+> Imagen (pág. 1). OCR automático, revisar: «ad El S El Color de la Calidad” Pintuco»
+
+# **ESMALTE TOP QUALITY NEGRO 1772 10013034**",[1] ESMALTE TOP QUALITY NEGRO 1772 p.5 s.9*; [2] ESMALTE TOP QUALITY NEGRO 1772 p.5 s.9; [3] ESMALTE TOP QUALITY NEGRO 1772 p.1 s.0,0.0,1.0,1.0,,,
+Q02,A_k3,3,directa,¿Cuál es el número ONU para el transporte del PINTUTRAFICO ALQUIDICO AMARILLO 659?,El número ONU para el transporte del PINTUTRAFICO ALQUIDICO AMARILLO 659 es UN1263 [1].,El número ONU del PINTUTRAFICO ALQUIDICO AMARILLO 659 (Pintuco) es UN1263.,"[1] Fabricante: Pintuco | Producto: PINTUTRAFICO ALQUIDICO AMARILLO 659 _ 10012970-10015685 _COL (Versión 2) | Versión: 2 | Carpeta: FDS 2018 | Documento: FDS EVALUADAS/FDS 2018/FDS 8 - PINTUTRAFICO ALQUIDICO AMARILLO 659 _ 10012970-10015685 _COL (Versión 2).pdf | Página: 9-10 | Sección 14: Información relativa al transporte
+Legislación relacionada con la gestión de residuos:<br>Decreto 4741 de 2005, Por el cual se reglamenta parcialmente la prevención y el manejo de los residuos o desechos peligrosos<br>generados en el marco de la gestión integral<br>SECCIÓN 14: INFORMACIÓN RELATIVA AL TRANSPORTE<br>Transporte terrestre de mercancías peligrosas:<br>En aplicación a la norma técnica colombiana 1692:<br>14.1  Número ONU:  UN1263<br>14.2  Designación oficial de  PINTURA<br>transporte de las Naciones<br>Unidas:<br>14.3  Clase(s) relativas al transporte:  3<br>Etiquetas:  3<br>14.4  Grupo de embalaje/envasado si  II<br>se aplica:<br>14.5  Riesgos ambientales:  Sí<br>14.6  Precauciones especiales para el usuario<br>Propiedades físico-químicas:  ver epígrafe 9<br>14.7  Transporte a granel con  No relevante<br>arreglo al anexo II de MARPOL<br>73/78 y al Código IBC:<br>Transporte marítimo de mercancías peligrosas:<br>En aplicación al IMDG 38-16:<br>14.1  Número ONU:  UN1263<br>14.2  Designación oficial de  PINTURA<br>transporte de las Naciones<br>Unidas:<br>14.3  Clase(s) relativas al transporte:  3<br>Etiquetas:  3<br>14.4  Grupo de embalaje/envasado si  II<br>se aplica:<br>14.5  Riesgos ambientales:
+
+**Página 9/11**
+
+Ficha de datos de seguridad según Decreto 1496 de 2018
+
+**PINTUTRAFICO ALQUIDICO AMARILLO 659 10012970-10015685**
+
+![imagen pág. 10](images/FDS_8_-_PINTUTRAFICO_ALQUIDICO_AMARILLO_659___10012970-10015685__COL_-Versión_2-.pdf-0010-02.png)
+> Imagen (pág. 10). OCR automático, revisar: «NE Ne El Color de la Calidad”»
+<<<FRAGMENTO>>>
+[2] Fabricante: Pintuco | Producto: PINTUTRAFICO ALQUIDICO AMARILLO 659 _ 10012970-10015685 _COL (Versión 2) | Versión: 2 | Carpeta: FDS 2018 | Documento: FDS EVALUADAS/FDS 2018/FDS 8 - PINTUTRAFICO ALQUIDICO AMARILLO 659 _ 10012970-10015685 _COL (Versión 2).pdf | Página: 9-10 | Sección 14: Información relativa al transporte
+Legislación relacionada con la gestión de residuos:<br>Decreto 4741 de 2005, Por el cual se reglamenta parcialmente la prevención y el manejo de los residuos o desechos peligrosos<br>generados en el marco de la gestión integral<br>SECCIÓN 14: INFORMACIÓN RELATIVA AL TRANSPORTE<br>Transporte terrestre de mercancías peligrosas:<br>En aplicación a la norma técnica colombiana 1692:<br>14.1  Número ONU:  UN1263<br>14.2  Designación oficial de  PINTURA<br>transporte de las Naciones<br>Unidas:<br>14.3  Clase(s) relativas al transporte:  3<br>Etiquetas:  3<br>14.4  Grupo de embalaje/envasado si  II<br>se aplica:<br>14.5  Riesgos ambientales:  Sí<br>14.6  Precauciones especiales para el usuario<br>Propiedades físico-químicas:  ver epígrafe 9<br>14.7  Transporte a granel con  No relevante<br>arreglo al anexo II de MARPOL<br>73/78 y al Código IBC:<br>Transporte marítimo de mercancías peligrosas:<br>En aplicación al IMDG 38-16:<br>14.1  Número ONU:  UN1263<br>14.2  Designación oficial de  PINTURA<br>transporte de las Naciones<br>Unidas:<br>14.3  Clase(s) relativas al transporte:  3<br>Etiquetas:  3<br>14.4  Grupo de embalaje/envasado si  II<br>se aplica:<br>14.5  Riesgos ambientales:
+
+- CONTINÚA EN LA SIGUIENTE PÁGINA -
+
+Emisión: 9/08/2018            Revisión: 15/08/2018            Versión: 2 (sustituye a 1)
+
+**Página 9/11**
+
+Ficha de datos de seguridad según Decreto 1496 de 2018
+
+**PINTUTRAFICO ALQUIDICO AMARILLO 659 10012970-10015685**
+<<<FRAGMENTO>>>
+[3] Fabricante: Pintuco | Producto: PINTUTRAFICO ALQUIDICO AMARILLO 659 _ 10012970-10015685 _COL (Versión 2) | Versión: 2 | Carpeta: FDS 2018 | Documento: FDS EVALUADAS/FDS 2018/FDS 8 - PINTUTRAFICO ALQUIDICO AMARILLO 659 _ 10012970-10015685 _COL (Versión 2).pdf | Página: 9 | Sección 14: Información relativa al transporte
+Legislación relacionada con la gestión de residuos:<br>Decreto 4741 de 2005, Por el cual se reglamenta parcialmente la prevención y el manejo de los residuos o desechos peligrosos<br>generados en el marco de la gestión integral<br>SECCIÓN 14: INFORMACIÓN RELATIVA AL TRANSPORTE<br>Transporte terrestre de mercancías peligrosas:<br>En aplicación a la norma técnica colombiana 1692:<br>14.1  Número ONU:  UN1263<br>14.2  Designación oficial de  PINTURA<br>transporte de las Naciones<br>Unidas:<br>14.3  Clase(s) relativas al transporte:  3<br>Etiquetas:  3<br>14.4  Grupo de embalaje/envasado si  II<br>se aplica:<br>14.5  Riesgos ambientales:  Sí<br>14.6  Precauciones especiales para el usuario<br>Propiedades físico-químicas:  ver epígrafe 9<br>14.7  Transporte a granel con  No relevante<br>arreglo al anexo II de MARPOL<br>73/78 y al Código IBC:<br>Transporte marítimo de mercancías peligrosas:<br>En aplicación al IMDG 38-16:<br>14.1  Número ONU:  UN1263<br>14.2  Designación oficial de  PINTURA<br>transporte de las Naciones<br>Unidas:<br>14.3  Clase(s) relativas al transporte:  3<br>Etiquetas:  3<br>14.4  Grupo de embalaje/envasado si  II<br>se aplica:<br>14.5  Riesgos ambientales:
+
+- CONTINÚA EN LA SIGUIENTE PÁGINA -",[1] PINTUTRAFICO ALQUIDICO AMARILLO 659 _ 10012970-10015685 _COL (Versión 2) p.9 s.14*; [2] PINTUTRAFICO ALQUIDICO AMARILLO 659 _ 10012970-10015685 _COL (Versión 2) p.9 s.14; [3] PINTUTRAFICO ALQUIDICO AMARILLO 659 _ 10012970-10015685 _COL (Versión 2) p.9 s.14,0.5,1.0,1.0,,,
+Q03,A_k3,3,directa,¿En qué concentración contiene dióxido de titanio el VINILTEX PRO 650 BLANCO y cuál es su número CAS?,El VINILTEX PRO 650 BLANCO contiene dióxido de titanio en concentración de **10 - <25 %**. [1] El número CAS del dióxido de titanio es **13463-67-7**.,El VINILTEX PRO 650 BLANCO (Pintuco) contiene dióxido de titanio (CAS 13463-67-7) en una concentración de 10 - <25 %.,"[1] Fabricante: Pintuco (marca: PINTUCO) | Producto: VINILTEX PRO 650 BLANCO | Versión: 4 | Carpeta: FDS 2021 | Documento: FDS EVALUADAS/FDS 2021/FDS 45 - VINILTEX PRO 650 BLANCO - PINTUCO .pdf | Página: 1-2 | Sección 3: Composición / información sobre los componentes
+# <mark>SECCIÓN 3: COMPOSICIÓN/INFORMACIÓN SOBRE LOS COMPONENTES</mark>
+
+- **3.1 Sustancias:** No aplicable
+
+- **3.2 Mezclas: Descripción química:** Mezcla a base de productos químicos **Componentes:**
+
+- CONTINÚA EN LA SIGUIENTE PÁGINA -
+
+**Página 1/10**
+
+Ficha de datos de seguridad según Decreto 1496 de 2018
+
+**VINILTEX PRO 650 BLANCO 10382444,10289235**
+
+![imagen pág. 2](images/FDS_45_-_VINILTEX_PRO_650_BLANCO_-_PINTUCO_.pdf-0002-02.png)
+> Imagen (pág. 2). OCR automático, revisar: «NE Ne El Color de la Calidad”»
+
+# <mark>SECCIÓN 3: COMPOSICIÓN/INFORMACIÓN SOBRE LOS COMPONENTES (continúa)</mark>
+
+De acuerdo al Decreto 1496 de 2018, el producto presenta:
+
+||Identificación||Nombre químico/clasificación|Concentración|
+|---|---|---|---|---|
+|CAS:|13463-67-7|**Dióxido de titanio**||**10 - <25 %**|
+|CAS:|14464-46-1|**Cristobalita**||**<1 %**|
+|CAS:|108-05-4|**Acetato de vinilo**||**<1 %**|
+|CAS:|75-07-0|**Acetaldehído**||**<1 %**|
+|CAS:|14808-60-7|**Cuarzo (1 % < RCS < 10 %)**||**<1 %**|
+<<<FRAGMENTO>>>
+[2] Fabricante: Pintuco (marca: PINTUCO) | Producto: VINILTEX PRO 650 BLANCO | Versión: 4 | Carpeta: FDS 2021 | Documento: FDS EVALUADAS/FDS 2021/FDS 45 - VINILTEX PRO 650 BLANCO - PINTUCO .pdf | Página: 1-2 | Sección 3: Composición / información sobre los componentes
+# <mark>SECCIÓN 3: COMPOSICIÓN/INFORMACIÓN SOBRE LOS COMPONENTES</mark>
+
+Para ampliar información sobre la peligrosidad de las sustancias consultar las secciones 11, 12 y 16. La clasificación respecto Carcinogenicidad de las sustancias se ha establecido en función de las monografías de la IARC adecuándola al sistema de clasificación SGA, para información sobre la clasificación IARC consulte la sección 11.
+<<<FRAGMENTO>>>
+[3] Fabricante: Pintuco (marca: PINTUCO) | Producto: VINILTEX PRO 650 BLANCO | Versión: 4 | Carpeta: FDS 2021 | Documento: FDS EVALUADAS/FDS 2021/FDS 45 - VINILTEX PRO 650 BLANCO - PINTUCO .pdf | Página: 6-8 | Sección 11: Información toxicológica
+# <mark>SECCIÓN 11: INFORMACIÓN TOXICOLÓGICA</mark>
+
+CAS 13463-67-7 Dióxido de Titanio: IARC lista esta sustancia como un posible carcinógeno humano (grupo 2B), indicando que hay suficientes evidencias para considerarlo carcinógeno en animales pero insuficientes para considerarlo como carcinógeno para seres humanos.
+
+La monografía de IARC para esta sustancia indica que no hay exposición significativa al dióxido de titanio durante el uso normal de productos en los que dióxido de titanio está unido permanentemente a otros materiales, tales como pinturas (Ref: Monografía IARC, Vol. 93, 2010).
+
+El lijado repetido de las superficies de película seca puede producir riesgo de sobreexposición al polvo dependiendo de la duración y nivel de lijado, para evitarla deben tomarse las medidas de protección adecuadas.
+
+## **Información toxicológica específica de las sustancias:**
+
+- CONTINÚA EN LA SIGUIENTE PÁGINA -
+
+Emisión: 16/05/2018            Revisión: 31/05/2021            Versión: 4 (sustituye a 3)
+
+**Página 7/10**
+
+Ficha de datos de seguridad según Decreto 1496 de 2018
+
+**VINILTEX PRO 650 BLANCO 10382444,10289235**",[1] VINILTEX PRO 650 BLANCO p.1 s.3*; [2] VINILTEX PRO 650 BLANCO p.1 s.3; [3] VINILTEX PRO 650 BLANCO p.6 s.11,1.0,1.0,1.0,,,
+Q04,A_k3,3,directa,¿Qué protección respiratoria indica la FDS de SIGMADUR ONE BUFF 3142 de PPG?,"Protección de las vías : La selección del respirador se debe basar en el conocimiento previo de los niveles de riesgo de producto y los límites de trabajo de seguridad del respirador seleccionado. Si los trabajadores están expuestos a concentraciones superiores al límite de exposición, deben utilizar respiradores certificados adecuados. Use un respirador purificador de aire o con suministro de aire, que esté ajustado apropiadamente y que cumpla con las normas aprobadas si una evaluación de riesgo indica que es necesario. [1]","La FDS de SIGMADUR ONE BUFF 3142 (PPG) indica que la selección del respirador debe basarse en los niveles de exposición, los riesgos del producto y los límites de trabajo del respirador; si los trabajadores están expuestos por encima del límite de exposición deben usar respiradores certificados, y recomienda un respirador purificador de aire o con suministro de aire, ajustado apropiadamente y conforme a normas aprobadas, si una evaluación de riesgo indica que es necesario.","[1] Fabricante: PPG (marca: PPG) | Producto: SIGMADUR ONE BUFF 3142 | Versión: 8 | Carpeta: FDS 2022 | Documento: FDS EVALUADAS/FDS 2022/FDS 65 - SIGMADUR ONE BUFF 3142 - PPG.pdf | Página: 6-8 | Sección 8: Controles de exposición / protección personal
+## **Sección 8. Controles de exposición / protección personal**
+
+**Protección de las vías :** La selección del respirador se debe basar en el conocimiento previo de los  niveles, **respiratorias** los riesgos de producto y los límites de trabajo de seguridad del respirador seleccionado.  Si los trabajadores están expuestos a concentraciones superiores al límite de exposición, deben utilizar respiradores certificados adecuados.  Use un respirador purificador de aire o con suministro de aire, que esté ajustado apropiadamente y que cumpla con las normas aprobadas si una evaluación de riesgo indica que es necesario.
+<<<FRAGMENTO>>>
+[2] Fabricante: PPG (marca: PPG) | Producto: SIGMADUR ONE BUFF 3142 | Versión: 8 | Carpeta: FDS 2022 | Documento: FDS EVALUADAS/FDS 2022/FDS 65 - SIGMADUR ONE BUFF 3142 - PPG.pdf | Página: 6-7 | Sección 8: Controles de exposición / protección personal
+## **Sección 8. Controles de exposición / protección personal**
+
+**<mark>Parámetros de control</mark>**
+
+|**Límites de exposición laboral**||
+|---|---|
+|**Nombre de ingrediente**|**Límites de exposición**|
+|Disolvente Stoddard<br>Sulfato de bario<br>Dióxido de titanio<br>nafta disolvente (petróleo), fracción alifática intermedia<br>ácido 2-etilhexanoico, sal de circonio|**ACGIH TLV (Estados Unidos, 1/2021).**<br>TWA: 525 mg/m³ 8 horas.<br>TWA: 100 ppm 8 horas.<br>**ACGIH TLV (Estados Unidos, 1/2021).**<br>TWA: 5 mg/m³ 8 horas. Estado: Fracción<br>inhalable<br>**ACGIH TLV (Estados Unidos, 1/2021).**<br>TWA: 10 mg/m³ 8 horas.<br>**ACGIH TLV (Estados Unidos).**<br>TWA: 400 ppm<br>**ACGIH TLV (Estados Unidos, 1/2021).**<br>STEL: 10 mg/m³, (as Zr) 15 minutos.<br>TWA: 5 mg/m³, (as Zr) 8 horas.|
+
+**Spanish (MX) Colombia** **_6/15_**
+
+**Código 00322206 Nombre del producto SIGMADUR ONE BUFF 3142**
+
+**Fecha de emisión 1 Marzo 2022**
+
+**Versión**
+
+**8**
+
+## **Sección 8. Controles de exposición / protección personal**
+<<<FRAGMENTO>>>
+[3] Fabricante: PPG (marca: PPG) | Producto: SIGMADUR ONE BUFF 3142 | Versión: 8 | Carpeta: FDS 2022 | Documento: FDS EVALUADAS/FDS 2022/FDS 65 - SIGMADUR ONE BUFF 3142 - PPG.pdf | Página: 6-8 | Sección 8: Controles de exposición / protección personal
+## **Sección 8. Controles de exposición / protección personal**
+
+|**Procedimientos de control**<br>**recomendados**|Si este producto contiene ingredientes con límites de exposición, puede ser<br>necesaria la supervisión personal, del ambiente de trabajo o biológica para<br>determinar la efectividad de la ventilación o de otras medidas de control y/o la<br>necesidad de usar equipo respiratorio protector.  Se debe hacer referencia a las<br>normas adecuadas de monitoreo.  También se requiere hacer referencia a los<br>documentos guía nacionales sobre los métodos para la determinación de<br>sustancias peligrosas.<br>**:**|
+|---|---|
+|**Otro tipo de protección**<br>**para la piel**|**:** Antes de manipular este producto se debe elegir el calzado apropiado y cualquier<br>otra medida adicional de protección de la piel basadas en la tarea que se realice y<br>los riesgos asociados, para lo cual se contará con la aprobación de un especialista.|
+
+|**Spanish (MX)**|**Colombia**<br>**_7/15_**|
+|---|---|
+
+**Código 00322206 Nombre del producto**
+
+**Fecha de emisión**
+
+**Versión**
+
+**1 Marzo 2022**
+
+**8**
+
+**SIGMADUR ONE BUFF 3142**
+
+## **Sección 8. Controles de exposición / protección personal**",[1] SIGMADUR ONE BUFF 3142 p.6 s.8*; [2] SIGMADUR ONE BUFF 3142 p.6 s.8; [3] SIGMADUR ONE BUFF 3142 p.6 s.8,1.0,1.0,1.0,,,
+Q05,A_k3,3,directa,¿Qué medios de extinción recomienda la FDS del ESMALTE PROTEKLAND BLANCO 2 en 1 de Pintuland y cuál no se recomienda?,Se recomienda emplear preferentemente extintores de polvo polivalente (polvo ABC) y alternativamente utilizar espuma física o extintores de dióxido de carbono (CO₂). [1] No se recomienda el uso de agua a chorro como agente de extinción.,"Para el ESMALTE PROTEKLAND BLANCO 2 en 1 (Pintuland) se recomienda emplear preferentemente extintores de polvo polivalente (polvo ABC) y, alternativamente, espuma física o extintores de dióxido de carbono (CO2); no se recomienda emplear agua a chorro.","[1] Fabricante: QUIMICA COSMOS S.A (marca: PINTULAND) | Producto: ESMALTE PROTEKLAND BLANCO, 2 en 1 | Versión: 1 | Carpeta: FDS 2023 | Documento: FDS EVALUADAS/FDS 2023/FDS 78 -  ESMALTE PROTEKLAND BLANCO, 2 en 1 - PINTULAND.pdf | Página: 3 | Sección 5: Medidas de lucha contra incendios
+# SECCIÓN 5: MEDIDAS DE LUCHA CONTRA INCENDIOS
+
+## **5.1 Medios de extinción apropiados: Medios de extinción apropiados:** Emplear preferentemente extintores de polvo polivalente (polvo ABC), alternativamente utilizar espuma física o extintores de dióxido de carbono (CO₂). **Medios de extinción no apropiados:**
+
+NO SE RECOMIENDA emplear agua a chorro como agente de extinción.
+
+- **5.2 Peligros específicos del producto químico:**
+
+- Como consecuencia de la combustión o descomposición térmica se generan subproductos de reacción que pueden resultar altamente tóxicos y, consecuentemente, pueden presentar un riesgo elevado para la salud.
+
+- **5.3 Medidas especiales que deben tomar los equipos de lucha contra incendios:**
+
+En función de la magnitud del incendio puede hacerse necesario el uso de ropa protectora completa y equipo de respiración autónomo. Disponer de un mínimo de instalaciones de emergencia o elementos de actuación (mantas ignífugas, botiquín portátil,...).
+
+## **Disposiciones adicionales:**
+<<<FRAGMENTO>>>
+[2] Fabricante: QUIMICA COSMOS S.A (marca: PINTULAND) | Producto: ESMALTE PROTEKLAND BLANCO, 2 en 1 | Versión: 1 | Carpeta: FDS 2023 | Documento: FDS EVALUADAS/FDS 2023/FDS 78 -  ESMALTE PROTEKLAND BLANCO, 2 en 1 - PINTULAND.pdf | Página: 3 | Sección 5: Medidas de lucha contra incendios
+# SECCIÓN 5: MEDIDAS DE LUCHA CONTRA INCENDIOS
+
+Actuar conforme el Plan de Emergencia Interior y las Fichas Informativas sobre actuación ante accidentes y otras emergencias. Suprimir cualquier fuente de ignición. En caso de incendio, refrigerar los recipientes y tanques de almacenamiento de productos susceptibles a inflamación, explosión o BLEVE como consecuencia de elevadas temperaturas. Evitar el vertido de los productos empleados en la extinción del incendio al medio acuático.
+<<<FRAGMENTO>>>
+[3] Fabricante: QUIMICA COSMOS S.A (marca: PINTULAND) | Producto: ESMALTE PROTEKLAND BLANCO, 2 en 1 | Versión: 1 | Carpeta: FDS 2023 | Documento: FDS EVALUADAS/FDS 2023/FDS 78 -  ESMALTE PROTEKLAND BLANCO, 2 en 1 - PINTULAND.pdf | Página: 1-2 | Sección 2: Identificación de los peligros
+# SECCIÓN 2: IDENTIFICACIÓN DEL PELIGRO O PELIGROS
+
+- Nafta de petróleo, solvente refinado.; Oxima de 2-butanona; Bis(2-etilhexanoato) de cobalto
+
+- **2.3 Otros peligros que no conducen a una clasificación:** No relevante
+
+- CONTINÚA EN LA SIGUIENTE PÁGINA -
+
+Emisión: 2/10/2023            Versión: 1
+
+**Página 1/14**
+
+Ficha de datos de seguridad según Decreto 1496 de 2018 y Resolución 773 de 2021
+
+# **51830001 - ESMALTE PROTEKLAND BLANCO, 2 en 1**
+
+![imagen pág. 2](images/FDS_78_-__ESMALTE_PROTEKLAND_BLANCO,_2_en_1_-_PINTULAND.pdf-0002-02.png)
+> Imagen (pág. 2). Sin texto legible por OCR; contenido gráfico no interpretado.
+
+<!-- Start of picture text -->
+OO o<br><!-- End of picture text -->
+
+Emisión: 2/10/2023            Versión: 1","[1] ESMALTE PROTEKLAND BLANCO, 2 en 1 p.3 s.5*; [2] ESMALTE PROTEKLAND BLANCO, 2 en 1 p.3 s.5; [3] ESMALTE PROTEKLAND BLANCO, 2 en 1 p.1 s.2",1.0,1.0,1.0,,,
+Q06,A_k3,3,directa,¿Qué indicaciones de peligro (frases H) tiene el Sikafloor-161 Part A Level Comercial de Sika?,"El Sikafloor-161 Part A Level Comercial de Sika tiene las siguientes indicaciones de peligro: H227 Líquido combustible, H315 Provoca irritación cutánea, H317 Puede provocar una reacción cutánea alérgica, H319 Provoca irritación ocular grave, H411 Tóxico para los organismos acuáticos, con efectos noci- duros duraderos [2].","El Sikafloor-161 Part A Level Comercial (Sika) tiene las indicaciones H227 (líquido combustible), H315 (provoca irritación cutánea), H317 (puede provocar una reacción cutánea alérgica), H319 (provoca irritación ocular grave) y H411 (tóxico para los organismos acuáticos, con efectos nocivos duraderos).","[1] Fabricante: Sika Colombia S.A.S (marca: SIKA) | Producto: Sikafloor®-161 Part A Level Comercial | Versión: 2.0 | Carpeta: FDS 2023 | Documento: FDS EVALUADAS/FDS 2023/FDS 73 - Sikafloor®-161 Part A Level Comercial - SIKA.pdf | Página: 1-2 | Sección 2: Identificación de los peligros
+### **SECCIÓN 2. IDENTIFICACIÓN DE LOS PELIGROS**
+
+### **Clasificación según SGA (GHS)**
+
+Líquidos Inflamables : Categoría 4 Corrosión/irritación cutáneas : Categoría 2 Lesiones oculares gra: Categoría 2A ves/irritación ocular Sensibilización cutánea : Categoría 1 Peligro a corto plazo (agudo) : Categoría 2 para el medio ambiente acuático Peligro a largo plazo (crónico) : Categoría 2 para el medio ambiente acuático **Etiqueta SGA (GHS)** Pictogramas de peligro : Palabra de advertencia : Atención <u>99</u>
+
+### **Etiqueta SGA (GHS)**
+
+<mark>1 / 11</mark>
+
+**HOJA DE DATOS DE SEGURIDAD**
+
+# **Sikafloor®-161  Part A**
+
+![imagen pág. 2](images/FDS_73_-_Sikafloor®-161_Part_A_Level_Comercial_-_SIKA.pdf-0002-02.png)
+> Imagen (pág. 2). Sin texto legible por OCR; contenido gráfico no interpretado.
+
+<!-- Start of picture text -->
+de<br><!-- End of picture text -->
+<<<FRAGMENTO>>>
+[2] Fabricante: Sika Colombia S.A.S (marca: SIKA) | Producto: Sikafloor®-161 Part A Level Comercial | Versión: 2.0 | Carpeta: FDS 2023 | Documento: FDS EVALUADAS/FDS 2023/FDS 73 - Sikafloor®-161 Part A Level Comercial - SIKA.pdf | Página: 1-2 | Sección 2: Identificación de los peligros
+### **SECCIÓN 2. IDENTIFICACIÓN DE LOS PELIGROS**
+
+<!-- Start of picture text -->
+de<br><!-- End of picture text -->
+
+|Versión 2.0|Número de HDS: 100000027041<br>Fecha de revisión: 2023/05/05|
+|---|---|
+|Indicaciones de peligro|:<br>H227 Líquido combustible.<br>H315 Provoca irritación cutánea.<br>H317 Puede provocar una reacción cutánea alérgica.<br>H319 Provoca irritación ocular grave.<br>H411 Tóxico para los organismos acuáticos, con efectos noci-<br>vos duraderos.|
+<<<FRAGMENTO>>>
+[3] Fabricante: Sika Colombia S.A.S (marca: SIKA) | Producto: Sikafloor®-161 Part A Level Comercial | Versión: 2.0 | Carpeta: FDS 2023 | Documento: FDS EVALUADAS/FDS 2023/FDS 73 - Sikafloor®-161 Part A Level Comercial - SIKA.pdf | Página: 1-2 | Sección 2: Identificación de los peligros
+### **SECCIÓN 2. IDENTIFICACIÓN DE LOS PELIGROS**
+
+|Versión 2.0|Número de HDS: 100000027041<br>Fecha de revisión: 2023/05/05|
+|---|---|
+||**Almacenamiento:**<br>P403 Almacenar en un lugar bien ventilado.|
+||**Eliminación:**|
+||P501 Eliminar el contenido/ recipiente en una planta de elimi-|
+||nación de residuos aprobada.|
+
+### **Otros peligros no clasificables**
+
+No conocidos.",[1] Sikafloor®-161 Part A Level Comercial p.1 s.2; [2] Sikafloor®-161 Part A Level Comercial p.1 s.2*; [3] Sikafloor®-161 Part A Level Comercial p.1 s.2,1.0,1.0,1.0,,,
+Q07,A_k3,3,integracion,"En el ESMALTE LINEA CLASICA BLANCO de Pintuland, ¿en qué concentración aparece el etilbenceno en la composición y cuál es su límite TLV-TWA según la sección de controles de exposición?","En el ESMALTE LINEA CLASICA BLANCO de Pintuland, el etilbenceno aparece en la concentración de 435 mg/m³ [2]. Su límite TLV-TWA según la sección de controles de exposición es 20 ppm [1].","El ESMALTE LINEA CLASICA BLANCO (Pintuland) contiene etilbenceno (CAS 100-41-4) en 0,2 - <2,5 %; su límite TLV-TWA (ACGIH) es 20 ppm (además indica un PEL 8-hour TWA de 100 ppm, 435 mg/m³).","[1] Fabricante: QUIMICA COSMOS S.A (marca: PINTULAND) | Producto: ESMALTE LINEA CLASICA, BLANCO | Versión: 2 | Carpeta: FDS 2022 | Documento: FDS EVALUADAS/FDS 2022/FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf | Página: 4-5 | Sección 8: Controles de exposición / protección personal
+# SECCIÓN 8: CONTROLES DE EXPOSICIÓN/PROTECCIÓN PERSONAL **8.1 Parámetros de control:** Sustancias cuyos valores límite de exposición profesional han de controlarse en el ambiente de trabajo: ~~IS~~
+
+- CONTINÚA EN LA SIGUIENTE PÁGINA -
+
+Emisión: 15/06/2022            Revisión: 5/10/2022            Versión: 2 (sustituye a 1)
+
+**Página 4/14**
+
+Ficha de datos de seguridad según Decreto 1496 de 2018 y Resolución 773 de 2021
+
+## **50130001 - ESMALTE LINEA CLASICA, BLANCO**
+
+![imagen pág. 5](images/FDS_55_-_ESMALTE_LINEA_CLASICA,_BLANCO_-_PINTULAND.pdf-0005-02.png)
+> Imagen (pág. 5). Sin texto legible por OCR; contenido gráfico no interpretado.
+
+<!-- Start of picture text -->
+OO ®<br><!-- End of picture text -->
+
+Emisión: 15/06/2022            Revisión: 5/10/2022            Versión: 2 (sustituye a 1)
+<<<FRAGMENTO>>>
+[2] Fabricante: QUIMICA COSMOS S.A (marca: PINTULAND) | Producto: ESMALTE LINEA CLASICA, BLANCO | Versión: 2 | Carpeta: FDS 2022 | Documento: FDS EVALUADAS/FDS 2022/FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf | Página: 4-5 | Sección 8: Controles de exposición / protección personal
+# SECCIÓN 8: CONTROLES DE EXPOSICIÓN/PROTECCIÓN PERSONAL **8.1 Parámetros de control:** Sustancias cuyos valores límite de exposición profesional han de controlarse en el ambiente de trabajo: ~~IS~~
+
+a las instrucciones del fabricante. Se<br>recomienda su uso en caso de riesgo de salpicaduras.<br>Protección obligatoria<br>de la cara<br>E.- Protección corporal<br><!-- End of picture text -->
+
+![imagen pág. 5](images/FDS_55_-_ESMALTE_LINEA_CLASICA,_BLANCO_-_PINTULAND.pdf-0005-05.png)
+> Imagen (pág. 5). OCR automático, revisar: «8.2 OSHA (Tablas Z): Etlbenceno 435 mg/m? CAS: 100-41-4 ACGIH (2022): Etlbenceno CAS: 100-41-4 20 ppm ite biológicos: Indices de exposición biológicos (BEIs®) - ACGIH Suma de ácido 150 mg/g (Creatinina) |. mandélico y ácido Fin del turno fenilglioxilico en la orina Etilbenceno CAS: 100-41-4 Controles técnicos apropiados: A.- Medidas de protección individual, como equipo de protección personal (EPP) Realizar la identificación de los peligros y la valoración de los riesgos de acuerdo a la Guia técnica colombiana GTC 45. De acuerdo al orden de prioridad para el control de la exposición profesional se recomienda la extracción localizada en la zona de trabajo como medida de protección colectiva para evitar sobrepasar los límites de exposición profesional. Para más información sobre los equipos de protección individual (almacenamiento, uso, limpieza, mantenimiento, clase de protección,...) consultar el folleto informativo facilitado por el fabricante del EPP. Las indicaciones contenidas en este punto se refieren al producto puro. Las medidas de
+<<<FRAGMENTO>>>
+[3] Fabricante: QUIMICA COSMOS S.A (marca: PINTULAND) | Producto: ESMALTE LINEA CLASICA, BLANCO | Versión: 2 | Carpeta: FDS 2022 | Documento: FDS EVALUADAS/FDS 2022/FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf | Página: 4-5 | Sección 8: Controles de exposición / protección personal
+# SECCIÓN 8: CONTROLES DE EXPOSICIÓN/PROTECCIÓN PERSONAL **8.1 Parámetros de control:** Sustancias cuyos valores límite de exposición profesional han de controlarse en el ambiente de trabajo: ~~IS~~
+
+<!-- Start of picture text -->
+OO ®<br><!-- End of picture text -->
+
+Emisión: 15/06/2022            Revisión: 5/10/2022            Versión: 2 (sustituye a 1)
+
+![imagen pág. 5](images/FDS_55_-_ESMALTE_LINEA_CLASICA,_BLANCO_-_PINTULAND.pdf-0005-04.png)
+> Imagen (pág. 5). OCR automático, revisar: «SECCIÓN 8: CONTROLES DE EXPOSICION/PROTECCI 8.2 OSHA (Tablas Z): 435 mg/m. Etlbenceno CAS: 100-41-4 ACGIH (2022): Etilbenceno 20 ppm CAS: 100-41-4 Valores límite biológicos: Indices de exposición biológicos (BEIs®) - ACGIH Etilbenceno Suma de ácido 150 mg/g (Creatinina) |. mandélico y ácido Fin del turno CAS: 100-41-4 fenilglioxilico en la orina Controles técnicos apropiados: A.- Medidas de protección individual, como equipo de protección personal (EPP) Realizar la identificación de los peligros y la valoración de los riesgos de acuerdo a la Guia técnica colombiana GTC 45. De acuerdo al orden de prioridad para el control de la exposición profesional se recomienda la extracción localizada en la zona de trabajo como medida de protección colectiva para evitar sobrepasar los límites de exposición profesional. Para más información sobre los equipos de protección individual (almacenamiento, uso, limpieza, mantenimiento, clase de protección,...) consultar el folleto informativo facilitado por el fabricante del EPP. Las indicaciones contenidas en este","[1] ESMALTE LINEA CLASICA, BLANCO p.4 s.8*; [2] ESMALTE LINEA CLASICA, BLANCO p.4 s.8*; [3] ESMALTE LINEA CLASICA, BLANCO p.4 s.8",1.0,1.0,1.0,,,
+Q08,A_k3,3,integracion,Compara el punto de inflamación de la PINTULACA BLANCO 7519 y del ESMALTE PINTULUX ALUMINIO de Pintuco. ¿Cuál es más inflamable?,"El punto de inflamación de la PINTULACA BLANCO 7519 es de 20 ºC, mientras que el punto de inflamación del ESMALTE PINTULUX ALUMINIO de Pintuco es de 56 ºC. Por lo tanto, la PINTULACA BLANCO 7519 es más inflamable que el ESMALTE PINTULUX ALUMINIO de Pintuco. [1]","La PINTULACA BLANCO 7519 tiene punto de inflamación de 20 ºC y el ESMALTE PINTULUX ALUMINIO de 56 ºC; la Pintulaca, con el punto de inflamación más bajo, es la más inflamable.","[1] Fabricante: Pintuco (marca: PINTUCO) | Producto: ESMALTE PINTULUX ALUMINIO | Versión: 2 | Carpeta: FDS 2020 | Documento: FDS EVALUADAS/FDS 2020/FDS 37 - ESMALTE PINTULUX ALUMINIO - PINTUCO .pdf | Página: 5-6 | Sección 9: Propiedades físicas y químicas
+# <mark>SECCIÓN 9: PROPIEDADES FÍSICAS Y QUÍMICAS Y CARACTERÍSTICAS DE SEGURIDAD</mark>
+
+||Temperatura de descomposición:|No relevante *|
+|---|---|---|
+||Punto de fusión/punto de congelación:|No relevante *|
+||Propiedades explosivas:|No relevante *|
+||Propiedades comburentes:|No relevante *|
+||**Inflamabilidad:**||
+||Punto de inflamación:|56 ºC|
+||Inflamabilidad (sólido, gas):|No relevante *|
+||Temperatura de auto-inflamación:|200 ºC|
+||Límite de inflamabilidad inferior:|No determinado|
+||Límite de inflamabilidad superior:|No determinado|
+||**Explosividad:**||
+||Límite inferior de explosividad:|No relevante *|
+||Límite superior de explosividad:|No relevante *|
+|**9.2**|**Información adicional:**||
+||Tensión superficial a 20 ºC:|No relevante *|
+||Índice de refracción:|No relevante *|
+
+*No relevante debido a la naturaleza del producto, no aportando información característica de su peligrosidad.
+<<<FRAGMENTO>>>
+[2] Fabricante: Pintuco (marca: PINTUCO) | Producto: PINTULACA BLANCO 7519 | Versión: 3 | Carpeta: FDS 2019 | Documento: FDS EVALUADAS/FDS 2019/FDS 32 - PINTULACA BLANCO 7519 - PINTUCO.pdf | Página: 6 | Sección 9: Propiedades físicas y químicas
+<mark>SECCIÓN 9: PROPIEDADES FÍSICAS Y QUÍMICAS Y CARACTERÍSTICAS DE SEGURIDAD</mark>
+
+|**9.1**|**Información de propiedades físicas y químicas bá**|**sicas:**|
+|---|---|---|
+||Propiedades explosivas:|No relevante *|
+||Propiedades comburentes:|No relevante *|
+||**Inflamabilidad:**||
+||Punto de inflamación:|20 ºC|
+||Inflamabilidad (sólido, gas):|No relevante *|
+||Temperatura de auto-inflamación:|230 ºC|
+||Límite de inflamabilidad inferior:|No determinado|
+||Límite de inflamabilidad superior:|No determinado|
+||**Explosividad:**||
+||Límite inferior de explosividad:|No relevante *|
+||Límite superior de explosividad:|No relevante *|
+|**9.2**|**Información adicional:**||
+||Tensión superficial a 20 ºC:|No relevante *|
+||Índice de refracción:|No relevante *|
+||*No relevante debido a la naturaleza del producto, no aportando i|nformación característica de su peligrosidad.|
+<<<FRAGMENTO>>>
+[3] Fabricante: Sika Colombia S.A.S | Producto: Esmalte Epóxico Aluminio 333441 | Versión: s/d | Carpeta: FDS 2020 | Documento: FDS EVALUADAS/FDS 2020/FDS 26 - Esmalte Epóxico Aluminio 333441.pdf | Página: 6-7 | Sección 9: Propiedades físicas y químicas
+**SECCIÓN 9: Propiedades físicas y químicas 9.1 Información sobre propiedades físicas y químicas básicas Aspecto Estado físico:** Líquido **Color:** Aluminio **Olor:** Característico **Umbral olfativo:** No disponible **pH:** No disponible **Punto de fusión/punto de Congelación:** No disponible **Punto inicial de ebullición e intervalo de ebullición:** No disponible **Punto de inflamación:** < 23°Cvaso cerrado (ASTM D56) **Tasa de evaporación** No disponible **Inflamabilidad (sólido, gas):** No disponible **Tiempo de Combustión:** No aplicable **Velocidad de Combustión:** No aplicable **Límites superior/inferior de** Valor más bajo conocido: **inflamabilidad o de explosividad:** Punto mínimo: 0.8% (xileno) Valor más alto conocido: Punto máximo: 8% (acetato de n-propilo)
+
+6/9
+
+Fecha de emisión: 07.10.2020
+
+MSDS no. 1120
+
+Esmalte Epoxico Aluminio",[1] ESMALTE PINTULUX ALUMINIO p.5 s.9*; [2] PINTULACA BLANCO 7519 p.6 s.9; [3] Esmalte Epóxico Aluminio 333441 p.6 s.9,0.333,1.0,0.667,,,
+Q09,A_k3,3,integracion,¿Cómo cambió la concentración de compuestos orgánicos volátiles (C.O.V.) de la PINTURA TOTAL de Corona entre la ficha de 2021 y la de 2023?,No hay evidencia suficiente en las FDS recuperadas para responder. [1][2],"En la ficha de 2021 (versión 7) la PINTURA TOTAL de Corona declara una concentración de C.O.V. a 20 ºC de 14,68 g/L, y en la de 2023 (versión 11) de 40,18 g/L; en ambas el contenido de compuestos orgánicos volátiles es 1,01 % en peso.","[1] Fabricante: CORLANC S.A.S (marca: CORONA) | Producto: PINTURA TOTAL | Versión: 11 | Carpeta: FDS 2023 | Documento: FDS EVALUADAS/FDS 2023/FDS 76 - PINTURA TOTAL - CORONA.pdf | Página: 2 | Sección 3: Composición / información sobre los componentes
+# SECCIÓN 3: COMPOSICIÓN/INFORMACIÓN SOBRE LOS COMPONENTES
+
+De acuerdo al Decreto 1496 de 2018 y la Resolución 773 de 2021, el producto presenta:
+
+![imagen pág. 2](images/FDS_76_-_PINTURA_TOTAL_-_CORONA.pdf-0002-07.png)
+> Imagen (pág. 2). OCR automático, revisar: «Identificación Nombre químico/clasificación Concentración Agua [CAS: — 7732-18-5 30 - <50 Y Piedra caliza CAS: 1317-65-3 15 - <30% [Caolin CAS: 1332-58-7 5-<15% Dioxido de titanio (diámetro aerodinámico < 10 ym) CAS: 13463-67-7 [Carc. 2: H351 - Atención 5-15 % Butilcarbamato de 3-iodo-2-propinilo cas: 55406-53-6 [Acuático agudo. 1: H400; Les. Oc. 1: H318; Sens. Cut. 1: H317; STOT única 3: H335; Tox. Agud. 4: <5 Y H302+H332; Tox. Agud. 5: H313 - Peligro Para ampliar información sobre la peligrosidad de las sustancias consultar las secciones 11, 12 y 16. La clasificación respecto Carcinogenicidad de las sustancias se ha establecido en función de las monografías de la IARC adecuándola al sistema de clasificación SGA, para información sobre la clasificación IARC consulte la sección 11.»
+<<<FRAGMENTO>>>
+[2] Fabricante: CORLANC S.A.S (marca: CORONA) | Producto: PINTURA TOTAL | Versión: 11 | Carpeta: FDS 2023 | Documento: FDS EVALUADAS/FDS 2023/FDS 76 - PINTURA TOTAL - CORONA.pdf | Página: 6 | Sección 9: Propiedades físicas y químicas
+# **PINTURA TOTAL**
+
+||Densidad a 20 ºC:|1447,1 kg/m³|
+|---|---|---|
+||Calor de combustión:|No relevante *|
+||Aerosoles-porcentaje total (en masa) de componentes<br>inflamables:|No relevante *|
+||**Otras características de seguridad:**||
+||Tensión superficial a 20 ºC:|No relevante *|
+||Índice de refracción:|No relevante *|
+
+*No relevante debido a la naturaleza del producto, no aportando información característica de su peligrosidad.
+<<<FRAGMENTO>>>
+[3] Fabricante: CORLANC S.A.S (marca: CORONA) | Producto: PINTURA TOTAL | Versión: 7 | Carpeta: FDS 2021 | Documento: FDS EVALUADAS/FDS 2021/FDS 49 - PINTURA TOTAL - CORONA .pdf | Página: 4-5 | Sección 8: Controles de exposición / protección personal
+# SECCIÓN 8: CONTROLES DE EXPOSICIÓN/PROTECCIÓN PERSONAL
+
+rgencia Medida de emergencia Normas Medida de emergencia Normas + ANSI 2358-1 DIN 12 899 ISO 3864-1:2011, ISO 3864-4:2011 150 3864-1:2011, ISO 3864-4:2011 Ducha de emergencia Lavaojos Controles de la exposición del medio ambiente: Se recomienda evitar el vertido tanto del producto como de su envase al medio ambiente. Para información adicional ver epígrafe 7.1.D de la FDS. NTC 6018- Etiquetas ambientales tipo I. Sello ambiental colombiano. Criterios ambientales para pinturas y materiales de recubrimiento (determinados de acuerdo con la norma ASTM D6886): Compuestos orgánicos volátiles: Concentración C.O.V. a 20 °C: ROPIEDADES FÍSICAS Y 1,01 % peso 14,68 kg/m? (14,68 g/L) MICAS Y CARACTERISTICAS DE Información de propiedades físicas y químicas básicas: Para completar la información ver la ficha técnica/hoja de especificaciones del producto. Aspecto físico: Estado físico a 20 °C: Aspecto: Color: Olor: Umbral olfativo: Volatilidad: Temperatura de ebullición a presión atmosférica: Presión de vapor a 20 °C: Presión de vapor a 50 °C: Tasa de evaporación a 20 °C: Caracterización del producto: Densidad a 20 °C: Densidad relativa a 20 °C: Viscosidad dinámica a 20 °C: *No relevante debido a",[1] PINTURA TOTAL p.2 s.3*; [2] PINTURA TOTAL p.6 s.9*; [3] PINTURA TOTAL p.4 s.8,0.0,0.833,1.0,,,
+Q10,A_k3,3,integracion,"Para el ZINC PRIMER 10844 GRIS PARTE A de International AkzoNobel, ¿qué peligro para el medio acuático declara y cómo se clasifica para el transporte (número ONU, clase y grupo de embalaje)?","Para el ZINC PRIMER 10844 GRIS PARTE A de International AkzoNobel, declara peligro para el medio acuático [2]. Se clasifica para el transporte con el número ONU 3082, clase 9 y grupo de embalaje III [1].","El ZINC PRIMER 10844 GRIS PARTE A declara H411 (tóxico para los organismos acuáticos, con efectos nocivos duraderos) con palabra de advertencia 'Atención'; para el transporte es UN3082, sustancia líquida peligrosa para el medio ambiente, N.E.P. (ácido silícico, etil éster), clase 9, grupo de embalaje III.","[1] Fabricante: Compañía Global de Pinturas S.A.S (marca: INTERNATIONAL AKSONOBEL) | Producto: ZINC PRIMER 10844 GRIS PARTE A | Versión: 1 | Carpeta: FDS 2024 | Documento: FDS EVALUADAS/FDS 2024/FDS 84 - ZINC PRIMER 10844 GRIS PARTE A - INTERNATIONAL - AKSONOBEL.pdf | Página: 13 | Sección 14: Información relativa al transporte
+### **Sección 14. Información relativa al transporte**
+
+||**Carretera - NTC 1692**|**Marítimo - IMDG**|**Aéreo - IATA**|
+|---|---|---|---|
+|**Número ONU**|UN3082|UN3082|UN3082|
+|**Designación**<br>**oficial de**<br>**transporte de las**<br>**Naciones Unidas**|SUSTANCIA LÍQUIDA<br>PELIGROSA PARA EL<br>MEDIO AMBIENTE, N.E.P.<br>(ácido silícico, etil éster)|SUSTANCIA LÍQUIDA<br>PELIGROSA PARA EL<br>MEDIO AMBIENTE, N.E.P.<br>(ácido silícico, etil éster)|ENVIRONMENTALLY<br>HAZARDOUS SUBSTANCE,<br>LIQUID, N.O.S. (Silicic acid,<br>ethyl ester)|
+|**Clase(s) de**<br>**peligro para el**<br>**transporte**|9|9|9|
+|**Grupo de embalaje**|III|III|III|
+|**Peligros para el**<br>**medio ambiente**|Sí.|ácido silícico, etil éster<br>Sustancias contaminantes<br>marinas:|Yes.|
+<<<FRAGMENTO>>>
+[2] Fabricante: Compañía Global de Pinturas S.A.S (marca: INTERNATIONAL AKSONOBEL) | Producto: ZINC PRIMER 10844 GRIS PARTE A | Versión: 1 | Carpeta: FDS 2024 | Documento: FDS EVALUADAS/FDS 2024/FDS 84 - ZINC PRIMER 10844 GRIS PARTE A - INTERNATIONAL - AKSONOBEL.pdf | Página: 13-14 | Sección 14: Información relativa al transporte
+### **Sección 14. Información relativa al transporte**
+
+|**_Fecha de emisión/Fecha de revisión_**|**:**_6-5-2024_|**_Versión_**<br>**_:_**_1_|
+|---|---|---|
+|**_Fecha de la emisión anterior_**|**_:_**_No hay validación anterior_|_13/15_|
+
+![imagen pág. 13](images/FDS_84_-_ZINC_PRIMER_10844_GRIS_PARTE_A_-_INTERNATIONAL_-_AKSONOBEL.pdf-0013-10.png)
+> Imagen (pág. 13). Sin texto legible por OCR; contenido gráfico no interpretado.
+
+|_ZINC PRIMER 10844 GRIS PARTE A_||
+|---|---|
+|**Sección 14. Infor**|**mación relativa al transporte**|
+|**Transporte a granel según**<br>**los instrumentos de la IMO**|**:** No disponible.|
+<<<FRAGMENTO>>>
+[3] Fabricante: Compañía Global de Pinturas S.A.S (marca: INTERNATIONAL AKSONOBEL) | Producto: ZINC PRIMER 10844 GRIS PARTE A | Versión: 1 | Carpeta: FDS 2024 | Documento: FDS EVALUADAS/FDS 2024/FDS 84 - ZINC PRIMER 10844 GRIS PARTE A - INTERNATIONAL - AKSONOBEL.pdf | Página: 11-12 | Sección 12: Información ecológica
+**Sección 12. Información ecológica**
+
+|**Toxicidad**||||
+|---|---|---|---|
+|**_Fecha de emisión/Fecha de revisión_**|**:**_6-5-2024_|**_Versión_**<br>**_:_**_1_||
+|**_Fecha de la emisión anterior_**|**_:_**_No hay validación anterior_|_11/15_||
+
+_ZINC PRIMER 10844 GRIS PARTE A_
+
+### **Sección 12. Información ecológica**",[1] ZINC PRIMER 10844 GRIS PARTE A p.13 s.14*; [2] ZINC PRIMER 10844 GRIS PARTE A p.13 s.14*; [3] ZINC PRIMER 10844 GRIS PARTE A p.11 s.12,0.0,1.0,1.0,,,
+Q01,B_k6,6,directa,¿Cuál es el punto de inflamación del ESMALTE TOP QUALITY NEGRO 1772 de Pintuco?,El punto de inflamación del ESMALTE TOP QUALITY NEGRO 1772 de Pintuco es de 55 ºC [1].,El punto de inflamación del ESMALTE TOP QUALITY NEGRO 1772 (Pintuco) es 55 ºC; su temperatura de auto-inflamación es 200 ºC.,"[1] Fabricante: Pintuco (marca: PINTUCO) | Producto: ESMALTE TOP QUALITY NEGRO 1772 | Versión: 3 | Carpeta: FDS 2019 | Documento: FDS EVALUADAS/FDS 2019/FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO .pdf | Página: 5-6 | Sección 9: Propiedades físicas y químicas
+<mark>SECCIÓN 9: PROPIEDADES FÍSICAS Y QUÍMICAS Y CARACTERÍSTICAS DE SEGURIDAD</mark>
+
+*No relevante debido a la naturaleza del producto, no aportando información característica de su peligrosidad.
+
+- CONTINÚA EN LA SIGUIENTE PÁGINA -
+
+Emisión: 16/05/2018            Revisión: 28/01/2019            Versión: 3 (sustituye a 2)
+
+**Página 5/11**
+
+Ficha de datos de seguridad
+
+según Decreto 1496 de 2018
+
+![imagen pág. 6](images/FDS_35-_ESMALTE_TOP_QUALITY_NEGRO_1772_-_PINTUCO_.pdf-0006-02.png)
+> Imagen (pág. 6). OCR automático, revisar: «ad El S El Color de la Calidad” Pintuco»
+
+# **ESMALTE TOP QUALITY NEGRO 1772 10013034**
+
+# <mark>SECCIÓN 9: PROPIEDADES FÍSICAS Y QUÍMICAS Y CARACTERÍSTICAS DE SEGURIDAD (continúa)</mark>
+<<<FRAGMENTO>>>
+[2] Fabricante: Pintuco (marca: PINTUCO) | Producto: ESMALTE TOP QUALITY NEGRO 1772 | Versión: 3 | Carpeta: FDS 2019 | Documento: FDS EVALUADAS/FDS 2019/FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO .pdf | Página: 5-6 | Sección 9: Propiedades físicas y químicas
+<mark>SECCIÓN 9: PROPIEDADES FÍSICAS Y QUÍMICAS Y CARACTERÍSTICAS DE SEGURIDAD</mark>
+
+||Temperatura de descomposición:|No relevante *|
+|---|---|---|
+||Punto de fusión/punto de congelación:|No relevante *|
+||Propiedades explosivas:|No relevante *|
+||Propiedades comburentes:|No relevante *|
+||**Inflamabilidad:**||
+||Punto de inflamación:|55 ºC|
+||Inflamabilidad (sólido, gas):|No relevante *|
+||Temperatura de auto-inflamación:|200 ºC|
+||Límite de inflamabilidad inferior:|No determinado|
+||Límite de inflamabilidad superior:|No determinado|
+||**Explosividad:**||
+||Límite inferior de explosividad:|No relevante *|
+||Límite superior de explosividad:|No relevante *|
+|**9.2**|**Información adicional:**||
+||Tensión superficial a 20 ºC:|No relevante *|
+||Índice de refracción:|No relevante *|
+||*No relevante debido a la naturaleza del producto, no aport|ando información característica de su peligrosidad.|
+<<<FRAGMENTO>>>
+[3] Fabricante: Pintuco (marca: PINTUCO) | Producto: ESMALTE TOP QUALITY NEGRO 1772 | Versión: 3 | Carpeta: FDS 2019 | Documento: FDS EVALUADAS/FDS 2019/FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO .pdf | Página: 1 | Sección 0: Encabezado / sin sección
+Ficha de datos de seguridad según Decreto 1496 de 2018
+
+![imagen pág. 1](images/FDS_35-_ESMALTE_TOP_QUALITY_NEGRO_1772_-_PINTUCO_.pdf-0001-01.png)
+> Imagen (pág. 1). OCR automático, revisar: «ad El S El Color de la Calidad” Pintuco»
+
+# **ESMALTE TOP QUALITY NEGRO 1772 10013034**
+<<<FRAGMENTO>>>
+[4] Fabricante: Pintuco (marca: PINTUCO) | Producto: ESMALTE TOP QUALITY NEGRO 1772 | Versión: 3 | Carpeta: FDS 2019 | Documento: FDS EVALUADAS/FDS 2019/FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO .pdf | Página: 3-4 | Sección 7: Manipulación y almacenamiento
+# <mark>SECCIÓN 7: MANIPULACIÓN Y ALMACENAMIENTO</mark>
+
+- CONTINÚA EN LA SIGUIENTE PÁGINA -
+
+Emisión: 16/05/2018            Revisión: 28/01/2019            Versión: 3 (sustituye a 2)
+
+**Página 3/11**
+
+Ficha de datos de seguridad
+
+según Decreto 1496 de 2018
+
+![imagen pág. 4](images/FDS_35-_ESMALTE_TOP_QUALITY_NEGRO_1772_-_PINTUCO_.pdf-0004-02.png)
+> Imagen (pág. 4). OCR automático, revisar: «ad El S El Color de la Calidad” Pintuco»
+
+# **ESMALTE TOP QUALITY NEGRO 1772 10013034**
+
+<mark>SECCIÓN 7: MANIPULACIÓN Y ALMACENAMIENTO (continúa)</mark>
+
+Tª máxima: 30 ºC Tiempo máximo: 18 meses
+
+B.- Condiciones generales de almacenamiento.
+
+Evitar fuentes de calor, radiación, electricidad estática y el contacto con alimentos. Para información adicional ver epígrafe 10.5
+
+- **7.3 Usos específicos finales:**
+
+Salvo las indicaciones ya especificadas no es preciso realizar ninguna recomendación especial en cuanto a los usos de este producto.
+<<<FRAGMENTO>>>
+[5] Fabricante: Pintuco (marca: PINTUCO) | Producto: ESMALTE TOP QUALITY NEGRO 1772 | Versión: 3 | Carpeta: FDS 2019 | Documento: FDS EVALUADAS/FDS 2019/FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO .pdf | Página: 5 | Sección 9: Propiedades físicas y químicas
+<mark>SECCIÓN 9: PROPIEDADES FÍSICAS Y QUÍMICAS Y CARACTERÍSTICAS DE SEGURIDAD</mark>
+
+**9.1 Información de propiedades físicas y químicas básicas:** Para completar la información ver la ficha técnica/hoja de especificaciones del producto. **Aspecto físico:** Estado físico a 20 ºC: Líquido Aspecto: Característico Color: Característico Olor: Característico Umbral olfativo: No relevante * **Volatilidad:** Temperatura de ebullición a presión atmosférica: 231 ºC Presión de vapor a 20 ºC: 19 Pa Presión de vapor a 50 ºC: 128,16 Pa  (0,13 kPa) Tasa de evaporación a 20 ºC: No relevante * **Caracterización del producto:** Densidad a 20 ºC: 918,4 kg/m³ Densidad relativa a 20 ºC: 0,906 - 0,933 Viscosidad dinámica a 20 ºC: No relevante * Viscosidad cinemática a 20 ºC: No relevante * Viscosidad cinemática a 40 ºC: <20,5 cSt Concentración: No relevante * pH: No relevante * Densidad de vapor a 20 ºC: No relevante * Coeficiente de reparto n-octanol/agua a 20 ºC: No relevante * Solubilidad en agua a 20 ºC: No relevante * Propiedad de solubilidad: No relevante *
+
+*No relevante debido a la naturaleza del producto, no aportando información característica de su peligrosidad.
+<<<FRAGMENTO>>>
+[6] Fabricante: Pintuco (marca: PINTUCO) | Producto: ESMALTE TOP QUALITY NEGRO 1772 | Versión: 3 | Carpeta: FDS 2019 | Documento: FDS EVALUADAS/FDS 2019/FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO .pdf | Página: 1-2 | Sección 3: Composición / información sobre los componentes
+<mark>SECCIÓN 3: COMPOSICIÓN/INFORMACIÓN SOBRE LOS COMPONENTES</mark>
+
+- **3.1 Sustancias:**
+
+- CONTINÚA EN LA SIGUIENTE PÁGINA -
+
+Emisión: 16/05/2018            Revisión: 28/01/2019            Versión: 3 (sustituye a 2)
+
+**Página 1/11**
+
+Ficha de datos de seguridad según Decreto 1496 de 2018
+
+![imagen pág. 2](images/FDS_35-_ESMALTE_TOP_QUALITY_NEGRO_1772_-_PINTUCO_.pdf-0002-01.png)
+> Imagen (pág. 2). OCR automático, revisar: «ad El S El Color de la Calidad” Pintuco»
+
+# **ESMALTE TOP QUALITY NEGRO 1772 10013034**
+
+# <mark>SECCIÓN 3: COMPOSICIÓN/INFORMACIÓN SOBRE LOS COMPONENTES (continúa)</mark>
+
+No aplicable
+
+- **3.2 Mezclas:**
+
+**Descripción química:** Mezcla a base de productos químicos
+
+## **Componentes:**
+
+De acuerdo al Decreto 1496 de 2018, el producto presenta:
+
+|Identificación|Nombre químico/clasificación|Concentración|
+|---|---|---|
+|CAS:<br>64742-47-8|**Destilados (petróleo), fracción ligera tratada con hidrógeno**|**50 - <75 %**|
+|CAS:<br>1333-86-4|**Negro de carbon**|**1 - <2.5 %**|
+|CAS:<br>136-52-7|**Bis(2-etilhexanoato) de cobalto**|**<1 %**|",[1] ESMALTE TOP QUALITY NEGRO 1772 p.5 s.9*; [2] ESMALTE TOP QUALITY NEGRO 1772 p.5 s.9; [3] ESMALTE TOP QUALITY NEGRO 1772 p.1 s.0; [4] ESMALTE TOP QUALITY NEGRO 1772 p.3 s.7; [5] ESMALTE TOP QUALITY NEGRO 1772 p.5 s.9; [6] ESMALTE TOP QUALITY NEGRO 1772 p.1 s.3,1.0,1.0,1.0,,,
+Q02,B_k6,6,directa,¿Cuál es el número ONU para el transporte del PINTUTRAFICO ALQUIDICO AMARILLO 659?,El número ONU para el transporte del PINTUTRAFICO ALQUIDICO AMARILLO 659 es UN1263 [1].,El número ONU del PINTUTRAFICO ALQUIDICO AMARILLO 659 (Pintuco) es UN1263.,"[1] Fabricante: Pintuco | Producto: PINTUTRAFICO ALQUIDICO AMARILLO 659 _ 10012970-10015685 _COL (Versión 2) | Versión: 2 | Carpeta: FDS 2018 | Documento: FDS EVALUADAS/FDS 2018/FDS 8 - PINTUTRAFICO ALQUIDICO AMARILLO 659 _ 10012970-10015685 _COL (Versión 2).pdf | Página: 9-10 | Sección 14: Información relativa al transporte
+Legislación relacionada con la gestión de residuos:<br>Decreto 4741 de 2005, Por el cual se reglamenta parcialmente la prevención y el manejo de los residuos o desechos peligrosos<br>generados en el marco de la gestión integral<br>SECCIÓN 14: INFORMACIÓN RELATIVA AL TRANSPORTE<br>Transporte terrestre de mercancías peligrosas:<br>En aplicación a la norma técnica colombiana 1692:<br>14.1  Número ONU:  UN1263<br>14.2  Designación oficial de  PINTURA<br>transporte de las Naciones<br>Unidas:<br>14.3  Clase(s) relativas al transporte:  3<br>Etiquetas:  3<br>14.4  Grupo de embalaje/envasado si  II<br>se aplica:<br>14.5  Riesgos ambientales:  Sí<br>14.6  Precauciones especiales para el usuario<br>Propiedades físico-químicas:  ver epígrafe 9<br>14.7  Transporte a granel con  No relevante<br>arreglo al anexo II de MARPOL<br>73/78 y al Código IBC:<br>Transporte marítimo de mercancías peligrosas:<br>En aplicación al IMDG 38-16:<br>14.1  Número ONU:  UN1263<br>14.2  Designación oficial de  PINTURA<br>transporte de las Naciones<br>Unidas:<br>14.3  Clase(s) relativas al transporte:  3<br>Etiquetas:  3<br>14.4  Grupo de embalaje/envasado si  II<br>se aplica:<br>14.5  Riesgos ambientales:
+
+**Página 9/11**
+
+Ficha de datos de seguridad según Decreto 1496 de 2018
+
+**PINTUTRAFICO ALQUIDICO AMARILLO 659 10012970-10015685**
+
+![imagen pág. 10](images/FDS_8_-_PINTUTRAFICO_ALQUIDICO_AMARILLO_659___10012970-10015685__COL_-Versión_2-.pdf-0010-02.png)
+> Imagen (pág. 10). OCR automático, revisar: «NE Ne El Color de la Calidad”»
+<<<FRAGMENTO>>>
+[2] Fabricante: Pintuco | Producto: PINTUTRAFICO ALQUIDICO AMARILLO 659 _ 10012970-10015685 _COL (Versión 2) | Versión: 2 | Carpeta: FDS 2018 | Documento: FDS EVALUADAS/FDS 2018/FDS 8 - PINTUTRAFICO ALQUIDICO AMARILLO 659 _ 10012970-10015685 _COL (Versión 2).pdf | Página: 9-10 | Sección 14: Información relativa al transporte
+Legislación relacionada con la gestión de residuos:<br>Decreto 4741 de 2005, Por el cual se reglamenta parcialmente la prevención y el manejo de los residuos o desechos peligrosos<br>generados en el marco de la gestión integral<br>SECCIÓN 14: INFORMACIÓN RELATIVA AL TRANSPORTE<br>Transporte terrestre de mercancías peligrosas:<br>En aplicación a la norma técnica colombiana 1692:<br>14.1  Número ONU:  UN1263<br>14.2  Designación oficial de  PINTURA<br>transporte de las Naciones<br>Unidas:<br>14.3  Clase(s) relativas al transporte:  3<br>Etiquetas:  3<br>14.4  Grupo de embalaje/envasado si  II<br>se aplica:<br>14.5  Riesgos ambientales:  Sí<br>14.6  Precauciones especiales para el usuario<br>Propiedades físico-químicas:  ver epígrafe 9<br>14.7  Transporte a granel con  No relevante<br>arreglo al anexo II de MARPOL<br>73/78 y al Código IBC:<br>Transporte marítimo de mercancías peligrosas:<br>En aplicación al IMDG 38-16:<br>14.1  Número ONU:  UN1263<br>14.2  Designación oficial de  PINTURA<br>transporte de las Naciones<br>Unidas:<br>14.3  Clase(s) relativas al transporte:  3<br>Etiquetas:  3<br>14.4  Grupo de embalaje/envasado si  II<br>se aplica:<br>14.5  Riesgos ambientales:
+
+- CONTINÚA EN LA SIGUIENTE PÁGINA -
+
+Emisión: 9/08/2018            Revisión: 15/08/2018            Versión: 2 (sustituye a 1)
+
+**Página 9/11**
+
+Ficha de datos de seguridad según Decreto 1496 de 2018
+
+**PINTUTRAFICO ALQUIDICO AMARILLO 659 10012970-10015685**
+<<<FRAGMENTO>>>
+[3] Fabricante: Pintuco | Producto: PINTUTRAFICO ALQUIDICO AMARILLO 659 _ 10012970-10015685 _COL (Versión 2) | Versión: 2 | Carpeta: FDS 2018 | Documento: FDS EVALUADAS/FDS 2018/FDS 8 - PINTUTRAFICO ALQUIDICO AMARILLO 659 _ 10012970-10015685 _COL (Versión 2).pdf | Página: 9 | Sección 14: Información relativa al transporte
+Legislación relacionada con la gestión de residuos:<br>Decreto 4741 de 2005, Por el cual se reglamenta parcialmente la prevención y el manejo de los residuos o desechos peligrosos<br>generados en el marco de la gestión integral<br>SECCIÓN 14: INFORMACIÓN RELATIVA AL TRANSPORTE<br>Transporte terrestre de mercancías peligrosas:<br>En aplicación a la norma técnica colombiana 1692:<br>14.1  Número ONU:  UN1263<br>14.2  Designación oficial de  PINTURA<br>transporte de las Naciones<br>Unidas:<br>14.3  Clase(s) relativas al transporte:  3<br>Etiquetas:  3<br>14.4  Grupo de embalaje/envasado si  II<br>se aplica:<br>14.5  Riesgos ambientales:  Sí<br>14.6  Precauciones especiales para el usuario<br>Propiedades físico-químicas:  ver epígrafe 9<br>14.7  Transporte a granel con  No relevante<br>arreglo al anexo II de MARPOL<br>73/78 y al Código IBC:<br>Transporte marítimo de mercancías peligrosas:<br>En aplicación al IMDG 38-16:<br>14.1  Número ONU:  UN1263<br>14.2  Designación oficial de  PINTURA<br>transporte de las Naciones<br>Unidas:<br>14.3  Clase(s) relativas al transporte:  3<br>Etiquetas:  3<br>14.4  Grupo de embalaje/envasado si  II<br>se aplica:<br>14.5  Riesgos ambientales:
+
+- CONTINÚA EN LA SIGUIENTE PÁGINA -
+<<<FRAGMENTO>>>
+[4] Fabricante: Pintuco | Producto: PINTUTRAFICO ALQUIDICO AMARILLO 659 _ 10012970-10015685 _COL (Versión 2) | Versión: 2 | Carpeta: FDS 2018 | Documento: FDS EVALUADAS/FDS 2018/FDS 8 - PINTUTRAFICO ALQUIDICO AMARILLO 659 _ 10012970-10015685 _COL (Versión 2).pdf | Página: 9 | Sección 14: Información relativa al transporte
+Legislación relacionada con la gestión de residuos:<br>Decreto 4741 de 2005, Por el cual se reglamenta parcialmente la prevención y el manejo de los residuos o desechos peligrosos<br>generados en el marco de la gestión integral<br>SECCIÓN 14: INFORMACIÓN RELATIVA AL TRANSPORTE<br>Transporte terrestre de mercancías peligrosas:<br>En aplicación a la norma técnica colombiana 1692:<br>14.1  Número ONU:  UN1263<br>14.2  Designación oficial de  PINTURA<br>transporte de las Naciones<br>Unidas:<br>14.3  Clase(s) relativas al transporte:  3<br>Etiquetas:  3<br>14.4  Grupo de embalaje/envasado si  II<br>se aplica:<br>14.5  Riesgos ambientales:  Sí<br>14.6  Precauciones especiales para el usuario<br>Propiedades físico-químicas:  ver epígrafe 9<br>14.7  Transporte a granel con  No relevante<br>arreglo al anexo II de MARPOL<br>73/78 y al Código IBC:<br>Transporte marítimo de mercancías peligrosas:<br>En aplicación al IMDG 38-16:<br>14.1  Número ONU:  UN1263<br>14.2  Designación oficial de  PINTURA<br>transporte de las Naciones<br>Unidas:<br>14.3  Clase(s) relativas al transporte:  3<br>Etiquetas:  3<br>14.4  Grupo de embalaje/envasado si  II<br>se aplica:<br>14.5  Riesgos ambientales:
+
+- CONTINÚA EN LA SIGUIENTE PÁGINA -
+
+Emisión: 9/08/2018            Revisión: 15/08/2018            Versión: 2 (sustituye a 1)
+<<<FRAGMENTO>>>
+[5] Fabricante: Pintuco | Producto: PINTUTRAFICO ALQUIDICO AMARILLO 659 _ 10012970-10015685 _COL (Versión 2) | Versión: 2 | Carpeta: FDS 2018 | Documento: FDS EVALUADAS/FDS 2018/FDS 8 - PINTUTRAFICO ALQUIDICO AMARILLO 659 _ 10012970-10015685 _COL (Versión 2).pdf | Página: 9 | Sección 14: Información relativa al transporte
+Legislación relacionada con la gestión de residuos:<br>Decreto 4741 de 2005, Por el cual se reglamenta parcialmente la prevención y el manejo de los residuos o desechos peligrosos<br>generados en el marco de la gestión integral<br>SECCIÓN 14: INFORMACIÓN RELATIVA AL TRANSPORTE<br>Transporte terrestre de mercancías peligrosas:<br>En aplicación a la norma técnica colombiana 1692:<br>14.1  Número ONU:  UN1263<br>14.2  Designación oficial de  PINTURA<br>transporte de las Naciones<br>Unidas:<br>14.3  Clase(s) relativas al transporte:  3<br>Etiquetas:  3<br>14.4  Grupo de embalaje/envasado si  II<br>se aplica:<br>14.5  Riesgos ambientales:  Sí<br>14.6  Precauciones especiales para el usuario<br>Propiedades físico-químicas:  ver epígrafe 9<br>14.7  Transporte a granel con  No relevante<br>arreglo al anexo II de MARPOL<br>73/78 y al Código IBC:<br>Transporte marítimo de mercancías peligrosas:<br>En aplicación al IMDG 38-16:<br>14.1  Número ONU:  UN1263<br>14.2  Designación oficial de  PINTURA<br>transporte de las Naciones<br>Unidas:<br>14.3  Clase(s) relativas al transporte:  3<br>Etiquetas:  3<br>14.4  Grupo de embalaje/envasado si  II<br>se aplica:<br>14.5  Riesgos ambientales:
+
+- CONTINÚA EN LA SIGUIENTE PÁGINA -
+
+Emisión: 9/08/2018            Revisión: 15/08/2018            Versión: 2 (sustituye a 1)
+
+**Página 9/11**
+<<<FRAGMENTO>>>
+[6] Fabricante: Pintuco | Producto: PINTUTRAFICO ALQUIDICO AMARILLO 659 _ 10012970-10015685 _COL (Versión 2) | Versión: 2 | Carpeta: FDS 2018 | Documento: FDS EVALUADAS/FDS 2018/FDS 8 - PINTUTRAFICO ALQUIDICO AMARILLO 659 _ 10012970-10015685 _COL (Versión 2).pdf | Página: 9-10 | Sección 14: Información relativa al transporte
+Legislación relacionada con la gestión de residuos:<br>Decreto 4741 de 2005, Por el cual se reglamenta parcialmente la prevención y el manejo de los residuos o desechos peligrosos<br>generados en el marco de la gestión integral<br>SECCIÓN 14: INFORMACIÓN RELATIVA AL TRANSPORTE<br>Transporte terrestre de mercancías peligrosas:<br>En aplicación a la norma técnica colombiana 1692:<br>14.1  Número ONU:  UN1263<br>14.2  Designación oficial de  PINTURA<br>transporte de las Naciones<br>Unidas:<br>14.3  Clase(s) relativas al transporte:  3<br>Etiquetas:  3<br>14.4  Grupo de embalaje/envasado si  II<br>se aplica:<br>14.5  Riesgos ambientales:  Sí<br>14.6  Precauciones especiales para el usuario<br>Propiedades físico-químicas:  ver epígrafe 9<br>14.7  Transporte a granel con  No relevante<br>arreglo al anexo II de MARPOL<br>73/78 y al Código IBC:<br>Transporte marítimo de mercancías peligrosas:<br>En aplicación al IMDG 38-16:<br>14.1  Número ONU:  UN1263<br>14.2  Designación oficial de  PINTURA<br>transporte de las Naciones<br>Unidas:<br>14.3  Clase(s) relativas al transporte:  3<br>Etiquetas:  3<br>14.4  Grupo de embalaje/envasado si  II<br>se aplica:<br>14.5  Riesgos ambientales:
+
+- CONTINÚA EN LA SIGUIENTE PÁGINA -
+
+Emisión: 9/08/2018            Revisión: 15/08/2018            Versión: 2 (sustituye a 1)
+
+**Página 9/11**
+
+Ficha de datos de seguridad según Decreto 1496 de 2018",[1] PINTUTRAFICO ALQUIDICO AMARILLO 659 _ 10012970-10015685 _COL (Versión 2) p.9 s.14*; [2] PINTUTRAFICO ALQUIDICO AMARILLO 659 _ 10012970-10015685 _COL (Versión 2) p.9 s.14; [3] PINTUTRAFICO ALQUIDICO AMARILLO 659 _ 10012970-10015685 _COL (Versión 2) p.9 s.14; [4] PINTUTRAFICO ALQUIDICO AMARILLO 659 _ 10012970-10015685 _COL (Versión 2) p.9 s.14; [5] PINTUTRAFICO ALQUIDICO AMARILLO 659 _ 10012970-10015685 _COL (Versión 2) p.9 s.14; [6] PINTUTRAFICO ALQUIDICO AMARILLO 659 _ 10012970-10015685 _COL (Versión 2) p.9 s.14,0.5,1.0,1.0,,,
+Q03,B_k6,6,directa,¿En qué concentración contiene dióxido de titanio el VINILTEX PRO 650 BLANCO y cuál es su número CAS?,El VINILTEX PRO 650 BLANCO contiene dióxido de titanio en una concentración de **10 - <25 %** y su número CAS es **13463-67-7** [1].,El VINILTEX PRO 650 BLANCO (Pintuco) contiene dióxido de titanio (CAS 13463-67-7) en una concentración de 10 - <25 %.,"[1] Fabricante: Pintuco (marca: PINTUCO) | Producto: VINILTEX PRO 650 BLANCO | Versión: 4 | Carpeta: FDS 2021 | Documento: FDS EVALUADAS/FDS 2021/FDS 45 - VINILTEX PRO 650 BLANCO - PINTUCO .pdf | Página: 1-2 | Sección 3: Composición / información sobre los componentes
+# <mark>SECCIÓN 3: COMPOSICIÓN/INFORMACIÓN SOBRE LOS COMPONENTES</mark>
+
+- **3.1 Sustancias:** No aplicable
+
+- **3.2 Mezclas: Descripción química:** Mezcla a base de productos químicos **Componentes:**
+
+- CONTINÚA EN LA SIGUIENTE PÁGINA -
+
+**Página 1/10**
+
+Ficha de datos de seguridad según Decreto 1496 de 2018
+
+**VINILTEX PRO 650 BLANCO 10382444,10289235**
+
+![imagen pág. 2](images/FDS_45_-_VINILTEX_PRO_650_BLANCO_-_PINTUCO_.pdf-0002-02.png)
+> Imagen (pág. 2). OCR automático, revisar: «NE Ne El Color de la Calidad”»
+
+# <mark>SECCIÓN 3: COMPOSICIÓN/INFORMACIÓN SOBRE LOS COMPONENTES (continúa)</mark>
+
+De acuerdo al Decreto 1496 de 2018, el producto presenta:
+
+||Identificación||Nombre químico/clasificación|Concentración|
+|---|---|---|---|---|
+|CAS:|13463-67-7|**Dióxido de titanio**||**10 - <25 %**|
+|CAS:|14464-46-1|**Cristobalita**||**<1 %**|
+|CAS:|108-05-4|**Acetato de vinilo**||**<1 %**|
+|CAS:|75-07-0|**Acetaldehído**||**<1 %**|
+|CAS:|14808-60-7|**Cuarzo (1 % < RCS < 10 %)**||**<1 %**|
+<<<FRAGMENTO>>>
+[2] Fabricante: Pintuco (marca: PINTUCO) | Producto: VINILTEX PRO 650 BLANCO | Versión: 4 | Carpeta: FDS 2021 | Documento: FDS EVALUADAS/FDS 2021/FDS 45 - VINILTEX PRO 650 BLANCO - PINTUCO .pdf | Página: 1-2 | Sección 3: Composición / información sobre los componentes
+# <mark>SECCIÓN 3: COMPOSICIÓN/INFORMACIÓN SOBRE LOS COMPONENTES</mark>
+
+Para ampliar información sobre la peligrosidad de las sustancias consultar las secciones 11, 12 y 16. La clasificación respecto Carcinogenicidad de las sustancias se ha establecido en función de las monografías de la IARC adecuándola al sistema de clasificación SGA, para información sobre la clasificación IARC consulte la sección 11.
+<<<FRAGMENTO>>>
+[3] Fabricante: Pintuco (marca: PINTUCO) | Producto: VINILTEX PRO 650 BLANCO | Versión: 4 | Carpeta: FDS 2021 | Documento: FDS EVALUADAS/FDS 2021/FDS 45 - VINILTEX PRO 650 BLANCO - PINTUCO .pdf | Página: 6-8 | Sección 11: Información toxicológica
+# <mark>SECCIÓN 11: INFORMACIÓN TOXICOLÓGICA</mark>
+
+CAS 13463-67-7 Dióxido de Titanio: IARC lista esta sustancia como un posible carcinógeno humano (grupo 2B), indicando que hay suficientes evidencias para considerarlo carcinógeno en animales pero insuficientes para considerarlo como carcinógeno para seres humanos.
+
+La monografía de IARC para esta sustancia indica que no hay exposición significativa al dióxido de titanio durante el uso normal de productos en los que dióxido de titanio está unido permanentemente a otros materiales, tales como pinturas (Ref: Monografía IARC, Vol. 93, 2010).
+
+El lijado repetido de las superficies de película seca puede producir riesgo de sobreexposición al polvo dependiendo de la duración y nivel de lijado, para evitarla deben tomarse las medidas de protección adecuadas.
+
+## **Información toxicológica específica de las sustancias:**
+
+- CONTINÚA EN LA SIGUIENTE PÁGINA -
+
+Emisión: 16/05/2018            Revisión: 31/05/2021            Versión: 4 (sustituye a 3)
+
+**Página 7/10**
+
+Ficha de datos de seguridad según Decreto 1496 de 2018
+
+**VINILTEX PRO 650 BLANCO 10382444,10289235**
+<<<FRAGMENTO>>>
+[4] Fabricante: Pintuco (marca: PINTUCO) | Producto: VINILTEX PRO 650 BLANCO | Versión: 4 | Carpeta: FDS 2021 | Documento: FDS EVALUADAS/FDS 2021/FDS 45 - VINILTEX PRO 650 BLANCO - PINTUCO .pdf | Página: 6-8 | Sección 11: Información toxicológica
+# <mark>SECCIÓN 11: INFORMACIÓN TOXICOLÓGICA</mark>
+
+**Página 7/10**
+
+Ficha de datos de seguridad según Decreto 1496 de 2018
+
+**VINILTEX PRO 650 BLANCO 10382444,10289235**
+
+![imagen pág. 8](images/FDS_45_-_VINILTEX_PRO_650_BLANCO_-_PINTUCO_.pdf-0008-02.png)
+> Imagen (pág. 8). OCR automático, revisar: «NE Ne El Color de la Calidad”»
+
+# <mark>SECCIÓN 11: INFORMACIÓN TOXICOLÓGICA (continúa)</mark>
+
+||Identificación|Tox|icidad aguda|Género|
+|---|---|---|---|---|
+|Dióxido de titanio||DL50 oral|10000 mg/kg|Rata|
+|CAS: 13463-67-7||DL50 cutánea|10000 mg/kg|Conejo|
+|||CL50 inhalación|No relevante||
+|Acetato de vinilo||DL50 oral|2920 mg/kg|Rata|
+|CAS: 108-05-4||DL50 cutánea|2340 mg/kg|Conejo|
+|||CL50 inhalación|No relevante||
+<<<FRAGMENTO>>>
+[5] Fabricante: Pintuco (marca: PINTUCO) | Producto: VINILTEX PRO 650 BLANCO | Versión: 4 | Carpeta: FDS 2021 | Documento: FDS EVALUADAS/FDS 2021/FDS 45 - VINILTEX PRO 650 BLANCO - PINTUCO .pdf | Página: 6-7 | Sección 11: Información toxicológica
+# <mark>SECCIÓN 11: INFORMACIÓN TOXICOLÓGICA</mark>
+
+## **11.1 Información sobre las posibles vías de exposición:**
+
+- CONTINÚA EN LA SIGUIENTE PÁGINA -
+
+Emisión: 16/05/2018            Revisión: 31/05/2021            Versión: 4 (sustituye a 3)
+
+**Página 6/10**
+
+Ficha de datos de seguridad según Decreto 1496 de 2018
+
+**VINILTEX PRO 650 BLANCO 10382444,10289235**
+
+![imagen pág. 7](images/FDS_45_-_VINILTEX_PRO_650_BLANCO_-_PINTUCO_.pdf-0007-02.png)
+> Imagen (pág. 7). OCR automático, revisar: «NE Ne El Color de la Calidad”»
+
+# <mark>SECCIÓN 11: INFORMACIÓN TOXICOLÓGICA (continúa)</mark>
+
+No se dispone de datos experimentales del producto en sí mismo relativos a las propiedades toxicológicas
+
+## **Efectos peligrosos para la salud:**
+
+En caso de exposición repetitiva, prolongada o a concentraciones superiores a las establecidas por los límites de exposición profesionales, pueden producirse efectos adversos para la salud en función de la vía de exposición: A- Ingestión (efecto agudo):
+<<<FRAGMENTO>>>
+[6] Fabricante: Pintuco (marca: PINTUCO) | Producto: VINILTEX PRO 650 BLANCO | Versión: 4 | Carpeta: FDS 2021 | Documento: FDS EVALUADAS/FDS 2021/FDS 45 - VINILTEX PRO 650 BLANCO - PINTUCO .pdf | Página: 1 | Sección 0: Encabezado / sin sección
+Ficha de datos de seguridad según Decreto 1496 de 2018
+
+**VINILTEX PRO 650 BLANCO 10382444,10289235**
+
+![imagen pág. 1](images/FDS_45_-_VINILTEX_PRO_650_BLANCO_-_PINTUCO_.pdf-0001-02.png)
+> Imagen (pág. 1). OCR automático, revisar: «NE Ne El Color de la Calidad”»",[1] VINILTEX PRO 650 BLANCO p.1 s.3*; [2] VINILTEX PRO 650 BLANCO p.1 s.3; [3] VINILTEX PRO 650 BLANCO p.6 s.11; [4] VINILTEX PRO 650 BLANCO p.6 s.11; [5] VINILTEX PRO 650 BLANCO p.6 s.11; [6] VINILTEX PRO 650 BLANCO p.1 s.0,1.0,0.967,1.0,,,
+Q04,B_k6,6,directa,¿Qué protección respiratoria indica la FDS de SIGMADUR ONE BUFF 3142 de PPG?,"Protección de las vías: La selección del respirador se debe basar en el conocimiento previo de los niveles de riesgo de producto y los límites de trabajo de seguridad del respirador seleccionado. Si los trabajadores están expuestos a concentraciones superiores al límite de exposición, deben utilizar respiradores certificados adecuados. Use un respirador purificador de aire o con suministro de aire, que esté ajustado apropiadamente y que cumpla con las normas aprobadas si una evaluación de riesgo indica que es necesario. [1]","La FDS de SIGMADUR ONE BUFF 3142 (PPG) indica que la selección del respirador debe basarse en los niveles de exposición, los riesgos del producto y los límites de trabajo del respirador; si los trabajadores están expuestos por encima del límite de exposición deben usar respiradores certificados, y recomienda un respirador purificador de aire o con suministro de aire, ajustado apropiadamente y conforme a normas aprobadas, si una evaluación de riesgo indica que es necesario.","[1] Fabricante: PPG (marca: PPG) | Producto: SIGMADUR ONE BUFF 3142 | Versión: 8 | Carpeta: FDS 2022 | Documento: FDS EVALUADAS/FDS 2022/FDS 65 - SIGMADUR ONE BUFF 3142 - PPG.pdf | Página: 6-8 | Sección 8: Controles de exposición / protección personal
+## **Sección 8. Controles de exposición / protección personal**
+
+**Protección de las vías :** La selección del respirador se debe basar en el conocimiento previo de los  niveles, **respiratorias** los riesgos de producto y los límites de trabajo de seguridad del respirador seleccionado.  Si los trabajadores están expuestos a concentraciones superiores al límite de exposición, deben utilizar respiradores certificados adecuados.  Use un respirador purificador de aire o con suministro de aire, que esté ajustado apropiadamente y que cumpla con las normas aprobadas si una evaluación de riesgo indica que es necesario.
+<<<FRAGMENTO>>>
+[2] Fabricante: PPG (marca: PPG) | Producto: SIGMADUR ONE BUFF 3142 | Versión: 8 | Carpeta: FDS 2022 | Documento: FDS EVALUADAS/FDS 2022/FDS 65 - SIGMADUR ONE BUFF 3142 - PPG.pdf | Página: 6-7 | Sección 8: Controles de exposición / protección personal
+## **Sección 8. Controles de exposición / protección personal**
+
+**<mark>Parámetros de control</mark>**
+
+|**Límites de exposición laboral**||
+|---|---|
+|**Nombre de ingrediente**|**Límites de exposición**|
+|Disolvente Stoddard<br>Sulfato de bario<br>Dióxido de titanio<br>nafta disolvente (petróleo), fracción alifática intermedia<br>ácido 2-etilhexanoico, sal de circonio|**ACGIH TLV (Estados Unidos, 1/2021).**<br>TWA: 525 mg/m³ 8 horas.<br>TWA: 100 ppm 8 horas.<br>**ACGIH TLV (Estados Unidos, 1/2021).**<br>TWA: 5 mg/m³ 8 horas. Estado: Fracción<br>inhalable<br>**ACGIH TLV (Estados Unidos, 1/2021).**<br>TWA: 10 mg/m³ 8 horas.<br>**ACGIH TLV (Estados Unidos).**<br>TWA: 400 ppm<br>**ACGIH TLV (Estados Unidos, 1/2021).**<br>STEL: 10 mg/m³, (as Zr) 15 minutos.<br>TWA: 5 mg/m³, (as Zr) 8 horas.|
+
+**Spanish (MX) Colombia** **_6/15_**
+
+**Código 00322206 Nombre del producto SIGMADUR ONE BUFF 3142**
+
+**Fecha de emisión 1 Marzo 2022**
+
+**Versión**
+
+**8**
+
+## **Sección 8. Controles de exposición / protección personal**
+<<<FRAGMENTO>>>
+[3] Fabricante: PPG (marca: PPG) | Producto: SIGMADUR ONE BUFF 3142 | Versión: 8 | Carpeta: FDS 2022 | Documento: FDS EVALUADAS/FDS 2022/FDS 65 - SIGMADUR ONE BUFF 3142 - PPG.pdf | Página: 6-8 | Sección 8: Controles de exposición / protección personal
+## **Sección 8. Controles de exposición / protección personal**
+
+|**Procedimientos de control**<br>**recomendados**|Si este producto contiene ingredientes con límites de exposición, puede ser<br>necesaria la supervisión personal, del ambiente de trabajo o biológica para<br>determinar la efectividad de la ventilación o de otras medidas de control y/o la<br>necesidad de usar equipo respiratorio protector.  Se debe hacer referencia a las<br>normas adecuadas de monitoreo.  También se requiere hacer referencia a los<br>documentos guía nacionales sobre los métodos para la determinación de<br>sustancias peligrosas.<br>**:**|
+|---|---|
+|**Otro tipo de protección**<br>**para la piel**|**:** Antes de manipular este producto se debe elegir el calzado apropiado y cualquier<br>otra medida adicional de protección de la piel basadas en la tarea que se realice y<br>los riesgos asociados, para lo cual se contará con la aprobación de un especialista.|
+
+|**Spanish (MX)**|**Colombia**<br>**_7/15_**|
+|---|---|
+
+**Código 00322206 Nombre del producto**
+
+**Fecha de emisión**
+
+**Versión**
+
+**1 Marzo 2022**
+
+**8**
+
+**SIGMADUR ONE BUFF 3142**
+
+## **Sección 8. Controles de exposición / protección personal**
+<<<FRAGMENTO>>>
+[4] Fabricante: PPG (marca: PPG) | Producto: SIGMADUR ONE BUFF 3142 | Versión: 8 | Carpeta: FDS 2022 | Documento: FDS EVALUADAS/FDS 2022/FDS 65 - SIGMADUR ONE BUFF 3142 - PPG.pdf | Página: 6-7 | Sección 8: Controles de exposición / protección personal
+## **Sección 8. Controles de exposición / protección personal**
+
+|**Procedimientos de control**<br>**recomendados**|Si este producto contiene ingredientes con límites de exposición, puede ser<br>necesaria la supervisión personal, del ambiente de trabajo o biológica para<br>determinar la efectividad de la ventilación o de otras medidas de control y/o la<br>necesidad de usar equipo respiratorio protector.  Se debe hacer referencia a las<br>normas adecuadas de monitoreo.  También se requiere hacer referencia a los<br>documentos guía nacionales sobre los métodos para la determinación de<br>sustancias peligrosas.<br>**:**|
+|---|---|
+|**Protección de los ojos**<br>**Protección de la piel**|Gafas protectoras contra salpicaduras químicas.<br>**:**<br>|
+<<<FRAGMENTO>>>
+[5] Fabricante: PPG (marca: PPG) | Producto: SIGMADUR ONE BUFF 3142 | Versión: 8 | Carpeta: FDS 2022 | Documento: FDS EVALUADAS/FDS 2022/FDS 65 - SIGMADUR ONE BUFF 3142 - PPG.pdf | Página: 6-7 | Sección 8: Controles de exposición / protección personal
+## **Sección 8. Controles de exposición / protección personal**
+
+|**Procedimientos de control**<br>**recomendados**|Si este producto contiene ingredientes con límites de exposición, puede ser<br>necesaria la supervisión personal, del ambiente de trabajo o biológica para<br>determinar la efectividad de la ventilación o de otras medidas de control y/o la<br>necesidad de usar equipo respiratorio protector.  Se debe hacer referencia a las<br>normas adecuadas de monitoreo.  También se requiere hacer referencia a los<br>documentos guía nacionales sobre los métodos para la determinación de<br>sustancias peligrosas.<br>**:**|
+|---|---|
+|**Guantes**|caucho butílico<br>**:**|
+|**Protección del cuerpo**|Antes de utilizar este producto se debe seleccionar equipo protector personal para<br>el cuerpo basándose en la tarea a ejecutar y los riesgos involucrados y debe ser<br>aprobado por un especialista.  Cuando existe riesgo de ignición debido a la<br>electricidad estática, se requiere el uso de ropa antiestática de protección.  Para<br>obtener el máximo nivel de protección contra descargas electrostáticas es preciso<br>usar overoles, botas y guantes antiestáticos.<br>**:**|
+<<<FRAGMENTO>>>
+[6] Fabricante: PPG (marca: PPG) | Producto: SIGMADUR ONE BUFF 3142 | Versión: 8 | Carpeta: FDS 2022 | Documento: FDS EVALUADAS/FDS 2022/FDS 65 - SIGMADUR ONE BUFF 3142 - PPG.pdf | Página: 6-7 | Sección 8: Controles de exposición / protección personal
+## **Sección 8. Controles de exposición / protección personal**
+
+|**Procedimientos de control**<br>**recomendados**|Si este producto contiene ingredientes con límites de exposición, puede ser<br>necesaria la supervisión personal, del ambiente de trabajo o biológica para<br>determinar la efectividad de la ventilación o de otras medidas de control y/o la<br>necesidad de usar equipo respiratorio protector.  Se debe hacer referencia a las<br>normas adecuadas de monitoreo.  También se requiere hacer referencia a los<br>documentos guía nacionales sobre los métodos para la determinación de<br>sustancias peligrosas.<br>**:**|
+|---|---|
+|**Medidas de higiene**|Lave las manos, antebrazos y cara completamente después de manejar productos<br>químicos, antes de comer, fumar y usar el lavabo y al final del período de trabajo.<br>Usar las técnicas apropiadas para remover ropa contaminada.  La ropa de trabajo<br>contaminada no debe salir del lugar de trabajo.  Lavar las ropas contaminadas<br>antes de volver a usarlas.  Verifique que las estaciones de lavado de ojos y duchas<br>de seguridad se encuentren cerca de las estaciones de trabajo.<br>**:**|",[1] SIGMADUR ONE BUFF 3142 p.6 s.8*; [2] SIGMADUR ONE BUFF 3142 p.6 s.8; [3] SIGMADUR ONE BUFF 3142 p.6 s.8; [4] SIGMADUR ONE BUFF 3142 p.6 s.8; [5] SIGMADUR ONE BUFF 3142 p.6 s.8; [6] SIGMADUR ONE BUFF 3142 p.6 s.8,0.0,1.0,1.0,,,
+Q05,B_k6,6,directa,¿Qué medios de extinción recomienda la FDS del ESMALTE PROTEKLAND BLANCO 2 en 1 de Pintuland y cuál no se recomienda?,"La FDS del ESMALTE PROTEKLAND BLANCO, 2 en 1 de Pintuland recomienda emplear preferentemente extintores de polvo polivalente (polvo ABC) y alternativamente utilizar espuma física o extintores de dióxido de carbono (CO₂). [1] No se recomienda emplear agua a chorro como agente de extinción.","Para el ESMALTE PROTEKLAND BLANCO 2 en 1 (Pintuland) se recomienda emplear preferentemente extintores de polvo polivalente (polvo ABC) y, alternativamente, espuma física o extintores de dióxido de carbono (CO2); no se recomienda emplear agua a chorro.","[1] Fabricante: QUIMICA COSMOS S.A (marca: PINTULAND) | Producto: ESMALTE PROTEKLAND BLANCO, 2 en 1 | Versión: 1 | Carpeta: FDS 2023 | Documento: FDS EVALUADAS/FDS 2023/FDS 78 -  ESMALTE PROTEKLAND BLANCO, 2 en 1 - PINTULAND.pdf | Página: 3 | Sección 5: Medidas de lucha contra incendios
+# SECCIÓN 5: MEDIDAS DE LUCHA CONTRA INCENDIOS
+
+## **5.1 Medios de extinción apropiados: Medios de extinción apropiados:** Emplear preferentemente extintores de polvo polivalente (polvo ABC), alternativamente utilizar espuma física o extintores de dióxido de carbono (CO₂). **Medios de extinción no apropiados:**
+
+NO SE RECOMIENDA emplear agua a chorro como agente de extinción.
+
+- **5.2 Peligros específicos del producto químico:**
+
+- Como consecuencia de la combustión o descomposición térmica se generan subproductos de reacción que pueden resultar altamente tóxicos y, consecuentemente, pueden presentar un riesgo elevado para la salud.
+
+- **5.3 Medidas especiales que deben tomar los equipos de lucha contra incendios:**
+
+En función de la magnitud del incendio puede hacerse necesario el uso de ropa protectora completa y equipo de respiración autónomo. Disponer de un mínimo de instalaciones de emergencia o elementos de actuación (mantas ignífugas, botiquín portátil,...).
+
+## **Disposiciones adicionales:**
+<<<FRAGMENTO>>>
+[2] Fabricante: QUIMICA COSMOS S.A (marca: PINTULAND) | Producto: ESMALTE PROTEKLAND BLANCO, 2 en 1 | Versión: 1 | Carpeta: FDS 2023 | Documento: FDS EVALUADAS/FDS 2023/FDS 78 -  ESMALTE PROTEKLAND BLANCO, 2 en 1 - PINTULAND.pdf | Página: 3 | Sección 5: Medidas de lucha contra incendios
+# SECCIÓN 5: MEDIDAS DE LUCHA CONTRA INCENDIOS
+
+Actuar conforme el Plan de Emergencia Interior y las Fichas Informativas sobre actuación ante accidentes y otras emergencias. Suprimir cualquier fuente de ignición. En caso de incendio, refrigerar los recipientes y tanques de almacenamiento de productos susceptibles a inflamación, explosión o BLEVE como consecuencia de elevadas temperaturas. Evitar el vertido de los productos empleados en la extinción del incendio al medio acuático.
+<<<FRAGMENTO>>>
+[3] Fabricante: QUIMICA COSMOS S.A (marca: PINTULAND) | Producto: ESMALTE PROTEKLAND BLANCO, 2 en 1 | Versión: 1 | Carpeta: FDS 2023 | Documento: FDS EVALUADAS/FDS 2023/FDS 78 -  ESMALTE PROTEKLAND BLANCO, 2 en 1 - PINTULAND.pdf | Página: 1-2 | Sección 2: Identificación de los peligros
+# SECCIÓN 2: IDENTIFICACIÓN DEL PELIGRO O PELIGROS
+
+- Nafta de petróleo, solvente refinado.; Oxima de 2-butanona; Bis(2-etilhexanoato) de cobalto
+
+- **2.3 Otros peligros que no conducen a una clasificación:** No relevante
+
+- CONTINÚA EN LA SIGUIENTE PÁGINA -
+
+Emisión: 2/10/2023            Versión: 1
+
+**Página 1/14**
+
+Ficha de datos de seguridad según Decreto 1496 de 2018 y Resolución 773 de 2021
+
+# **51830001 - ESMALTE PROTEKLAND BLANCO, 2 en 1**
+
+![imagen pág. 2](images/FDS_78_-__ESMALTE_PROTEKLAND_BLANCO,_2_en_1_-_PINTULAND.pdf-0002-02.png)
+> Imagen (pág. 2). Sin texto legible por OCR; contenido gráfico no interpretado.
+
+<!-- Start of picture text -->
+OO o<br><!-- End of picture text -->
+
+Emisión: 2/10/2023            Versión: 1
+<<<FRAGMENTO>>>
+[4] Fabricante: QUIMICA COSMOS S.A (marca: PINTULAND) | Producto: ESMALTE PROTEKLAND BLANCO, 2 en 1 | Versión: 1 | Carpeta: FDS 2023 | Documento: FDS EVALUADAS/FDS 2023/FDS 78 -  ESMALTE PROTEKLAND BLANCO, 2 en 1 - PINTULAND.pdf | Página: 1 | Sección 0: Encabezado / sin sección
+Ficha de datos de seguridad según Decreto 1496 de 2018 y Resolución 773 de 2021
+
+# **51830001 - ESMALTE PROTEKLAND BLANCO, 2 en 1**
+
+![imagen pág. 1](images/FDS_78_-__ESMALTE_PROTEKLAND_BLANCO,_2_en_1_-_PINTULAND.pdf-0001-02.png)
+> Imagen (pág. 1). Sin texto legible por OCR; contenido gráfico no interpretado.
+
+Emisión: 2/10/2023            Versión: 1
+<<<FRAGMENTO>>>
+[5] Fabricante: QUIMICA COSMOS S.A (marca: PINTULAND) | Producto: ESMALTE PROTEKLAND BLANCO, 2 en 1 | Versión: 1 | Carpeta: FDS 2023 | Documento: FDS EVALUADAS/FDS 2023/FDS 78 -  ESMALTE PROTEKLAND BLANCO, 2 en 1 - PINTULAND.pdf | Página: 7-8 | Sección 11: Información toxicológica
+# SECCIÓN 11: INFORMACIÓN TOXICOLÓGICA
+
+## **11.1 Información sobre las posibles vías de exposición:**
+
+No se dispone de datos experimentales del producto en sí mismo relativos a las propiedades toxicológicas
+
+## **Efectos peligrosos para la salud:**
+
+En caso de exposición repetitiva, prolongada o a concentraciones superiores a las establecidas por los límites de exposición profesionales, pueden producirse efectos adversos para la salud en función de la vía de exposición: A- Ingestión (efecto agudo):
+
+- CONTINÚA EN LA SIGUIENTE PÁGINA -
+
+Emisión: 2/10/2023            Versión: 1
+
+**Página 7/14**
+
+Ficha de datos de seguridad según Decreto 1496 de 2018 y Resolución 773 de 2021
+
+# **51830001 - ESMALTE PROTEKLAND BLANCO, 2 en 1**
+
+![imagen pág. 8](images/FDS_78_-__ESMALTE_PROTEKLAND_BLANCO,_2_en_1_-_PINTULAND.pdf-0008-02.png)
+> Imagen (pág. 8). Sin texto legible por OCR; contenido gráfico no interpretado.
+
+Emisión: 2/10/2023            Versión: 1
+
+SECCIÓN 11: INFORMACIÓN TOXICOLÓGICA (continúa)
+<<<FRAGMENTO>>>
+[6] Fabricante: QUIMICA COSMOS S.A (marca: PINTULAND) | Producto: ESMALTE PROTEKLAND BLANCO, 2 en 1 | Versión: 1 | Carpeta: FDS 2023 | Documento: FDS EVALUADAS/FDS 2023/FDS 78 -  ESMALTE PROTEKLAND BLANCO, 2 en 1 - PINTULAND.pdf | Página: 7-9 | Sección 11: Información toxicológica
+# SECCIÓN 11: INFORMACIÓN TOXICOLÓGICA
+
+- CONTINÚA EN LA SIGUIENTE PÁGINA -
+
+Emisión: 2/10/2023            Versión: 1
+
+**Página 8/14**
+
+Ficha de datos de seguridad según Decreto 1496 de 2018 y Resolución 773 de 2021
+
+# **51830001 - ESMALTE PROTEKLAND BLANCO, 2 en 1**
+
+![imagen pág. 9](images/FDS_78_-__ESMALTE_PROTEKLAND_BLANCO,_2_en_1_-_PINTULAND.pdf-0009-02.png)
+> Imagen (pág. 9). Sin texto legible por OCR; contenido gráfico no interpretado.
+
+<!-- Start of picture text -->
+O<br><!-- End of picture text -->
+
+Emisión: 2/10/2023            Versión: 1
+
+# SECCIÓN 11: INFORMACIÓN TOXICOLÓGICA (continúa)
+
+|Identificación|Tox|icidad aguda|Género|
+|---|---|---|---|
+|Óxido de cinc|DL50 oral|7950 mg/kg|Ratón|
+|CAS: 1314-13-2|DL50 cutánea|No relevante||
+||CL50 inhalación|No relevante||
+|Tolueno|DL50 oral|5580 mg/kg|Rata|
+|CAS: 108-88-3|DL50 cutánea|12124 mg/kg|Rata|
+||CL50 inhalación|28.1 mg/L (4 h)|Rata|","[1] ESMALTE PROTEKLAND BLANCO, 2 en 1 p.3 s.5*; [2] ESMALTE PROTEKLAND BLANCO, 2 en 1 p.3 s.5; [3] ESMALTE PROTEKLAND BLANCO, 2 en 1 p.1 s.2; [4] ESMALTE PROTEKLAND BLANCO, 2 en 1 p.1 s.0; [5] ESMALTE PROTEKLAND BLANCO, 2 en 1 p.7 s.11; [6] ESMALTE PROTEKLAND BLANCO, 2 en 1 p.7 s.11",0.667,1.0,1.0,,,
+Q06,B_k6,6,directa,¿Qué indicaciones de peligro (frases H) tiene el Sikafloor-161 Part A Level Comercial de Sika?,"H227 Líquido combustible [2]. H315 Provoca irritación cutánea [2]. H317 Puede provocar una reacción cutánea alérgica [2]. H319 Provoca irritación ocular grave [2]. H411 Tóxico para los organismos acuáticos, con efectos nocivos duraderos [2].","El Sikafloor-161 Part A Level Comercial (Sika) tiene las indicaciones H227 (líquido combustible), H315 (provoca irritación cutánea), H317 (puede provocar una reacción cutánea alérgica), H319 (provoca irritación ocular grave) y H411 (tóxico para los organismos acuáticos, con efectos nocivos duraderos).","[1] Fabricante: Sika Colombia S.A.S (marca: SIKA) | Producto: Sikafloor®-161 Part A Level Comercial | Versión: 2.0 | Carpeta: FDS 2023 | Documento: FDS EVALUADAS/FDS 2023/FDS 73 - Sikafloor®-161 Part A Level Comercial - SIKA.pdf | Página: 1-2 | Sección 2: Identificación de los peligros
+### **SECCIÓN 2. IDENTIFICACIÓN DE LOS PELIGROS**
+
+### **Clasificación según SGA (GHS)**
+
+Líquidos Inflamables : Categoría 4 Corrosión/irritación cutáneas : Categoría 2 Lesiones oculares gra: Categoría 2A ves/irritación ocular Sensibilización cutánea : Categoría 1 Peligro a corto plazo (agudo) : Categoría 2 para el medio ambiente acuático Peligro a largo plazo (crónico) : Categoría 2 para el medio ambiente acuático **Etiqueta SGA (GHS)** Pictogramas de peligro : Palabra de advertencia : Atención <u>99</u>
+
+### **Etiqueta SGA (GHS)**
+
+<mark>1 / 11</mark>
+
+**HOJA DE DATOS DE SEGURIDAD**
+
+# **Sikafloor®-161  Part A**
+
+![imagen pág. 2](images/FDS_73_-_Sikafloor®-161_Part_A_Level_Comercial_-_SIKA.pdf-0002-02.png)
+> Imagen (pág. 2). Sin texto legible por OCR; contenido gráfico no interpretado.
+
+<!-- Start of picture text -->
+de<br><!-- End of picture text -->
+<<<FRAGMENTO>>>
+[2] Fabricante: Sika Colombia S.A.S (marca: SIKA) | Producto: Sikafloor®-161 Part A Level Comercial | Versión: 2.0 | Carpeta: FDS 2023 | Documento: FDS EVALUADAS/FDS 2023/FDS 73 - Sikafloor®-161 Part A Level Comercial - SIKA.pdf | Página: 1-2 | Sección 2: Identificación de los peligros
+### **SECCIÓN 2. IDENTIFICACIÓN DE LOS PELIGROS**
+
+<!-- Start of picture text -->
+de<br><!-- End of picture text -->
+
+|Versión 2.0|Número de HDS: 100000027041<br>Fecha de revisión: 2023/05/05|
+|---|---|
+|Indicaciones de peligro|:<br>H227 Líquido combustible.<br>H315 Provoca irritación cutánea.<br>H317 Puede provocar una reacción cutánea alérgica.<br>H319 Provoca irritación ocular grave.<br>H411 Tóxico para los organismos acuáticos, con efectos noci-<br>vos duraderos.|
+<<<FRAGMENTO>>>
+[3] Fabricante: Sika Colombia S.A.S (marca: SIKA) | Producto: Sikafloor®-161 Part A Level Comercial | Versión: 2.0 | Carpeta: FDS 2023 | Documento: FDS EVALUADAS/FDS 2023/FDS 73 - Sikafloor®-161 Part A Level Comercial - SIKA.pdf | Página: 1-2 | Sección 2: Identificación de los peligros
+### **SECCIÓN 2. IDENTIFICACIÓN DE LOS PELIGROS**
+
+|Versión 2.0|Número de HDS: 100000027041<br>Fecha de revisión: 2023/05/05|
+|---|---|
+||**Almacenamiento:**<br>P403 Almacenar en un lugar bien ventilado.|
+||**Eliminación:**|
+||P501 Eliminar el contenido/ recipiente en una planta de elimi-|
+||nación de residuos aprobada.|
+
+### **Otros peligros no clasificables**
+
+No conocidos.
+<<<FRAGMENTO>>>
+[4] Fabricante: Sika Colombia S.A.S (marca: SIKA) | Producto: Sikafloor®-161 Part A Level Comercial | Versión: 2.0 | Carpeta: FDS 2023 | Documento: FDS EVALUADAS/FDS 2023/FDS 73 - Sikafloor®-161 Part A Level Comercial - SIKA.pdf | Página: 1-2 | Sección 2: Identificación de los peligros
+### **SECCIÓN 2. IDENTIFICACIÓN DE LOS PELIGROS**
+
+|Versión 2.0|Número de HDS: 100000027041<br>Fecha de revisión: 2023/05/05|
+|---|---|
+|Consejos de prudencia|:<br>**Prevención:**<br>P210 Mantener alejado del calor, chispas, llamas al descubier-<br>to, superficies calientes y otras fuentes de ignición. No fumar.<br>P261 Evitar respirar nieblas o vapores.<br>P264 Lavarse la piel cuidadosamente después de la manipula-<br>ción.<br>P272 La ropa de trabajo contaminada no debe salir del lugar<br>de trabajo.<br>P273 No dispersar en el medio ambiente.<br>P280 Usar guantes/ ropa de protección/ equipo de protección<br>para los ojos/ la cara.<br>**Intervención:**<br>P302 + P352 EN CASO DE CONTACTO CON LA PIEL: Lavar<br>con abundante agua.<br>P305 + P351 + P338 EN CASO DE CONTACTO CON LOS<br>OJOS: Enjuagar con agua cuidadosamente durante varios<br>minutos. Quitar las lentes de contacto cuando estén presentes<br>y pueda hacerse con facilidad. Proseguir con el lavado.<br>P333 + P313 En caso de irritación cutánea o sarpullido: consul-<br>tar a un médico.<br>P337 + P313 Si la irritación ocular persiste, consultar a un mé-<br>dico.<br>P362 + P364 Quitar la ropa contaminada y lavarla antes de<br>volverla a usar.<br>P370 + P378 En caso de incendio: Utilizar arena seca, produc-<br>to químico seco o espuma resistente al alcohol para la extin-<br>ción.<br>P391 Recoger los vertidos.|
+<<<FRAGMENTO>>>
+[5] Fabricante: Sika Colombia S.A.S (marca: SIKA) | Producto: Sikafloor®-510  Part A | Versión: 2.3 | Carpeta: FDS 2024 | Documento: FDS EVALUADAS/FDS 2024/FDS 86 - Sikafloor®-510  Part A - SIKA.pdf | Página: 1-2 | Sección 2: Identificación de los peligros
+## **SECCIÓN 2. IDENTIFICACIÓN DEL PELIGRO O PELIGROS**
+
+## **Clasificación según SGA (GHS)**
+
+Corrosión/irritación cutáneas : Categoría 3 Sensibilización cutánea : Categoría 1 Toxicidad a la reproducción : Categoría 2 Peligro a corto plazo (agudo) : Categoría 3 para el medio ambiente acuático Peligro a largo plazo (crónico) : Categoría 3 para el medio ambiente acuático
+
+## **Etiqueta SGA (GHS)**
+
+Pictogramas de peligro :
+
+![imagen pág. 1](images/FDS_86_-_Sikafloor®-510__Part_A_-_SIKA.pdf-0001-14.png)
+> Imagen (pág. 1). Sin texto legible por OCR; contenido gráfico no interpretado.
+
+![imagen pág. 1](images/FDS_86_-_Sikafloor®-510__Part_A_-_SIKA.pdf-0001-15.png)
+> Imagen (pág. 1). Sin texto legible por OCR; contenido gráfico no interpretado.
+
+<mark>1 / 10</mark>
+
+**FICHA DE DATOS DE SEGURIDAD**
+
+Número de HDS: 000000611764
+
+# **Sikafloor®-510  Part A**
+
+Versión 2.3
+
+![imagen pág. 2](images/FDS_86_-_Sikafloor®-510__Part_A_-_SIKA.pdf-0002-04.png)
+> Imagen (pág. 2). Sin texto legible por OCR; contenido gráfico no interpretado.
+
+Fecha de revisión: 2024/09/23
+<<<FRAGMENTO>>>
+[6] Fabricante: Sika Colombia S.A.S (marca: SIKA) | Producto: Sikafloor-161-264 (B) | Versión: 2.0 | Carpeta: FDS 2023 | Documento: FDS EVALUADAS/FDS 2023/FDS 74 - Sikafloor-161-264 (B) - SIKA.pdf | Página: 1-2 | Sección 2: Identificación de los peligros
+## **SECCIÓN 2. IDENTIFICACIÓN DE LOS PELIGROS**
+
+**Clasificación según SGA (GHS)** Toxicidad aguda (Oral) : Categoría 4 Toxicidad aguda (Inhalación) : Categoría 4 Corrosión/irritación cutáneas : Sub-categoría 1B Lesiones oculares gra: Categoría 1 ves/irritación ocular Sensibilización cutánea : Categoría 1 Carcinogenicidad : Categoría 2 Toxicidad a la reproducción : Categoría 2 Peligro a corto plazo (agudo) : Categoría 2 para el medio ambiente acuático Peligro a largo plazo (crónico) : Categoría 2 para el medio ambiente acuático
+
+<mark>1 / 12</mark>
+
+**HOJA DE DATOS DE SEGURIDAD**
+
+# **Sikafloor®-161/264  Part B**
+
+<u>Número de HDS: 100000034346</u>
+
+<u>Versión 2.0</u>
+
+![imagen pág. 2](images/FDS_74_-_Sikafloor-161-264_-B-_-_SIKA.pdf-0002-04.png)
+> Imagen (pág. 2). Sin texto legible por OCR; contenido gráfico no interpretado.
+
+<!-- Start of picture text -->
+de<br><!-- End of picture text -->
+
+<u>Fecha de revisión: 2023/07/25</u>",[1] Sikafloor®-161 Part A Level Comercial p.1 s.2; [2] Sikafloor®-161 Part A Level Comercial p.1 s.2*; [3] Sikafloor®-161 Part A Level Comercial p.1 s.2; [4] Sikafloor®-161 Part A Level Comercial p.1 s.2; [5] Sikafloor®-510  Part A p.1 s.2; [6] Sikafloor-161-264 (B) p.1 s.2,0.0,1.0,1.0,,,
+Q07,B_k6,6,integracion,"En el ESMALTE LINEA CLASICA BLANCO de Pintuland, ¿en qué concentración aparece el etilbenceno en la composición y cuál es su límite TLV-TWA según la sección de controles de exposición?","El etilbenceno aparece en la composición del ESMALTE LINEA CLASICA, BLANCO de Pintuland con la concentración de CAS: 100-41-4 [2]. El límite TLV-TWA según la sección de controles de exposición es 20 ppm [1].","El ESMALTE LINEA CLASICA BLANCO (Pintuland) contiene etilbenceno (CAS 100-41-4) en 0,2 - <2,5 %; su límite TLV-TWA (ACGIH) es 20 ppm (además indica un PEL 8-hour TWA de 100 ppm, 435 mg/m³).","[1] Fabricante: QUIMICA COSMOS S.A (marca: PINTULAND) | Producto: ESMALTE LINEA CLASICA, BLANCO | Versión: 2 | Carpeta: FDS 2022 | Documento: FDS EVALUADAS/FDS 2022/FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf | Página: 4-5 | Sección 8: Controles de exposición / protección personal
+# SECCIÓN 8: CONTROLES DE EXPOSICIÓN/PROTECCIÓN PERSONAL **8.1 Parámetros de control:** Sustancias cuyos valores límite de exposición profesional han de controlarse en el ambiente de trabajo: ~~IS~~
+
+- CONTINÚA EN LA SIGUIENTE PÁGINA -
+
+Emisión: 15/06/2022            Revisión: 5/10/2022            Versión: 2 (sustituye a 1)
+
+**Página 4/14**
+
+Ficha de datos de seguridad según Decreto 1496 de 2018 y Resolución 773 de 2021
+
+## **50130001 - ESMALTE LINEA CLASICA, BLANCO**
+
+![imagen pág. 5](images/FDS_55_-_ESMALTE_LINEA_CLASICA,_BLANCO_-_PINTULAND.pdf-0005-02.png)
+> Imagen (pág. 5). Sin texto legible por OCR; contenido gráfico no interpretado.
+
+<!-- Start of picture text -->
+OO ®<br><!-- End of picture text -->
+
+Emisión: 15/06/2022            Revisión: 5/10/2022            Versión: 2 (sustituye a 1)
+<<<FRAGMENTO>>>
+[2] Fabricante: QUIMICA COSMOS S.A (marca: PINTULAND) | Producto: ESMALTE LINEA CLASICA, BLANCO | Versión: 2 | Carpeta: FDS 2022 | Documento: FDS EVALUADAS/FDS 2022/FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf | Página: 4-5 | Sección 8: Controles de exposición / protección personal
+# SECCIÓN 8: CONTROLES DE EXPOSICIÓN/PROTECCIÓN PERSONAL **8.1 Parámetros de control:** Sustancias cuyos valores límite de exposición profesional han de controlarse en el ambiente de trabajo: ~~IS~~
+
+a las instrucciones del fabricante. Se<br>recomienda su uso en caso de riesgo de salpicaduras.<br>Protección obligatoria<br>de la cara<br>E.- Protección corporal<br><!-- End of picture text -->
+
+![imagen pág. 5](images/FDS_55_-_ESMALTE_LINEA_CLASICA,_BLANCO_-_PINTULAND.pdf-0005-05.png)
+> Imagen (pág. 5). OCR automático, revisar: «8.2 OSHA (Tablas Z): Etlbenceno 435 mg/m? CAS: 100-41-4 ACGIH (2022): Etlbenceno CAS: 100-41-4 20 ppm ite biológicos: Indices de exposición biológicos (BEIs®) - ACGIH Suma de ácido 150 mg/g (Creatinina) |. mandélico y ácido Fin del turno fenilglioxilico en la orina Etilbenceno CAS: 100-41-4 Controles técnicos apropiados: A.- Medidas de protección individual, como equipo de protección personal (EPP) Realizar la identificación de los peligros y la valoración de los riesgos de acuerdo a la Guia técnica colombiana GTC 45. De acuerdo al orden de prioridad para el control de la exposición profesional se recomienda la extracción localizada en la zona de trabajo como medida de protección colectiva para evitar sobrepasar los límites de exposición profesional. Para más información sobre los equipos de protección individual (almacenamiento, uso, limpieza, mantenimiento, clase de protección,...) consultar el folleto informativo facilitado por el fabricante del EPP. Las indicaciones contenidas en este punto se refieren al producto puro. Las medidas de
+<<<FRAGMENTO>>>
+[3] Fabricante: QUIMICA COSMOS S.A (marca: PINTULAND) | Producto: ESMALTE LINEA CLASICA, BLANCO | Versión: 2 | Carpeta: FDS 2022 | Documento: FDS EVALUADAS/FDS 2022/FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf | Página: 4-5 | Sección 8: Controles de exposición / protección personal
+# SECCIÓN 8: CONTROLES DE EXPOSICIÓN/PROTECCIÓN PERSONAL **8.1 Parámetros de control:** Sustancias cuyos valores límite de exposición profesional han de controlarse en el ambiente de trabajo: ~~IS~~
+
+<!-- Start of picture text -->
+OO ®<br><!-- End of picture text -->
+
+Emisión: 15/06/2022            Revisión: 5/10/2022            Versión: 2 (sustituye a 1)
+
+![imagen pág. 5](images/FDS_55_-_ESMALTE_LINEA_CLASICA,_BLANCO_-_PINTULAND.pdf-0005-04.png)
+> Imagen (pág. 5). OCR automático, revisar: «SECCIÓN 8: CONTROLES DE EXPOSICION/PROTECCI 8.2 OSHA (Tablas Z): 435 mg/m. Etlbenceno CAS: 100-41-4 ACGIH (2022): Etilbenceno 20 ppm CAS: 100-41-4 Valores límite biológicos: Indices de exposición biológicos (BEIs®) - ACGIH Etilbenceno Suma de ácido 150 mg/g (Creatinina) |. mandélico y ácido Fin del turno CAS: 100-41-4 fenilglioxilico en la orina Controles técnicos apropiados: A.- Medidas de protección individual, como equipo de protección personal (EPP) Realizar la identificación de los peligros y la valoración de los riesgos de acuerdo a la Guia técnica colombiana GTC 45. De acuerdo al orden de prioridad para el control de la exposición profesional se recomienda la extracción localizada en la zona de trabajo como medida de protección colectiva para evitar sobrepasar los límites de exposición profesional. Para más información sobre los equipos de protección individual (almacenamiento, uso, limpieza, mantenimiento, clase de protección,...) consultar el folleto informativo facilitado por el fabricante del EPP. Las indicaciones contenidas en este
+<<<FRAGMENTO>>>
+[4] Fabricante: QUIMICA COSMOS S.A (marca: PINTULAND) | Producto: ESMALTE LINEA CLASICA, BLANCO | Versión: 2 | Carpeta: FDS 2022 | Documento: FDS EVALUADAS/FDS 2022/FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf | Página: 2 | Sección 3: Composición / información sobre los componentes
+## SECCIÓN 3: COMPOSICIÓN/INFORMACIÓN SOBRE LOS COMPONENTES
+
+- **3.1 Sustancias:**
+
+No aplicable
+
+![imagen pág. 2](images/FDS_55_-_ESMALTE_LINEA_CLASICA,_BLANCO_-_PINTULAND.pdf-0002-14.png)
+> Imagen (pág. 2). OCR automático, revisar: «Mezclas: Descripción quit Componentes: Mezcla a base de aditivos, cargas y resinas en disolventes De acuerdo al Decreto 1496 de 2018 y la Resolución 773 de 2021, el producto presenta: Nafta de petróleo, solvente refinado. [CAS: 8032-32-4 Irrit. Cut. 2: H315; Lig. Infl. 3: H226; Repr. H304 - Peligro Bis(2-etilhexanoato) de cobalto [CAS: (136-52-: [Acuático agudo. 1: H400; Acuático crónico. 3: H412; Carc. 2: H351; Irrit0€. 2: H319;Repr. 18: H360; Sens. OD 10,2 - <2,5 %| [Cut. 1: H317 - Peligro Etilbenceno (361; STOT repe. 2: H373; STOT única 3: H335; Tox. Asp. 1: I> @> @y 25 - <50% es: 1 Acustico agudo. 3: 1402; Care. 2: H351; Lig. Inf 2: H225; Tox. Agud. 4: 1332; Tox, Agud. 5: H303 = Peligro <t> <B> 0,2 - <2,5 %| Ligroina CAS: 8032-32-4 Care. 1B: H350; Irrit. Cut. 2: H315; Irrit..oc. 2: H319; Lig. Infl. 4: H227; Muta, 18: H340; Repr. 1B: H360; STOT > [0,2 - <2,5 %| repe. 2: H373; STOT única 3: H335; STOT única 3: H336; Tox. Asp. 1: H304 - Peligro Oxima de 2-butanona CAS: 96-29-7 Care. 18: H350; Irrit. Cut. 2: H315; Les. Oc. 1: H318; Lig. Infl. 4:
+<<<FRAGMENTO>>>
+[5] Fabricante: QUIMICA COSMOS S.A (marca: PINTULAND) | Producto: ESMALTE LINEA CLASICA, BLANCO | Versión: 2 | Carpeta: FDS 2022 | Documento: FDS EVALUADAS/FDS 2022/FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf | Página: 2 | Sección 3: Composición / información sobre los componentes
+## SECCIÓN 3: COMPOSICIÓN/INFORMACIÓN SOBRE LOS COMPONENTES
+
+- **3.1 Sustancias:**
+
+No aplicable
+<<<FRAGMENTO>>>
+[6] Fabricante: QUIMICA COSMOS S.A (marca: PINTULAND) | Producto: ESMALTE LINEA CLASICA, BLANCO | Versión: 2 | Carpeta: FDS 2022 | Documento: FDS EVALUADAS/FDS 2022/FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf | Página: 4-6 | Sección 8: Controles de exposición / protección personal
+# SECCIÓN 8: CONTROLES DE EXPOSICIÓN/PROTECCIÓN PERSONAL **8.1 Parámetros de control:** Sustancias cuyos valores límite de exposición profesional han de controlarse en el ambiente de trabajo: ~~IS~~
+
+a las instrucciones del fabricante. Se<br>recomienda su uso en caso de riesgo de salpicaduras.<br>Protección obligatoria<br>de la cara<br>E.- Protección corporal<br><!-- End of picture text -->
+
+- CONTINÚA EN LA SIGUIENTE PÁGINA -
+
+Emisión: 15/06/2022            Revisión: 5/10/2022            Versión: 2 (sustituye a 1)
+
+**Página 5/14**
+
+Ficha de datos de seguridad según Decreto 1496 de 2018 y Resolución 773 de 2021
+
+## **50130001 - ESMALTE LINEA CLASICA, BLANCO**
+
+![imagen pág. 6](images/FDS_55_-_ESMALTE_LINEA_CLASICA,_BLANCO_-_PINTULAND.pdf-0006-02.png)
+> Imagen (pág. 6). Sin texto legible por OCR; contenido gráfico no interpretado.
+
+Emisión: 15/06/2022            Revisión: 5/10/2022            Versión: 2 (sustituye a 1)
+
+## SECCIÓN 8: CONTROLES DE EXPOSICIÓN/PROTECCIÓN PERSONAL (continúa)","[1] ESMALTE LINEA CLASICA, BLANCO p.4 s.8*; [2] ESMALTE LINEA CLASICA, BLANCO p.4 s.8*; [3] ESMALTE LINEA CLASICA, BLANCO p.4 s.8; [4] ESMALTE LINEA CLASICA, BLANCO p.2 s.3; [5] ESMALTE LINEA CLASICA, BLANCO p.2 s.3; [6] ESMALTE LINEA CLASICA, BLANCO p.4 s.8",0.5,0.967,1.0,,,
+Q08,B_k6,6,integracion,Compara el punto de inflamación de la PINTULACA BLANCO 7519 y del ESMALTE PINTULUX ALUMINIO de Pintuco. ¿Cuál es más inflamable?,"El punto de inflamación de la PINTULACA BLANCO 7519 es de 20 ºC. [1] El punto de inflamación del ESMALTE PINTULUX ALUMINIO es de 56 ºC. Por lo tanto, la PINTULACA BLANCO 7519 es más inflamable que el ESMALTE PINTULUX ALUMINIO.","La PINTULACA BLANCO 7519 tiene punto de inflamación de 20 ºC y el ESMALTE PINTULUX ALUMINIO de 56 ºC; la Pintulaca, con el punto de inflamación más bajo, es la más inflamable.","[1] Fabricante: Pintuco (marca: PINTUCO) | Producto: ESMALTE PINTULUX ALUMINIO | Versión: 2 | Carpeta: FDS 2020 | Documento: FDS EVALUADAS/FDS 2020/FDS 37 - ESMALTE PINTULUX ALUMINIO - PINTUCO .pdf | Página: 5-6 | Sección 9: Propiedades físicas y químicas
+# <mark>SECCIÓN 9: PROPIEDADES FÍSICAS Y QUÍMICAS Y CARACTERÍSTICAS DE SEGURIDAD</mark>
+
+||Temperatura de descomposición:|No relevante *|
+|---|---|---|
+||Punto de fusión/punto de congelación:|No relevante *|
+||Propiedades explosivas:|No relevante *|
+||Propiedades comburentes:|No relevante *|
+||**Inflamabilidad:**||
+||Punto de inflamación:|56 ºC|
+||Inflamabilidad (sólido, gas):|No relevante *|
+||Temperatura de auto-inflamación:|200 ºC|
+||Límite de inflamabilidad inferior:|No determinado|
+||Límite de inflamabilidad superior:|No determinado|
+||**Explosividad:**||
+||Límite inferior de explosividad:|No relevante *|
+||Límite superior de explosividad:|No relevante *|
+|**9.2**|**Información adicional:**||
+||Tensión superficial a 20 ºC:|No relevante *|
+||Índice de refracción:|No relevante *|
+
+*No relevante debido a la naturaleza del producto, no aportando información característica de su peligrosidad.
+<<<FRAGMENTO>>>
+[2] Fabricante: Pintuco (marca: PINTUCO) | Producto: PINTULACA BLANCO 7519 | Versión: 3 | Carpeta: FDS 2019 | Documento: FDS EVALUADAS/FDS 2019/FDS 32 - PINTULACA BLANCO 7519 - PINTUCO.pdf | Página: 6 | Sección 9: Propiedades físicas y químicas
+<mark>SECCIÓN 9: PROPIEDADES FÍSICAS Y QUÍMICAS Y CARACTERÍSTICAS DE SEGURIDAD</mark>
+
+|**9.1**|**Información de propiedades físicas y químicas bá**|**sicas:**|
+|---|---|---|
+||Propiedades explosivas:|No relevante *|
+||Propiedades comburentes:|No relevante *|
+||**Inflamabilidad:**||
+||Punto de inflamación:|20 ºC|
+||Inflamabilidad (sólido, gas):|No relevante *|
+||Temperatura de auto-inflamación:|230 ºC|
+||Límite de inflamabilidad inferior:|No determinado|
+||Límite de inflamabilidad superior:|No determinado|
+||**Explosividad:**||
+||Límite inferior de explosividad:|No relevante *|
+||Límite superior de explosividad:|No relevante *|
+|**9.2**|**Información adicional:**||
+||Tensión superficial a 20 ºC:|No relevante *|
+||Índice de refracción:|No relevante *|
+||*No relevante debido a la naturaleza del producto, no aportando i|nformación característica de su peligrosidad.|
+<<<FRAGMENTO>>>
+[3] Fabricante: Pintuco (marca: PINTUCO) | Producto: ESMALTE PINTULUX ALUMINIO | Versión: 2 | Carpeta: FDS 2020 | Documento: FDS EVALUADAS/FDS 2020/FDS 37 - ESMALTE PINTULUX ALUMINIO - PINTUCO .pdf | Página: 5-6 | Sección 9: Propiedades físicas y químicas
+# <mark>SECCIÓN 9: PROPIEDADES FÍSICAS Y QUÍMICAS Y CARACTERÍSTICAS DE SEGURIDAD</mark>
+
+*No relevante debido a la naturaleza del producto, no aportando información característica de su peligrosidad.
+
+- CONTINÚA EN LA SIGUIENTE PÁGINA -
+
+Emisión: 28/01/2019            Revisión: 13/07/2020            Versión: 2 (sustituye a 1)
+
+**Página 5/11**
+
+Ficha de datos de seguridad según Decreto 1496 de 2018
+
+![imagen pág. 6](images/FDS_37_-_ESMALTE_PINTULUX_ALUMINIO_-_PINTUCO_.pdf-0006-01.png)
+> Imagen (pág. 6). OCR automático, revisar: «NE Ne El Color de la Calidad”»
+
+# **ESMALTE PINTULUX ALUMINIO 10389907**
+
+# <mark>SECCIÓN 9: PROPIEDADES FÍSICAS Y QUÍMICAS Y CARACTERÍSTICAS DE SEGURIDAD (continúa)</mark>
+<<<FRAGMENTO>>>
+[4] Fabricante: Pintuco (marca: PINTUCO) | Producto: PINTULACA BLANCO 7519 | Versión: 3 | Carpeta: FDS 2019 | Documento: FDS EVALUADAS/FDS 2019/FDS 32 - PINTULACA BLANCO 7519 - PINTUCO.pdf | Página: 6 | Sección 9: Propiedades físicas y químicas
+<mark>SECCIÓN 9: PROPIEDADES FÍSICAS Y QUÍMICAS Y CARACTERÍSTICAS DE SEGURIDAD</mark>
+
+|**9.1**|**Información de propiedades físicas y químicas bá**|**sicas:**|
+|---|---|---|
+||Para completar la información ver la ficha técnica/hoj|a de especificaciones del producto.|
+||**Aspecto físico:**||
+||Estado físico a 20 ºC:|Líquido|
+||Aspecto:|Característico|
+||Color:|Característico|
+||Olor:|Característico|
+||Umbral olfativo:|No relevante *|
+||**Volatilidad:**||
+||Temperatura de ebullición a presión atmosférica:|108 ºC|
+||Presión de vapor a 20 ºC:|3732 Pa|
+||Presión de vapor a 50 ºC:|124,8  (16,64 kPa)|
+||Tasa de evaporación a 20 ºC:|No relevante *|
+||**Caracterización del producto:**||
+||Densidad a 20 ºC:|1079,6 kg/m³|
+||Densidad relativa a 20 ºC:|1,123 - 1,149|
+||Viscosidad dinámica a 20 ºC:|No relevante *|
+||Viscosidad cinemática a 20 ºC:|No relevante *|
+||Viscosidad cinemática a 40 ºC:|No relevante *|
+||Concentración:|No relevante *|
+||pH:|No relevante *|
+||Densidad de vapor a 20 ºC:|No relevante *|
+||Coeficiente de reparto n-octanol/agua a 20 ºC:|No relevante *|
+||Solubilidad en agua a 20 ºC:|No relevante *|
+||Propiedad de solubilidad:|No relevante *|
+||Temperatura de descomposición:|No relevante *|
+||Punto de fusión/punto de congelación:|No relevante *|
+<<<FRAGMENTO>>>
+[5] Fabricante: Sika Colombia S.A.S | Producto: Esmalte Epóxico Aluminio 333441 | Versión: s/d | Carpeta: FDS 2020 | Documento: FDS EVALUADAS/FDS 2020/FDS 26 - Esmalte Epóxico Aluminio 333441.pdf | Página: 6-7 | Sección 9: Propiedades físicas y químicas
+**SECCIÓN 9: Propiedades físicas y químicas 9.1 Información sobre propiedades físicas y químicas básicas Aspecto Estado físico:** Líquido **Color:** Aluminio **Olor:** Característico **Umbral olfativo:** No disponible **pH:** No disponible **Punto de fusión/punto de Congelación:** No disponible **Punto inicial de ebullición e intervalo de ebullición:** No disponible **Punto de inflamación:** < 23°Cvaso cerrado (ASTM D56) **Tasa de evaporación** No disponible **Inflamabilidad (sólido, gas):** No disponible **Tiempo de Combustión:** No aplicable **Velocidad de Combustión:** No aplicable **Límites superior/inferior de** Valor más bajo conocido: **inflamabilidad o de explosividad:** Punto mínimo: 0.8% (xileno) Valor más alto conocido: Punto máximo: 8% (acetato de n-propilo)
+
+6/9
+
+Fecha de emisión: 07.10.2020
+
+MSDS no. 1120
+
+Esmalte Epoxico Aluminio
+<<<FRAGMENTO>>>
+[6] Fabricante: Sika Colombia S.A.S | Producto: Esmalte Epóxico Aluminio 333441 | Versión: s/d | Carpeta: FDS 2020 | Documento: FDS EVALUADAS/FDS 2020/FDS 26 - Esmalte Epóxico Aluminio 333441.pdf | Página: 6-7 | Sección 9: Propiedades físicas y químicas
+**SECCIÓN 9: Propiedades físicas y químicas 9.1 Información sobre propiedades físicas y químicas básicas Aspecto Estado físico:** Líquido **Color:** Aluminio **Olor:** Característico **Umbral olfativo:** No disponible **pH:** No disponible **Punto de fusión/punto de Congelación:** No disponible **Punto inicial de ebullición e intervalo de ebullición:** No disponible **Punto de inflamación:** < 23°Cvaso cerrado (ASTM D56) **Tasa de evaporación** No disponible **Inflamabilidad (sólido, gas):** No disponible **Tiempo de Combustión:** No aplicable **Velocidad de Combustión:** No aplicable **Límites superior/inferior de** Valor más bajo conocido: **inflamabilidad o de explosividad:** Punto mínimo: 0.8% (xileno) Valor más alto conocido: Punto máximo: 8% (acetato de n-propilo)
+
+6/9
+
+Fecha de emisión: 07.10.2020
+
+MSDS no. 1120
+
+Esmalte Epoxico Aluminio
+
+**Presión de vapor:** Valor más alto conocido: 4.8 kPa (35.93 mm HG) (acetato de n-propilo) **Densidad de vapor:** No disponible **Densidad:** 0.9 kg/l - 1.4 kg/l (20°C) **Densidad relativa:** No disponible **Solubilidad(es):** El producto no es soluble en agua **Coeficiente de reparto noctanol/agua:** No disponible **Temperatura de autoinflamación:** 380 °C (acetato de n-propilo) **Temperatura de descomposición:** No disponible **Viscosidad:** No disponible **Propiedades explosivas:** No disponible **Propiedades comburentes:** No disponible",[1] ESMALTE PINTULUX ALUMINIO p.5 s.9*; [2] PINTULACA BLANCO 7519 p.6 s.9; [3] ESMALTE PINTULUX ALUMINIO p.5 s.9; [4] PINTULACA BLANCO 7519 p.6 s.9; [5] Esmalte Epóxico Aluminio 333441 p.6 s.9; [6] Esmalte Epóxico Aluminio 333441 p.6 s.9,0.667,1.0,0.667,,,
+Q09,B_k6,6,integracion,¿Cómo cambió la concentración de compuestos orgánicos volátiles (C.O.V.) de la PINTURA TOTAL de Corona entre la ficha de 2021 y la de 2023?,No hay evidencia suficiente en las FDS recuperadas para responder. [1][2],"En la ficha de 2021 (versión 7) la PINTURA TOTAL de Corona declara una concentración de C.O.V. a 20 ºC de 14,68 g/L, y en la de 2023 (versión 11) de 40,18 g/L; en ambas el contenido de compuestos orgánicos volátiles es 1,01 % en peso.","[1] Fabricante: CORLANC S.A.S (marca: CORONA) | Producto: PINTURA TOTAL | Versión: 11 | Carpeta: FDS 2023 | Documento: FDS EVALUADAS/FDS 2023/FDS 76 - PINTURA TOTAL - CORONA.pdf | Página: 2 | Sección 3: Composición / información sobre los componentes
+# SECCIÓN 3: COMPOSICIÓN/INFORMACIÓN SOBRE LOS COMPONENTES
+
+De acuerdo al Decreto 1496 de 2018 y la Resolución 773 de 2021, el producto presenta:
+
+![imagen pág. 2](images/FDS_76_-_PINTURA_TOTAL_-_CORONA.pdf-0002-07.png)
+> Imagen (pág. 2). OCR automático, revisar: «Identificación Nombre químico/clasificación Concentración Agua [CAS: — 7732-18-5 30 - <50 Y Piedra caliza CAS: 1317-65-3 15 - <30% [Caolin CAS: 1332-58-7 5-<15% Dioxido de titanio (diámetro aerodinámico < 10 ym) CAS: 13463-67-7 [Carc. 2: H351 - Atención 5-15 % Butilcarbamato de 3-iodo-2-propinilo cas: 55406-53-6 [Acuático agudo. 1: H400; Les. Oc. 1: H318; Sens. Cut. 1: H317; STOT única 3: H335; Tox. Agud. 4: <5 Y H302+H332; Tox. Agud. 5: H313 - Peligro Para ampliar información sobre la peligrosidad de las sustancias consultar las secciones 11, 12 y 16. La clasificación respecto Carcinogenicidad de las sustancias se ha establecido en función de las monografías de la IARC adecuándola al sistema de clasificación SGA, para información sobre la clasificación IARC consulte la sección 11.»
+<<<FRAGMENTO>>>
+[2] Fabricante: CORLANC S.A.S (marca: CORONA) | Producto: PINTURA TOTAL | Versión: 11 | Carpeta: FDS 2023 | Documento: FDS EVALUADAS/FDS 2023/FDS 76 - PINTURA TOTAL - CORONA.pdf | Página: 6 | Sección 9: Propiedades físicas y químicas
+# **PINTURA TOTAL**
+
+||Densidad a 20 ºC:|1447,1 kg/m³|
+|---|---|---|
+||Calor de combustión:|No relevante *|
+||Aerosoles-porcentaje total (en masa) de componentes<br>inflamables:|No relevante *|
+||**Otras características de seguridad:**||
+||Tensión superficial a 20 ºC:|No relevante *|
+||Índice de refracción:|No relevante *|
+
+*No relevante debido a la naturaleza del producto, no aportando información característica de su peligrosidad.
+<<<FRAGMENTO>>>
+[3] Fabricante: CORLANC S.A.S (marca: CORONA) | Producto: PINTURA TOTAL | Versión: 11 | Carpeta: FDS 2023 | Documento: FDS EVALUADAS/FDS 2023/FDS 76 - PINTURA TOTAL - CORONA.pdf | Página: 5-6 | Sección 9: Propiedades físicas y químicas
+químicas básicas:<br>Para completar la información ver la ficha técnica/hoja de especificaciones del producto.<br>Aspecto físico:<br>Estado físico a 20 ºC:  Líquido<br>Aspecto:  Dispersión<br>Color:
+
+químicas básicas:<br>Para completar la información ver la ficha técnica/hoja de especificaciones del producto.<br>Aspecto físico:<br>Estado físico a 20 ºC:  Líquido<br>Aspecto:  Dispersión<br>Color:  Blanco<br>Olor:  Característico<br>Umbral olfativo:  No relevante *<br>Volatilidad:<br>Temperatura de ebullición a presión atmosférica:  101 ºC<br>Presión de vapor a 20 ºC:  2337 Pa<br>Presión de vapor a 50 ºC:  12312,85 Pa  (12,31 kPa)<br>Tasa de evaporación a 20 ºC:  No relevante *<br>Caracterización del producto:<br>*No relevante debido a la naturaleza del producto, no aportando información característica de su peligrosidad.<br><!-- End of picture text -->
+
+- CONTINÚA EN LA SIGUIENTE PÁGINA -
+
+Emisión: 04/03/2019            Revisión: 02/05/2023            Versión: 11 (sustituye a 10)
+
+**Página 5/10**
+
+Ficha de datos de seguridad según Decreto 1496 de 2018 y Resolución 773 de 2021
+<<<FRAGMENTO>>>
+[4] Fabricante: CORLANC S.A.S (marca: CORONA) | Producto: PINTURA TOTAL | Versión: 7 | Carpeta: FDS 2021 | Documento: FDS EVALUADAS/FDS 2021/FDS 49 - PINTURA TOTAL - CORONA .pdf | Página: 4-5 | Sección 8: Controles de exposición / protección personal
+# SECCIÓN 8: CONTROLES DE EXPOSICIÓN/PROTECCIÓN PERSONAL
+
+rgencia Medida de emergencia Normas Medida de emergencia Normas + ANSI 2358-1 DIN 12 899 ISO 3864-1:2011, ISO 3864-4:2011 150 3864-1:2011, ISO 3864-4:2011 Ducha de emergencia Lavaojos Controles de la exposición del medio ambiente: Se recomienda evitar el vertido tanto del producto como de su envase al medio ambiente. Para información adicional ver epígrafe 7.1.D de la FDS. NTC 6018- Etiquetas ambientales tipo I. Sello ambiental colombiano. Criterios ambientales para pinturas y materiales de recubrimiento (determinados de acuerdo con la norma ASTM D6886): Compuestos orgánicos volátiles: Concentración C.O.V. a 20 °C: ROPIEDADES FÍSICAS Y 1,01 % peso 14,68 kg/m? (14,68 g/L) MICAS Y CARACTERISTICAS DE Información de propiedades físicas y químicas básicas: Para completar la información ver la ficha técnica/hoja de especificaciones del producto. Aspecto físico: Estado físico a 20 °C: Aspecto: Color: Olor: Umbral olfativo: Volatilidad: Temperatura de ebullición a presión atmosférica: Presión de vapor a 20 °C: Presión de vapor a 50 °C: Tasa de evaporación a 20 °C: Caracterización del producto: Densidad a 20 °C: Densidad relativa a 20 °C: Viscosidad dinámica a 20 °C: *No relevante debido a
+<<<FRAGMENTO>>>
+[5] Fabricante: CORLANC S.A.S (marca: CORONA) | Producto: PINTURA TOTAL | Versión: 7 | Carpeta: FDS 2021 | Documento: FDS EVALUADAS/FDS 2021/FDS 49 - PINTURA TOTAL - CORONA .pdf | Página: 4 | Sección 8: Controles de exposición / protección personal
+# SECCIÓN 8: CONTROLES DE EXPOSICIÓN/PROTECCIÓN PERSONAL
+
+<!-- Start of picture text -->
+8.1  Parámetros de control:<br><!-- End of picture text -->
+
+Sustancias cuyos valores límite de exposición profesional han de controlarse en el ambiente de trabajo:
+
+<!-- Start of picture text -->
+OSHA (Tablas Z):<br><!-- End of picture text -->
+
+![imagen pág. 4](images/FDS_49_-_PINTURA_TOTAL_-_CORONA_.pdf-0004-12.png)
+> Imagen (pág. 4). OCR automático, revisar: «Identificación Valores límite ambientales Dioxido de titanio (diámetro aerodinámico < 10 um) 8-hour TWA PEL 15 mg/m? 67 [Ceiling Values - TWA CAS: 13463-67-7 en ACGIH: Identificación Valores límite ambientales Piedra caliza [TIV-TWA 10 mg/m? CAS: 1317-65-3 [Tuv-STEL [20 mg/m, Caolin [Tuv-TWA 2 mg/m [CAS: 1332-58-7 [Tuv-sTEL Dioxido de titanio (diámetro aerodinámico < 10 um) [TuV-TWA 10 mg/m CAS: 13463-67-7. FTLV-STEL»
+<<<FRAGMENTO>>>
+[6] Fabricante: CORLANC S.A.S (marca: CORONA) | Producto: PINTURA TOTAL | Versión: 7 | Carpeta: FDS 2021 | Documento: FDS EVALUADAS/FDS 2021/FDS 49 - PINTURA TOTAL - CORONA .pdf | Página: 6-7 | Sección 10: Estabilidad y reactividad
+# SECCIÓN 10: ESTABILIDAD Y REACTIVIDAD
+
+<!-- Start of picture text -->
+Choque y fricción  Contacto con el aire  Calentamiento  Luz Solar  Humedad<br>| No aplicable  No aplicable  No aplicable  No aplicable  No aplicable<br>10.5 Materiales incompatibles:<br>Ácidos  Agua  Materias comburentes  Materias combustibles  Otros<br>Evitar ácidos fuertes  No aplicable  No aplicable  No aplicable  Evitar álcalis o bases fuertes<br><!-- End of picture text -->
+
+## **10.6 Productos de descomposición peligrosos:**
+
+Ver epígrafe 10.3, 10.4 y 10.5 de la FDS para conocer los productos de descomposición específicamente. En dependencia de las condiciones de descomposición, como consecuencia de la misma pueden liberarse mezclas complejas de sustancias químicas: dióxido de carbono (CO2), monóxido de carbono y otros compuestos orgánicos.
+
+- CONTINÚA EN LA SIGUIENTE PÁGINA -
+
+Emisión: 04/03/2019            Revisión: 26/10/2021            Versión: 7 (sustituye a 6)
+
+**Página 6/10**
+
+Ficha de datos de seguridad según Decreto 1496 de 2018
+
+**PINTURA TOTAL**",[1] PINTURA TOTAL p.2 s.3*; [2] PINTURA TOTAL p.6 s.9*; [3] PINTURA TOTAL p.5 s.9; [4] PINTURA TOTAL p.4 s.8; [5] PINTURA TOTAL p.4 s.8; [6] PINTURA TOTAL p.6 s.10,0.0,0.75,1.0,,,
+Q10,B_k6,6,integracion,"Para el ZINC PRIMER 10844 GRIS PARTE A de International AkzoNobel, ¿qué peligro para el medio acuático declara y cómo se clasifica para el transporte (número ONU, clase y grupo de embalaje)?","Para el ZINC PRIMER 10844 GRIS PARTE A de International AkzoNobel, declara peligro para el medio acuático en las categorías 2 y 2 [6]. Para el transporte, se clasifica con el número ONU 3082, clase 9 y grupo de embalaje III [1].","El ZINC PRIMER 10844 GRIS PARTE A declara H411 (tóxico para los organismos acuáticos, con efectos nocivos duraderos) con palabra de advertencia 'Atención'; para el transporte es UN3082, sustancia líquida peligrosa para el medio ambiente, N.E.P. (ácido silícico, etil éster), clase 9, grupo de embalaje III.","[1] Fabricante: Compañía Global de Pinturas S.A.S (marca: INTERNATIONAL AKSONOBEL) | Producto: ZINC PRIMER 10844 GRIS PARTE A | Versión: 1 | Carpeta: FDS 2024 | Documento: FDS EVALUADAS/FDS 2024/FDS 84 - ZINC PRIMER 10844 GRIS PARTE A - INTERNATIONAL - AKSONOBEL.pdf | Página: 13 | Sección 14: Información relativa al transporte
+### **Sección 14. Información relativa al transporte**
+
+||**Carretera - NTC 1692**|**Marítimo - IMDG**|**Aéreo - IATA**|
+|---|---|---|---|
+|**Número ONU**|UN3082|UN3082|UN3082|
+|**Designación**<br>**oficial de**<br>**transporte de las**<br>**Naciones Unidas**|SUSTANCIA LÍQUIDA<br>PELIGROSA PARA EL<br>MEDIO AMBIENTE, N.E.P.<br>(ácido silícico, etil éster)|SUSTANCIA LÍQUIDA<br>PELIGROSA PARA EL<br>MEDIO AMBIENTE, N.E.P.<br>(ácido silícico, etil éster)|ENVIRONMENTALLY<br>HAZARDOUS SUBSTANCE,<br>LIQUID, N.O.S. (Silicic acid,<br>ethyl ester)|
+|**Clase(s) de**<br>**peligro para el**<br>**transporte**|9|9|9|
+|**Grupo de embalaje**|III|III|III|
+|**Peligros para el**<br>**medio ambiente**|Sí.|ácido silícico, etil éster<br>Sustancias contaminantes<br>marinas:|Yes.|
+<<<FRAGMENTO>>>
+[2] Fabricante: Compañía Global de Pinturas S.A.S (marca: INTERNATIONAL AKSONOBEL) | Producto: ZINC PRIMER 10844 GRIS PARTE A | Versión: 1 | Carpeta: FDS 2024 | Documento: FDS EVALUADAS/FDS 2024/FDS 84 - ZINC PRIMER 10844 GRIS PARTE A - INTERNATIONAL - AKSONOBEL.pdf | Página: 13-14 | Sección 14: Información relativa al transporte
+### **Sección 14. Información relativa al transporte**
+
+|**_Fecha de emisión/Fecha de revisión_**|**:**_6-5-2024_|**_Versión_**<br>**_:_**_1_|
+|---|---|---|
+|**_Fecha de la emisión anterior_**|**_:_**_No hay validación anterior_|_13/15_|
+
+![imagen pág. 13](images/FDS_84_-_ZINC_PRIMER_10844_GRIS_PARTE_A_-_INTERNATIONAL_-_AKSONOBEL.pdf-0013-10.png)
+> Imagen (pág. 13). Sin texto legible por OCR; contenido gráfico no interpretado.
+
+|_ZINC PRIMER 10844 GRIS PARTE A_||
+|---|---|
+|**Sección 14. Infor**|**mación relativa al transporte**|
+|**Transporte a granel según**<br>**los instrumentos de la IMO**|**:** No disponible.|
+<<<FRAGMENTO>>>
+[3] Fabricante: Compañía Global de Pinturas S.A.S (marca: INTERNATIONAL AKSONOBEL) | Producto: ZINC PRIMER 10844 GRIS PARTE A | Versión: 1 | Carpeta: FDS 2024 | Documento: FDS EVALUADAS/FDS 2024/FDS 84 - ZINC PRIMER 10844 GRIS PARTE A - INTERNATIONAL - AKSONOBEL.pdf | Página: 11-12 | Sección 12: Información ecológica
+**Sección 12. Información ecológica**
+
+|**Toxicidad**||||
+|---|---|---|---|
+|**_Fecha de emisión/Fecha de revisión_**|**:**_6-5-2024_|**_Versión_**<br>**_:_**_1_||
+|**_Fecha de la emisión anterior_**|**_:_**_No hay validación anterior_|_11/15_||
+
+_ZINC PRIMER 10844 GRIS PARTE A_
+
+### **Sección 12. Información ecológica**
+<<<FRAGMENTO>>>
+[4] Fabricante: Compañía Global de Pinturas S.A.S (marca: INTERNATIONAL AKSONOBEL) | Producto: ZINC PRIMER 10844 GRIS PARTE A | Versión: 1 | Carpeta: FDS 2024 | Documento: FDS EVALUADAS/FDS 2024/FDS 84 - ZINC PRIMER 10844 GRIS PARTE A - INTERNATIONAL - AKSONOBEL.pdf | Página: 11-13 | Sección 12: Información ecológica
+**Sección 12. Información ecológica**
+
+|**Nombre del producto o**<br>**ingrediente**|**LogPow**|**FBC**|**Potencial**|
+|---|---|---|---|
+|propan-2-ol<br>1-metoxipropan-2-ol<br>ortosilicato de tetraetilo|0.05<br><1<br>3.18|-<br>-<br>-|bajo<br>bajo<br>bajo|
+|tolueno<br>acetato de 1-metil-<br>2-metoxietilo<br>cloruro de cinc|2.73<br>1.2<br>-|90<br>-<br>60960|bajo<br>bajo<br>alta|
+
+![imagen pág. 12](images/FDS_84_-_ZINC_PRIMER_10844_GRIS_PARTE_A_-_INTERNATIONAL_-_AKSONOBEL.pdf-0012-07.png)
+> Imagen (pág. 12). Sin texto legible por OCR; contenido gráfico no interpretado.
+
+**_Fecha de emisión/Fecha de revisión_ :** _6-5-2024_ **_Versión :_** _1_ **_Fecha de la emisión anterior :_** _No hay validación anterior 12/15_
+
+_ZINC PRIMER 10844 GRIS PARTE A_
+
+### **Sección 12. Información ecológica**
+
+**<mark>Movilidad en el suelo</mark> Coeficiente de partición :** No disponible. **tierra/agua (KOC)**
+
+- **Otros efectos adversos :** No se conocen efectos significativos o riesgos críticos.
+<<<FRAGMENTO>>>
+[5] Fabricante: Compañía Global de Pinturas S.A.S (marca: INTERNATIONAL AKSONOBEL) | Producto: ZINC PRIMER 10844 GRIS PARTE A | Versión: 1 | Carpeta: FDS 2024 | Documento: FDS EVALUADAS/FDS 2024/FDS 84 - ZINC PRIMER 10844 GRIS PARTE A - INTERNATIONAL - AKSONOBEL.pdf | Página: 13 | Sección 14: Información relativa al transporte
+### **Sección 14. Información relativa al transporte**
+
+||**Carretera - NTC 1692**|**Marítimo - IMDG**|**Aéreo - IATA**|
+|---|---|---|---|
+|**Información adicion**<br>**IMDG**<br>**IATA**|**Programas de e**<br>Este producto no<br>tamaños ≤5 l o ≤5<br>generales 4.1.1.1,<br>This product is no<br>or ≤5 kg, provided<br>5.0.2.6.1.1 and 5.<br>**al**<br>**:**<br>**:**|**mergencia**F-A, S-F<br>está regulado como mercancía p<br>kg, siempre y cuando los envas<br>4.1.1.2 y de 4.1.1.4 a 4.1.1.8.<br>t regulated as a dangerous good<br>the packagings meet the genera<br>0.2.8.|eligrosa cuando se transporta en<br>es cumplan las disposiciones<br>when transported in sizes of ≤5 L<br>l provisions of 5.0.2.4.1,|
+
+- **Precauciones particulares : Transporte dentro de las premisas de usuarios:** siempre transporte en **para los usuarios** recipientes cerrados que estén verticales y seguros. Asegurar que las personas que transportan el producto conocen qué hacer en caso de un accidente o derrame.
+
+|**_Fecha de emisión/Fecha de revisión_**|**:**_6-5-2024_|**_Versión_**<br>**_:_**_1_|
+|---|---|---|
+|**_Fecha de la emisión anterior_**|**_:_**_No hay validación anterior_|_13/15_|
+<<<FRAGMENTO>>>
+[6] Fabricante: Compañía Global de Pinturas S.A.S (marca: INTERNATIONAL AKSONOBEL) | Producto: ZINC PRIMER 10844 GRIS PARTE A | Versión: 1 | Carpeta: FDS 2024 | Documento: FDS EVALUADAS/FDS 2024/FDS 84 - ZINC PRIMER 10844 GRIS PARTE A - INTERNATIONAL - AKSONOBEL.pdf | Página: 1-2 | Sección 2: Identificación de los peligros
+|**Sección 2. Identif**<br>~~S~~|**icación de los peligros**<br>~~S]~~|
+
+|**Clasificación de la**<br>**sustancia o de la mezcla**<br>|IRRITACIÓN CUTÁNEA - Categoría 3<br>IRRITACIÓN OCULAR - Categoría 2A<br>TOXICIDAD PARA LA REPRODUCCIÓN - Categoría 2<br>TOXICIDAD ESPECÍFICA EN DETERMINADOS ÓRGANOS (STOT) -<br>EXPOSICIÓN ÚNICA (Efectos narcóticos) - Categoría 3<br>PELIGRO ACUÁTICO A CORTO PLAZO (AGUDO) - Categoría 2<br>PELIGRO ACUÁTICO A LARGO PLAZO (CRÓNICO) - Categoría 2<br>**:**<br>|
+|**Elementos de las etiquetas**|**del SGA**|
+|**Pictogramas de peligro**|**:**<br>O~~o~~|
+|**Palabra de advertencia**|**:** Atención|
+|**_Fecha de emisión/Fecha de revisió_**<br>**_Fecha de la emisión anterior_**|**_n_**<br>**:**_6-5-2024_<br>**_:_**_No hay validación anterior_<br>**_Versión_**<br>**_:_**_1_<br>_1/15_|
+
+_ZINC PRIMER 10844 GRIS PARTE A_
+
+### **Sección 2. Identificación de los peligros**",[1] ZINC PRIMER 10844 GRIS PARTE A p.13 s.14*; [2] ZINC PRIMER 10844 GRIS PARTE A p.13 s.14; [3] ZINC PRIMER 10844 GRIS PARTE A p.11 s.12; [4] ZINC PRIMER 10844 GRIS PARTE A p.11 s.12; [5] ZINC PRIMER 10844 GRIS PARTE A p.13 s.14; [6] ZINC PRIMER 10844 GRIS PARTE A p.1 s.2*,0.5,1.0,1.0,,,

@@ -1,0 +1,52 @@
+{
+ "sistema": "Linux-7.0.0-1017-aws-x86_64-with-glibc2.39",
+ "python": "3.12.3",
+ "cpu": "x86_64",
+ "nucleos_logicos": 2,
+ "ram_gb": 8.1,
+ "aws": {
+  "instance_type": "m7a.large",
+  "zona": "us-east-1c",
+  "ami": "ami-08b275ac6cc5dbefb"
+ },
+ "ollama_version": "0.40.16",
+ "modelos": [
+  {
+   "nombre": "qwen2.5-3b-rag:latest",
+   "tamano_gb": 1.93,
+   "cuantizacion": "Q4_K_M",
+   "parametros": "3.1B"
+  },
+  {
+   "nombre": "granite-embedding:278m",
+   "tamano_gb": 0.56,
+   "cuantizacion": "F16",
+   "parametros": "277.45M"
+  }
+ ],
+ "modelos_cargados": [],
+ "consumo": {
+  "A_k3": {
+   "consultas": 12,
+   "seg_medio_por_respuesta": 27.98,
+   "tokens_entrada_medio": 1687,
+   "tokens_salida_medio": 63,
+   "seg_evaluacion_ragas_total": 1861.2
+  },
+  "B_k6": {
+   "consultas": 12,
+   "seg_medio_por_respuesta": 42.21,
+   "tokens_entrada_medio": 3126,
+   "tokens_salida_medio": 63,
+   "seg_evaluacion_ragas_total": 3185.7
+  },
+  "indexado": {
+   "n_fragmentos": 5315,
+   "segundos_embeddings": 5044.4
+  },
+  "extraccion": {
+   "documentos": 101,
+   "segundos_total": 2249.7
+  }
+ }
+}

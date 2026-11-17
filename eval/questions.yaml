@@ -1,0 +1,144 @@
+# Conjunto FIJO de 12 preguntas de evaluación (no usar para desarrollo; ver dev_questions.yaml).
+#   6 directa · 4 integracion (2 secciones o comparación de productos/versiones) · 2 sin_respuesta
+#   Secciones cubiertas: 2, 3, 5, 8, 9, 14 (+ 11/otras en sin_respuesta)
+#
+# Referencias tomadas del texto nativo de cada PDF (raw_pages.json); "pagina" = página del PDF.
+# ANTES DE EVALUAR: cada integrante abre el PDF en esa página, confirma el dato y escribe su nombre en
+# verificado_por. Si algo no coincide, corrija referencia/fragmento (no el sistema).
+# Las referencias NO se usan en el índice ni en el prompt del generador.
+#
+# Validar con:  python -m src.evaluate check
+
+- id: Q01
+  tipo: directa
+  pregunta: "¿Cuál es el punto de inflamación del ESMALTE TOP QUALITY NEGRO 1772 de Pintuco?"
+  productos: [fds_2019__fds_35_esmalte_top_quality_negro_1772_pintuco]
+  secciones: [9]
+  referencia: "El punto de inflamación del ESMALTE TOP QUALITY NEGRO 1772 (Pintuco) es 55 ºC; su temperatura de auto-inflamación es 200 ºC."
+  evidencia:
+    - {doc_id: fds_2019__fds_35_esmalte_top_quality_negro_1772_pintuco, pagina: 6, seccion: 9,
+       fragmento: "Inflamabilidad: Punto de inflamación: 55 ºC ... Temperatura de auto-inflamación: 200 ºC"}
+  verificado_por: "Sofia Londoño"
+
+- id: Q02
+  tipo: directa
+  pregunta: "¿Cuál es el número ONU para el transporte del PINTUTRAFICO ALQUIDICO AMARILLO 659?"
+  productos: [fds_2018__fds_8_pintutrafico_alquidico_amarillo_659_10012970_10015685_]
+  secciones: [14]
+  referencia: "El número ONU del PINTUTRAFICO ALQUIDICO AMARILLO 659 (Pintuco) es UN1263."
+  evidencia:
+    - {doc_id: fds_2018__fds_8_pintutrafico_alquidico_amarillo_659_10012970_10015685_, pagina: 9, seccion: 14,
+       fragmento: "Número ONU: UN1263"}
+  verificado_por: "Sofia Londoño"
+
+- id: Q03
+  tipo: directa
+  pregunta: "¿En qué concentración contiene dióxido de titanio el VINILTEX PRO 650 BLANCO y cuál es su número CAS?"
+  productos: [fds_2021__fds_45_viniltex_pro_650_blanco_pintuco]
+  secciones: [3]
+  referencia: "El VINILTEX PRO 650 BLANCO (Pintuco) contiene dióxido de titanio (CAS 13463-67-7) en una concentración de 10 - <25 %."
+  evidencia:
+    - {doc_id: fds_2021__fds_45_viniltex_pro_650_blanco_pintuco, pagina: 2, seccion: 3,
+       fragmento: "CAS: 13463-67-7 Dióxido de titanio 10 - <25 %"}
+  verificado_por: "Sofia Londoño"
+
+- id: Q04
+  tipo: directa
+  pregunta: "¿Qué protección respiratoria indica la FDS de SIGMADUR ONE BUFF 3142 de PPG?"
+  productos: [fds_2022__fds_65_sigmadur_one_buff_3142_ppg]
+  secciones: [8]
+  referencia: "La FDS de SIGMADUR ONE BUFF 3142 (PPG) indica que la selección del respirador debe basarse en los niveles de exposición, los riesgos del producto y los límites de trabajo del respirador; si los trabajadores están expuestos por encima del límite de exposición deben usar respiradores certificados, y recomienda un respirador purificador de aire o con suministro de aire, ajustado apropiadamente y conforme a normas aprobadas, si una evaluación de riesgo indica que es necesario."
+  evidencia:
+    - {doc_id: fds_2022__fds_65_sigmadur_one_buff_3142_ppg, pagina: 8, seccion: 8,
+       fragmento: "Use un respirador purificador de aire o con suministro de aire, que esté ajustado apropiadamente y que cumpla con las normas aprobadas si una evaluación de riesgo indica que es necesario."}
+  verificado_por: "Mateo Arrubla"
+
+- id: Q05
+  tipo: directa
+  pregunta: "¿Qué medios de extinción recomienda la FDS del ESMALTE PROTEKLAND BLANCO 2 en 1 de Pintuland y cuál no se recomienda?"
+  productos: [fds_2023__fds_78_esmalte_protekland_blanco_2_en_1_pintuland]
+  secciones: [5]
+  referencia: "Para el ESMALTE PROTEKLAND BLANCO 2 en 1 (Pintuland) se recomienda emplear preferentemente extintores de polvo polivalente (polvo ABC) y, alternativamente, espuma física o extintores de dióxido de carbono (CO2); no se recomienda emplear agua a chorro."
+  evidencia:
+    - {doc_id: fds_2023__fds_78_esmalte_protekland_blanco_2_en_1_pintuland, pagina: 3, seccion: 5,
+       fragmento: "Emplear preferentemente extintores de polvo polivalente (polvo ABC), alternativamente utilizar espuma física o extintores de dióxido de carbono (CO₂). ... NO SE RECOMIENDA emplear agua a chorro"}
+  verificado_por: "Mateo Arrubla"
+
+- id: Q06
+  tipo: directa
+  pregunta: "¿Qué indicaciones de peligro (frases H) tiene el Sikafloor-161 Part A Level Comercial de Sika?"
+  productos: [fds_2023__fds_73_sikafloor_161_part_a_level_comercial_sika]
+  secciones: [2]
+  referencia: "El Sikafloor-161 Part A Level Comercial (Sika) tiene las indicaciones H227 (líquido combustible), H315 (provoca irritación cutánea), H317 (puede provocar una reacción cutánea alérgica), H319 (provoca irritación ocular grave) y H411 (tóxico para los organismos acuáticos, con efectos nocivos duraderos)."
+  evidencia:
+    - {doc_id: fds_2023__fds_73_sikafloor_161_part_a_level_comercial_sika, pagina: 2, seccion: 2,
+       fragmento: "Indicaciones de peligro : H227 Líquido combustible. H315 Provoca irritación cutánea. H317 Puede provocar una reacción cutánea alérgica. H319 Provoca irritación ocular grave. H411 Tóxico para los organismos acuáticos"}
+  verificado_por: "Mateo Arrubla"
+
+- id: Q07
+  tipo: integracion
+  pregunta: "En el ESMALTE LINEA CLASICA BLANCO de Pintuland, ¿en qué concentración aparece el etilbenceno en la composición y cuál es su límite TLV-TWA según la sección de controles de exposición?"
+  productos: [fds_2022__fds_55_esmalte_linea_clasica_blanco_pintuland]
+  secciones: [3, 8]
+  referencia: "El ESMALTE LINEA CLASICA BLANCO (Pintuland) contiene etilbenceno (CAS 100-41-4) en 0,2 - <2,5 %; su límite TLV-TWA (ACGIH) es 20 ppm (además indica un PEL 8-hour TWA de 100 ppm, 435 mg/m³)."
+  evidencia:
+    - {doc_id: fds_2022__fds_55_esmalte_linea_clasica_blanco_pintuland, pagina: 2, seccion: 3,
+       fragmento: "0,2 - <2,5 % CAS: 100-41-4 Etilbenceno"}
+    - {doc_id: fds_2022__fds_55_esmalte_linea_clasica_blanco_pintuland, pagina: 5, seccion: 8,
+       fragmento: "Etilbenceno 8-hour TWA PEL 100 ppm 435 mg/m³ ... ACGIH (2022): ... Etilbenceno TLV-TWA 20 ppm"}
+  verificado_por: "Leonardo Diazgranados"
+
+- id: Q08
+  tipo: integracion
+  pregunta: "Compara el punto de inflamación de la PINTULACA BLANCO 7519 y del ESMALTE PINTULUX ALUMINIO de Pintuco. ¿Cuál es más inflamable?"
+  productos: [fds_2019__fds_32_pintulaca_blanco_7519_pintuco, fds_2020__fds_37_esmalte_pintulux_aluminio_pintuco]
+  secciones: [9]
+  referencia: "La PINTULACA BLANCO 7519 tiene punto de inflamación de 20 ºC y el ESMALTE PINTULUX ALUMINIO de 56 ºC; la Pintulaca, con el punto de inflamación más bajo, es la más inflamable."
+  evidencia:
+    - {doc_id: fds_2019__fds_32_pintulaca_blanco_7519_pintuco, pagina: 6, seccion: 9,
+       fragmento: "Punto de inflamación: 20 ºC"}
+    - {doc_id: fds_2020__fds_37_esmalte_pintulux_aluminio_pintuco, pagina: 6, seccion: 9,
+       fragmento: "Punto de inflamación: 56 ºC"}
+  verificado_por: "Leonardo Diazgranados"
+
+- id: Q09
+  tipo: integracion
+  pregunta: "¿Cómo cambió la concentración de compuestos orgánicos volátiles (C.O.V.) de la PINTURA TOTAL de Corona entre la ficha de 2021 y la de 2023?"
+  productos: [fds_2021__fds_49_pintura_total_corona, fds_2023__fds_76_pintura_total_corona]
+  secciones: [8]
+  referencia: "En la ficha de 2021 (versión 7) la PINTURA TOTAL de Corona declara una concentración de C.O.V. a 20 ºC de 14,68 g/L, y en la de 2023 (versión 11) de 40,18 g/L; en ambas el contenido de compuestos orgánicos volátiles es 1,01 % en peso."
+  evidencia:
+    - {doc_id: fds_2021__fds_49_pintura_total_corona, pagina: 5, seccion: 8,
+       fragmento: "Compuestos orgánicos volátiles: 1,01 % peso Concentración C.O.V. a 20 ºC: 14,68 kg/m³ (14,68 g/L)"}
+    - {doc_id: fds_2023__fds_76_pintura_total_corona, pagina: 5, seccion: 8,
+       fragmento: "Compuestos orgánicos volátiles: 1,01 % peso Concentración C.O.V. a 20 ºC: 40,18 kg/m³ (40,18 g/L)"}
+  verificado_por: "Camilo Cometa"
+
+- id: Q10
+  tipo: integracion
+  pregunta: "Para el ZINC PRIMER 10844 GRIS PARTE A de International AkzoNobel, ¿qué peligro para el medio acuático declara y cómo se clasifica para el transporte (número ONU, clase y grupo de embalaje)?"
+  productos: [fds_2024__fds_84_zinc_primer_10844_gris_parte_a_international_aksonobe]
+  secciones: [2, 14]
+  referencia: "El ZINC PRIMER 10844 GRIS PARTE A declara H411 (tóxico para los organismos acuáticos, con efectos nocivos duraderos) con palabra de advertencia 'Atención'; para el transporte es UN3082, sustancia líquida peligrosa para el medio ambiente, N.E.P. (ácido silícico, etil éster), clase 9, grupo de embalaje III."
+  evidencia:
+    - {doc_id: fds_2024__fds_84_zinc_primer_10844_gris_parte_a_international_aksonobe, pagina: 2, seccion: 2,
+       fragmento: "H411 - Tóxico para los organismos acuáticos, con efectos nocivos duraderos."}
+    - {doc_id: fds_2024__fds_84_zinc_primer_10844_gris_parte_a_international_aksonobe, pagina: 13, seccion: 14,
+       fragmento: "SUSTANCIA LÍQUIDA PELIGROSA PARA EL MEDIO AMBIENTE, N.E.P. (ácido silícico, etil éster) 9 III ... UN3082"}
+  verificado_por: "Camilo Cometa"
+
+- id: Q11
+  tipo: sin_respuesta
+  pregunta: "¿Cuál es el rendimiento en metros cuadrados por galón del VINILTEX PRO 650 BLANCO de Pintuco?"
+  productos: [fds_2021__fds_45_viniltex_pro_650_blanco_pintuco]
+  secciones: [9]
+  referencia: ""
+  motivo_sin_respuesta: "El rendimiento es un dato de la ficha técnica, no de la FDS; se buscó 'rendimiento', 'm2', 'm²' y 'galón' en el texto y el Markdown de la FDS sin resultados."
+
+- id: Q12
+  tipo: sin_respuesta
+  pregunta: "¿Cuál es el punto de inflamación del esmalte ProClassic de Sherwin-Williams?"
+  productos: []
+  secciones: [9]
+  referencia: ""
+  motivo_sin_respuesta: "Ni el fabricante Sherwin-Williams ni el producto ProClassic están en el corpus de 101 FDS (búsqueda de 'Sherwin' sin resultados)."
