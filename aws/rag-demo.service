@@ -1,0 +1,21 @@
+# Servicio systemd de la demo web (Gradio) en el puerto 7860.
+# Instalación en la EC2:
+#   sudo cp aws/rag-demo.service /etc/systemd/system/
+#   sudo systemctl daemon-reload && sudo systemctl enable --now rag-demo
+# Abrir además el puerto 7860 (TCP) en el Security Group.
+[Unit]
+Description=RAG FDS demo web (Gradio)
+After=network-online.target ollama.service
+Wants=network-online.target ollama.service
+
+[Service]
+User=ubuntu
+WorkingDirectory=/home/ubuntu/rag-fds
+ExecStart=/home/ubuntu/rag-fds/.venv/bin/python app.py
+Restart=on-failure
+RestartSec=5
+Environment=PYTHONUNBUFFERED=1
+Environment=GRADIO_ANALYTICS_ENABLED=False
+
+[Install]
+WantedBy=multi-user.target
