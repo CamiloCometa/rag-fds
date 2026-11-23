@@ -2,13 +2,26 @@
 
 **Grupo:** Sofia Londoño, Mateo Arrubla, Leonardo Diazgranados y Camilo Cometa · Parcial final de NLP
 
-Sistema de generación aumentada por recuperación (RAG) 100 % local y open source para consultar las FDS del
+Sistema de generación aumentada por recuperación (RAG) 100 % open source y autoalojado (Ollama en una instancia AWS EC2, sin APIs externas) para consultar las FDS del
 sector de pinturas suministradas en el parcial: extrae los PDF a Markdown con trazabilidad (documento, página,
 sección, imágenes), indexa fragmentos por sección, responde con citas verificables e indica cuando la evidencia es
 insuficiente. Incluye la evaluación con RAGAS (Faithfulness, Context Precision, Context Recall) comparando
 top-k = 3 frente a top-k = 6 con un LLM evaluador local.
 
 ## 1. Arquitectura
+
+**Diagrama de componentes** (qué hace cada script y cómo se conectan con Ollama):
+
+![Diagrama de componentes](docs/diagramas/componentes.png)
+
+**Diagrama de despliegue en AWS** (instancia EC2, Security Group, IP elástica y servicios):
+
+![Diagrama de despliegue en AWS](docs/diagramas/despliegue_aws.png)
+
+La demo web queda publicada en `http://100.31.25.27:7860` mientras el Learner Lab y la instancia están encendidos
+(servicio `aws/rag-demo.service`).
+
+Flujo de datos detallado:
 
 ```
 data/pdfs/<carpeta>/*.pdf   (p. ej. FDS 2018/, FDS 2019/ …)
@@ -40,7 +53,7 @@ output/eval/ (results.csv/json, summary.csv/md, sin_respuesta.csv, casos_revisio
 | Recuperación | Híbrida: denso + BM25, fusión RRF (k=60) | BM25 captura coincidencias exactas (nombres de producto, N.º CAS, frases H/P, N.º ONU) que un modelo de embeddings pequeño puede perder; RRF no requiere calibrar escalas. Configurable (`retrieval.mode`). |
 | Almacén vectorial | NumPy (búsqueda exacta) | Con decenas de FDS (miles de fragmentos) la búsqueda exacta es instantánea; no hay servidor que operar y es reproducible. |
 | Generador | `qwen2.5-3b-rag` = `qwen2.5:3b-instruct` (Q4_K_M, 1,9 GB) con 2 hilos y contexto 8192 (`aws/modelos_cpu.sh`) | Cabe en 8 GB sin GPU junto con el modelo de embeddings; temperatura 0 y semilla fija. Con GPU: `qwen2.5:7b-instruct`. |
-| Evaluador RAGAS | mismo modelo en Ollama (API compatible OpenAI) con `llm_factory` | Sin APIs pagas; un solo modelo cargado ahorra memoria. Limitación: un juez de 7B es ruidoso y puede favorecer a su propio estilo; si el hardware lo permite, usar un juez distinto/mayor (p. ej. `qwen2.5:14b`) y mantenerlo igual en ambas configuraciones. |
+| Evaluador RAGAS | mismo modelo en Ollama (API compatible OpenAI) con `llm_factory` | Sin APIs pagas; un solo modelo cargado ahorra memoria. Limitación: un juez de 3B es ruidoso y puede favorecer a su propio estilo; si el hardware lo permite, usar un juez distinto/mayor (p. ej. `qwen2.5:14b`) y mantenerlo igual en ambas configuraciones. |
 
 Todos los parámetros están en `config.yaml`.
 
@@ -192,7 +205,7 @@ Prueba de integración sin modelos (FDS sintéticas + Ollama simulado): `bash te
   `summary.csv/md` (promedio y casos válidos por métrica y configuración), `sin_respuesta.csv` (revisión de Q11–Q12),
   `casos_revision.csv` (2 casos de menor puntaje + 1 adicional, con columnas para comprobar citas contra el PDF),
   `evaluator_info.json` (versiones, modelos y parámetros).
-* Los puntajes de un juez local de 7B orientan la comparación pero requieren revisión manual; 10 preguntas no
+* Los puntajes de un juez local de 3B (qwen2.5:3b) orientan la comparación pero requieren revisión manual; 10 preguntas no
   demuestran superioridad general de una configuración.
 
 ## 7. Limitaciones y mitigaciones
@@ -234,7 +247,9 @@ src/index.py             embeddings e índice
 src/rag.py               recuperación, generación y citas (CLI)
 src/evaluate.py          evaluación RAGAS
 src/hardware.py          hardware y consumo
-app.py                   demo web (opcional)
+app.py                   demo web (Gradio, puerto 7860)
+aws/                     instalación en EC2 y servicio systemd de la demo
+docs/diagramas/          diagramas de componentes y de despliegue
 eval/questions.yaml      12 preguntas de evaluación
 eval/dev_questions.yaml  preguntas de desarrollo
 data/manifest.csv        procedencia y versión de cada FDS
